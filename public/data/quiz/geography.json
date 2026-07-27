@@ -1,0 +1,542 @@
+[
+  {
+    "id": "geography_001",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "tags": [
+      "oceans",
+      "earth"
+    ]
+  },
+  {
+    "id": "geography_002",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctAnswer": "Canberra",
+    "explanation": "Canberra was selected as Australia's capital as a compromise between Sydney and Melbourne.",
+    "tags": [
+      "capitals",
+      "australia"
+    ]
+  },
+  {
+    "id": "geography_003",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Kalahari Desert",
+      "Sahara Desert"
+    ],
+    "correctAnswer": "Sahara Desert",
+    "explanation": "The Sahara is the world's largest hot desert, covering much of North Africa.",
+    "tags": [
+      "deserts",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography_004",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which continent is home to the Amazon Rainforest?",
+    "options": [
+      "Africa",
+      "South America",
+      "Asia",
+      "North America"
+    ],
+    "correctAnswer": "South America",
+    "explanation": "Most of the Amazon Rainforest lies within South America, primarily in Brazil.",
+    "tags": [
+      "continents",
+      "rainforests"
+    ]
+  },
+  {
+    "id": "geography_005",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which river is the longest in South America?",
+    "options": [
+      "Paraná River",
+      "Orinoco River",
+      "Amazon River",
+      "Madeira River"
+    ],
+    "correctAnswer": "Amazon River",
+    "explanation": "The Amazon River is the longest river in South America and carries the greatest volume of water.",
+    "tags": [
+      "rivers",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography_006",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": [
+      "Andes",
+      "Rocky Mountains",
+      "Alps",
+      "Himalayas"
+    ],
+    "correctAnswer": "Himalayas",
+    "explanation": "Mount Everest is part of the Himalayan mountain range on the Nepal-China border.",
+    "tags": [
+      "mountains",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography_007",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which country has the largest population in the world?",
+    "options": [
+      "India",
+      "China",
+      "United States",
+      "Indonesia"
+    ],
+    "correctAnswer": "India",
+    "explanation": "India is currently the world's most populous country.",
+    "tags": [
+      "countries",
+      "population"
+    ]
+  },
+  {
+    "id": "geography_008",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which line divides the Earth into the Northern and Southern Hemispheres?",
+    "options": [
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "Equator",
+      "International Date Line"
+    ],
+    "correctAnswer": "Equator",
+    "explanation": "The Equator is an imaginary line at 0° latitude separating the two hemispheres.",
+    "tags": [
+      "latitude",
+      "earth"
+    ]
+  },
+  {
+    "id": "geography_009",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which country is famous for the fjords along its coastline?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
+    "correctAnswer": "Norway",
+    "explanation": "Norway is renowned for its deep, glacier-carved fjords.",
+    "tags": [
+      "europe",
+      "landforms"
+    ]
+  },
+  {
+    "id": "geography_010",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which continent contains the most countries?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "Africa has 54 internationally recognized sovereign countries, the most of any continent.",
+    "tags": [
+      "continents",
+      "countries"
+    ]
+  },
+  {
+    "id": "geography_011",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which sea separates Europe and Africa?",
+    "options": [
+      "Black Sea",
+      "Mediterranean Sea",
+      "Red Sea",
+      "Arabian Sea"
+    ],
+    "correctAnswer": "Mediterranean Sea",
+    "explanation": "The Mediterranean Sea lies between southern Europe and northern Africa.",
+    "tags": [
+      "seas",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography_012",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known as the 'Aloha State'?",
+    "options": [
+      "Florida",
+      "California",
+      "Alaska",
+      "Hawaii"
+    ],
+    "correctAnswer": "Hawaii",
+    "explanation": "Hawaii is nicknamed the Aloha State because of the Hawaiian greeting 'aloha.'",
+    "tags": [
+      "usa",
+      "states"
+    ]
+  },
+  {
+    "id": "geography_013",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country contains the world's highest uninterrupted waterfall, Angel Falls?",
+    "options": [
+      "Peru",
+      "Brazil",
+      "Venezuela",
+      "Colombia"
+    ],
+    "correctAnswer": "Venezuela",
+    "explanation": "Angel Falls is located in Canaima National Park in southeastern Venezuela.",
+    "tags": [
+      "waterfalls",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography_014",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which river flows through the city of Budapest?",
+    "options": [
+      "Rhine",
+      "Danube",
+      "Seine",
+      "Po"
+    ],
+    "correctAnswer": "Danube",
+    "explanation": "The Danube River divides the historic cities of Buda and Pest.",
+    "tags": [
+      "rivers",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography_015",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which African country is completely surrounded by South Africa?",
+    "options": [
+      "Eswatini",
+      "Botswana",
+      "Lesotho",
+      "Namibia"
+    ],
+    "correctAnswer": "Lesotho",
+    "explanation": "Lesotho is a landlocked enclave entirely surrounded by South Africa.",
+    "tags": [
+      "africa",
+      "countries"
+    ]
+  },
+  {
+    "id": "geography_016",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which strait separates Asia from North America?",
+    "options": [
+      "Strait of Gibraltar",
+      "Bering Strait",
+      "Bosporus",
+      "Strait of Malacca"
+    ],
+    "correctAnswer": "Bering Strait",
+    "explanation": "The Bering Strait lies between Russia and Alaska, separating Asia and North America.",
+    "tags": [
+      "straits",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography_017",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country has the longest coastline in the world?",
+    "options": [
+      "Russia",
+      "Australia",
+      "Canada",
+      "Indonesia"
+    ],
+    "correctAnswer": "Canada",
+    "explanation": "Canada's extensive Arctic and Atlantic-Pacific coastlines make it the world's longest coastline.",
+    "tags": [
+      "countries",
+      "coastlines"
+    ]
+  },
+  {
+    "id": "geography_018",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Lake Baikal, the world's deepest freshwater lake, is located in which country?",
+    "options": [
+      "China",
+      "Mongolia",
+      "Russia",
+      "Kazakhstan"
+    ],
+    "correctAnswer": "Russia",
+    "explanation": "Lake Baikal in Siberia is the deepest and one of the oldest freshwater lakes on Earth.",
+    "tags": [
+      "lakes",
+      "russia"
+    ]
+  },
+  {
+    "id": "geography_019",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which mountain range forms a natural border between France and Spain?",
+    "options": [
+      "Alps",
+      "Carpathians",
+      "Pyrenees",
+      "Apennines"
+    ],
+    "correctAnswer": "Pyrenees",
+    "explanation": "The Pyrenees stretch between France and Spain across the Iberian Peninsula.",
+    "tags": [
+      "mountains",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography_020",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Iceland"
+    ],
+    "correctAnswer": "Finland",
+    "explanation": "Finland has over 180,000 lakes, earning it the nickname 'Land of a Thousand Lakes.'",
+    "tags": [
+      "europe",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography_021",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which river passes through the cities of Vienna, Bratislava, Budapest, and Belgrade?",
+    "options": [
+      "Rhine",
+      "Volga",
+      "Danube",
+      "Elbe"
+    ],
+    "correctAnswer": "Danube",
+    "explanation": "The Danube flows through more national capitals than any other river in the world.",
+    "tags": [
+      "rivers",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography_022",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country contains the Atacama Desert?",
+    "options": [
+      "Argentina",
+      "Chile",
+      "Peru",
+      "Bolivia"
+    ],
+    "correctAnswer": "Chile",
+    "explanation": "The Atacama Desert in northern Chile is one of the driest places on Earth.",
+    "tags": [
+      "deserts",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography_023",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "options": [
+      "Sardinia",
+      "Crete",
+      "Sicily",
+      "Cyprus"
+    ],
+    "correctAnswer": "Sicily",
+    "explanation": "Sicily, an autonomous region of Italy, is the Mediterranean's largest island.",
+    "tags": [
+      "islands",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "geography_024",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which capital city is located on the River Thames?",
+    "options": [
+      "Dublin",
+      "Amsterdam",
+      "London",
+      "Brussels"
+    ],
+    "correctAnswer": "London",
+    "explanation": "The River Thames flows through London before reaching the North Sea.",
+    "tags": [
+      "capitals",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography_025",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country shares land borders with both Germany and Ukraine?",
+    "options": [
+      "Hungary",
+      "Austria",
+      "Poland",
+      "Romania"
+    ],
+    "correctAnswer": "Poland",
+    "explanation": "Poland borders Germany to the west and Ukraine to the southeast.",
+    "tags": [
+      "borders",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography_026",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which tectonic plate carries most of the continent of South America?",
+    "options": [
+      "Nazca Plate",
+      "Pacific Plate",
+      "South American Plate",
+      "African Plate"
+    ],
+    "correctAnswer": "South American Plate",
+    "explanation": "Most of South America rests on the South American tectonic plate.",
+    "tags": [
+      "geology",
+      "tectonic-plates"
+    ]
+  },
+  {
+    "id": "geography_027",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which African lake is the source of the White Nile according to the commonly accepted modern view?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Chad",
+      "Lake Victoria",
+      "Lake Malawi"
+    ],
+    "correctAnswer": "Lake Victoria",
+    "explanation": "Lake Victoria is widely recognized as the principal source of the White Nile.",
+    "tags": [
+      "rivers",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography_028",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country has the greatest number of time zones when all of its territories are included?",
+    "options": [
+      "Russia",
+      "United States",
+      "France",
+      "United Kingdom"
+    ],
+    "correctAnswer": "France",
+    "explanation": "Including its overseas territories, France spans more time zones than any other country.",
+    "tags": [
+      "time-zones",
+      "countries"
+    ]
+  },
+  {
+    "id": "geography_029",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The Karakoram Range contains which of the world's highest peaks?",
+    "options": [
+      "K2",
+      "Mount Elbrus",
+      "Denali",
+      "Aconcagua"
+    ],
+    "correctAnswer": "K2",
+    "explanation": "K2, the world's second-highest mountain, is located in the Karakoram Range.",
+    "tags": [
+      "mountains",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography_030",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country is home to the geographic feature known as the Richat Structure, also called the 'Eye of the Sahara'?",
+    "options": [
+      "Algeria",
+      "Mauritania",
+      "Morocco",
+      "Niger"
+    ],
+    "correctAnswer": "Mauritania",
+    "explanation": "The Richat Structure is a large circular geological formation located in western Mauritania.",
+    "tags": [
+      "landforms",
+      "africa"
+    ]
+  }
+]

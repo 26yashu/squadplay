@@ -1,0 +1,542 @@
+[
+  {
+    "id": "programming_001",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which programming language is primarily used to style web pages?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python"
+    ],
+    "correctAnswer": "CSS",
+    "explanation": "CSS controls the visual presentation and layout of web pages.",
+    "tags": [
+      "web",
+      "css"
+    ]
+  },
+  {
+    "id": "programming_002",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which keyword is commonly used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "correctAnswer": "def",
+    "explanation": "Python uses the 'def' keyword to declare a function.",
+    "tags": [
+      "python",
+      "functions"
+    ]
+  },
+  {
+    "id": "programming_003",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "Hyperlink Text Management Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML is the standard markup language used to structure web pages.",
+    "tags": [
+      "html",
+      "web"
+    ]
+  },
+  {
+    "id": "programming_004",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which symbol is commonly used to start a single-line comment in Python?",
+    "options": [
+      "//",
+      "#",
+      "/*",
+      "--"
+    ],
+    "correctAnswer": "#",
+    "explanation": "Python uses the hash symbol to begin a single-line comment.",
+    "tags": [
+      "python",
+      "syntax"
+    ]
+  },
+  {
+    "id": "programming_005",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which data type stores True or False values?",
+    "options": [
+      "Integer",
+      "String",
+      "Boolean",
+      "Float"
+    ],
+    "correctAnswer": "Boolean",
+    "explanation": "A Boolean data type represents one of two logical values: true or false.",
+    "tags": [
+      "data-types",
+      "basics"
+    ]
+  },
+  {
+    "id": "programming_006",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which loop is designed to repeat while a condition remains true?",
+    "options": [
+      "for",
+      "switch",
+      "while",
+      "case"
+    ],
+    "correctAnswer": "while",
+    "explanation": "A while loop continues executing until its condition becomes false.",
+    "tags": [
+      "loops",
+      "control-flow"
+    ]
+  },
+  {
+    "id": "programming_007",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which operator is commonly used for assignment in many programming languages?",
+    "options": [
+      "=",
+      "==",
+      "!=",
+      "&&"
+    ],
+    "correctAnswer": "=",
+    "explanation": "The assignment operator stores a value in a variable.",
+    "tags": [
+      "operators",
+      "variables"
+    ]
+  },
+  {
+    "id": "programming_008",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which language runs natively in modern web browsers to add interactivity?",
+    "options": [
+      "Java",
+      "C++",
+      "JavaScript",
+      "Go"
+    ],
+    "correctAnswer": "JavaScript",
+    "explanation": "JavaScript is the standard scripting language executed by web browsers.",
+    "tags": [
+      "javascript",
+      "web"
+    ]
+  },
+  {
+    "id": "programming_009",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "What is the primary purpose of a variable in programming?",
+    "options": [
+      "Display graphics",
+      "Store data",
+      "Compile code",
+      "Create networks"
+    ],
+    "correctAnswer": "Store data",
+    "explanation": "Variables hold values that can be read and modified by a program.",
+    "tags": [
+      "variables",
+      "fundamentals"
+    ]
+  },
+  {
+    "id": "programming_010",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which symbol is commonly used to end a statement in C, C++, and Java?",
+    "options": [
+      ":",
+      ",",
+      ";",
+      "."
+    ],
+    "correctAnswer": ";",
+    "explanation": "Semicolons terminate most statements in C-style languages.",
+    "tags": [
+      "syntax",
+      "c-family"
+    ]
+  },
+  {
+    "id": "programming_011",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "Which programming language is widely known for its use in data science and machine learning?",
+    "options": [
+      "Python",
+      "COBOL",
+      "Pascal",
+      "Fortran"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python has a rich ecosystem of libraries for data analysis and machine learning.",
+    "tags": [
+      "python",
+      "data-science"
+    ]
+  },
+  {
+    "id": "programming_012",
+    "category": "Programming",
+    "difficulty": "easy",
+    "question": "What is a syntax error?",
+    "options": [
+      "An error caused by invalid program structure",
+      "A hardware failure",
+      "A network timeout",
+      "A memory upgrade"
+    ],
+    "correctAnswer": "An error caused by invalid program structure",
+    "explanation": "Syntax errors occur when code violates the grammar rules of a programming language.",
+    "tags": [
+      "errors",
+      "syntax"
+    ]
+  },
+  {
+    "id": "programming_013",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack removes the most recently added element first.",
+    "tags": [
+      "data-structures",
+      "stack"
+    ]
+  },
+  {
+    "id": "programming_014",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "What does the acronym API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Program Integration",
+      "Automated Programming Instance",
+      "Application Process Index"
+    ],
+    "correctAnswer": "Application Programming Interface",
+    "explanation": "An API defines how different software components communicate with one another.",
+    "tags": [
+      "api",
+      "software"
+    ]
+  },
+  {
+    "id": "programming_015",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which sorting algorithm repeatedly compares and swaps adjacent elements until the list is sorted?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Heap Sort"
+    ],
+    "correctAnswer": "Bubble Sort",
+    "explanation": "Bubble Sort repeatedly swaps neighboring elements that are out of order.",
+    "tags": [
+      "algorithms",
+      "sorting"
+    ]
+  },
+  {
+    "id": "programming_016",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which keyword is commonly used to create a class in Java?",
+    "options": [
+      "object",
+      "struct",
+      "class",
+      "new"
+    ],
+    "correctAnswer": "class",
+    "explanation": "The 'class' keyword defines a new class in Java.",
+    "tags": [
+      "java",
+      "oop"
+    ]
+  },
+  {
+    "id": "programming_017",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which Git command uploads local commits to a remote repository?",
+    "options": [
+      "git clone",
+      "git push",
+      "git fetch",
+      "git merge"
+    ],
+    "correctAnswer": "git push",
+    "explanation": "The git push command sends committed changes from a local repository to a remote repository.",
+    "tags": [
+      "git",
+      "version-control"
+    ]
+  },
+  {
+    "id": "programming_018",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of recursion in programming?",
+    "options": [
+      "To improve internet speed",
+      "To call a function from itself",
+      "To encrypt data",
+      "To reduce file size"
+    ],
+    "correctAnswer": "To call a function from itself",
+    "explanation": "Recursion solves problems by allowing a function to invoke itself until a base case is reached.",
+    "tags": [
+      "algorithms",
+      "recursion"
+    ]
+  },
+  {
+    "id": "programming_019",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which SQL statement is used to retrieve data from a database table?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "SELECT",
+      "DELETE"
+    ],
+    "correctAnswer": "SELECT",
+    "explanation": "The SELECT statement queries and returns data from one or more database tables.",
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "programming_020",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "In object-oriented programming, what is encapsulation?",
+    "options": [
+      "Running multiple threads",
+      "Combining data and methods into a single unit",
+      "Sorting data automatically",
+      "Executing code in parallel"
+    ],
+    "correctAnswer": "Combining data and methods into a single unit",
+    "explanation": "Encapsulation groups related data and behavior together while controlling access to internal details.",
+    "tags": [
+      "oop",
+      "concepts"
+    ]
+  },
+  {
+    "id": "programming_021",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which HTTP method is typically used to retrieve data from a web server?",
+    "options": [
+      "POST",
+      "PUT",
+      "GET",
+      "DELETE"
+    ],
+    "correctAnswer": "GET",
+    "explanation": "GET requests retrieve resources without modifying the server's data.",
+    "tags": [
+      "web",
+      "http"
+    ]
+  },
+  {
+    "id": "programming_022",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which data structure stores key-value pairs?",
+    "options": [
+      "Array",
+      "Stack",
+      "Hash Map",
+      "Queue"
+    ],
+    "correctAnswer": "Hash Map",
+    "explanation": "A hash map associates unique keys with corresponding values for efficient lookups.",
+    "tags": [
+      "data-structures",
+      "hashmap"
+    ]
+  },
+  {
+    "id": "programming_023",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "Which keyword is used in many languages to exit a loop early?",
+    "options": [
+      "continue",
+      "break",
+      "return",
+      "stop"
+    ],
+    "correctAnswer": "break",
+    "explanation": "The break statement immediately terminates the nearest enclosing loop.",
+    "tags": [
+      "control-flow",
+      "loops"
+    ]
+  },
+  {
+    "id": "programming_024",
+    "category": "Programming",
+    "difficulty": "medium",
+    "question": "What is the purpose of a compiler?",
+    "options": [
+      "Manage databases",
+      "Convert source code into executable machine code",
+      "Design user interfaces",
+      "Create network connections"
+    ],
+    "correctAnswer": "Convert source code into executable machine code",
+    "explanation": "A compiler translates high-level source code into machine code before execution.",
+    "tags": [
+      "compiler",
+      "fundamentals"
+    ]
+  },
+  {
+    "id": "programming_025",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "What is the average-case time complexity of Quick Sort?",
+    "options": [
+      "O(n²)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "Quick Sort has an average-case time complexity of O(n log n) with well-balanced partitions.",
+    "tags": [
+      "algorithms",
+      "complexity"
+    ]
+  },
+  {
+    "id": "programming_026",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "Which design pattern ensures that only one instance of a class exists?",
+    "options": [
+      "Observer",
+      "Factory",
+      "Singleton",
+      "Decorator"
+    ],
+    "correctAnswer": "Singleton",
+    "explanation": "The Singleton pattern restricts object creation to a single shared instance.",
+    "tags": [
+      "design-patterns",
+      "oop"
+    ]
+  },
+  {
+    "id": "programming_027",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "In Big-O notation, what is the lookup time of a balanced binary search tree?",
+    "options": [
+      "O(n)",
+      "O(n²)",
+      "O(log n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "A balanced binary search tree maintains logarithmic search performance by keeping its height proportional to log n.",
+    "tags": [
+      "algorithms",
+      "trees"
+    ]
+  },
+  {
+    "id": "programming_028",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "Which normal form removes transitive dependencies in relational database design?",
+    "options": [
+      "First Normal Form",
+      "Second Normal Form",
+      "Third Normal Form",
+      "Boyce-Codd Normal Form"
+    ],
+    "correctAnswer": "Third Normal Form",
+    "explanation": "Third Normal Form eliminates transitive dependencies between non-key attributes.",
+    "tags": [
+      "databases",
+      "normalization"
+    ]
+  },
+  {
+    "id": "programming_029",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "Which memory area typically stores local variables and function call information?",
+    "options": [
+      "Heap",
+      "Stack",
+      "Cache",
+      "Register File"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "The call stack stores local variables, return addresses, and function call frames.",
+    "tags": [
+      "memory",
+      "runtime"
+    ]
+  },
+  {
+    "id": "programming_030",
+    "category": "Programming",
+    "difficulty": "hard",
+    "question": "Which graph traversal algorithm guarantees the shortest path in an unweighted graph?",
+    "options": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Topological Sort",
+      "Prim's Algorithm"
+    ],
+    "correctAnswer": "Breadth-First Search",
+    "explanation": "Breadth-First Search explores vertices level by level, guaranteeing the shortest path in an unweighted graph.",
+    "tags": [
+      "graphs",
+      "algorithms"
+    ]
+  }
+]

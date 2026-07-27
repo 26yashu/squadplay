@@ -1,0 +1,302 @@
+[
+  {
+    "id": "objects_001",
+    "word": "Chair",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "household",
+      "furniture"
+    ]
+  },
+  {
+    "id": "objects_002",
+    "word": "Table",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "household",
+      "furniture"
+    ]
+  },
+  {
+    "id": "objects_003",
+    "word": "Bed",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "household",
+      "furniture"
+    ]
+  },
+  {
+    "id": "objects_004",
+    "word": "Sofa",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "household",
+      "furniture"
+    ]
+  },
+  {
+    "id": "objects_005",
+    "word": "Lamp",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "household",
+      "lighting"
+    ]
+  },
+  {
+    "id": "objects_006",
+    "word": "Clock",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "household",
+      "time"
+    ]
+  },
+  {
+    "id": "objects_007",
+    "word": "Mirror",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "household",
+      "decor"
+    ]
+  },
+  {
+    "id": "objects_008",
+    "word": "Television",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "electronics",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "objects_009",
+    "word": "Computer",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "electronics",
+      "work"
+    ]
+  },
+  {
+    "id": "objects_010",
+    "word": "Smartphone",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "electronics",
+      "communication"
+    ]
+  },
+  {
+    "id": "objects_011",
+    "word": "Headphones",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "electronics",
+      "audio"
+    ]
+  },
+  {
+    "id": "objects_012",
+    "word": "Camera",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "electronics",
+      "photography"
+    ]
+  },
+  {
+    "id": "objects_013",
+    "word": "Refrigerator",
+    "category": "Objects",
+    "difficulty": "hard",
+    "tags": [
+      "household",
+      "appliance"
+    ]
+  },
+  {
+    "id": "objects_014",
+    "word": "Microwave",
+    "category": "Objects",
+    "difficulty": "hard",
+    "tags": [
+      "household",
+      "appliance"
+    ]
+  },
+  {
+    "id": "objects_015",
+    "word": "Washing Machine",
+    "category": "Objects",
+    "difficulty": "hard",
+    "tags": [
+      "household",
+      "appliance"
+    ]
+  },
+  {
+    "id": "objects_016",
+    "word": "Toothbrush",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "household",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "objects_017",
+    "word": "Comb",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "household",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "objects_018",
+    "word": "Umbrella",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "objects",
+      "weather"
+    ]
+  },
+  {
+    "id": "objects_019",
+    "word": "Keys",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "objects",
+      "security"
+    ]
+  },
+  {
+    "id": "objects_020",
+    "word": "Wallet",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "objects",
+      "money"
+    ]
+  },
+  {
+    "id": "objects_021",
+    "word": "Book",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "school",
+      "reading"
+    ]
+  },
+  {
+    "id": "objects_022",
+    "word": "Notebook",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "school",
+      "writing"
+    ]
+  },
+  {
+    "id": "objects_023",
+    "word": "Pen",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "school",
+      "writing"
+    ]
+  },
+  {
+    "id": "objects_024",
+    "word": "Pencil",
+    "category": "Objects",
+    "difficulty": "easy",
+    "tags": [
+      "school",
+      "writing"
+    ]
+  },
+  {
+    "id": "objects_025",
+    "word": "Scissors",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "school",
+      "tools"
+    ]
+  },
+  {
+    "id": "objects_026",
+    "word": "Stapler",
+    "category": "Objects",
+    "difficulty": "hard",
+    "tags": [
+      "office",
+      "tools"
+    ]
+  },
+  {
+    "id": "objects_027",
+    "word": "Calculator",
+    "category": "Objects",
+    "difficulty": "hard",
+    "tags": [
+      "office",
+      "tools"
+    ]
+  },
+  {
+    "id": "objects_028",
+    "word": "Backpack",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": "objects_029",
+    "word": "Glasses",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "objects",
+      "vision"
+    ]
+  },
+  {
+    "id": "objects_030",
+    "word": "Bicycle",
+    "category": "Objects",
+    "difficulty": "medium",
+    "tags": [
+      "objects",
+      "transport"
+    ]
+  }
+]

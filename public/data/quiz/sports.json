@@ -1,0 +1,542 @@
+[
+  {
+    "id": "sports_001",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players from one team are on the field at the same time in a standard soccer match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "explanation": "Each soccer team fields 11 players, including the goalkeeper.",
+    "tags": [
+      "soccer",
+      "rules"
+    ]
+  },
+  {
+    "id": "sports_002",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which country is widely credited with inventing the sport of basketball?",
+    "options": [
+      "Canada",
+      "United States",
+      "England",
+      "Australia"
+    ],
+    "correctAnswer": "United States",
+    "explanation": "Basketball was first played in the United States after being created by James Naismith in 1891.",
+    "tags": [
+      "basketball",
+      "history"
+    ]
+  },
+  {
+    "id": "sports_003",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In tennis, what is the score called when a player has zero points?",
+    "options": [
+      "Blank",
+      "Love",
+      "Nil",
+      "Duck"
+    ],
+    "correctAnswer": "Love",
+    "explanation": "In tennis scoring, zero points are referred to as 'love.'",
+    "tags": [
+      "tennis",
+      "scoring"
+    ]
+  },
+  {
+    "id": "sports_004",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is played at Wimbledon each year?",
+    "options": [
+      "Cricket",
+      "Golf",
+      "Tennis",
+      "Badminton"
+    ],
+    "correctAnswer": "Tennis",
+    "explanation": "Wimbledon is the world's oldest and most prestigious tennis championship.",
+    "tags": [
+      "tennis",
+      "tournaments"
+    ]
+  },
+  {
+    "id": "sports_005",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many rings are displayed on the Olympic flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "The Olympic flag features five interlocking rings representing the inhabited continents.",
+    "tags": [
+      "olympics",
+      "symbols"
+    ]
+  },
+  {
+    "id": "sports_006",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a shuttlecock?",
+    "options": [
+      "Table Tennis",
+      "Badminton",
+      "Squash",
+      "Volleyball"
+    ],
+    "correctAnswer": "Badminton",
+    "explanation": "Badminton is played by hitting a shuttlecock over a net.",
+    "tags": [
+      "badminton",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sports_007",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In cricket, how many stumps make up one wicket?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "explanation": "A cricket wicket consists of three vertical stumps topped by two bails.",
+    "tags": [
+      "cricket",
+      "rules"
+    ]
+  },
+  {
+    "id": "sports_008",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is associated with the Tour de France?",
+    "options": [
+      "Running",
+      "Cycling",
+      "Motor Racing",
+      "Triathlon"
+    ],
+    "correctAnswer": "Cycling",
+    "explanation": "The Tour de France is the world's most famous multi-stage cycling race.",
+    "tags": [
+      "cycling",
+      "events"
+    ]
+  },
+  {
+    "id": "sports_009",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What color card is typically used to send a player off in soccer?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "correctAnswer": "Red",
+    "explanation": "A red card results in a player's dismissal from the match.",
+    "tags": [
+      "soccer",
+      "officiating"
+    ]
+  },
+  {
+    "id": "sports_010",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport features a slam dunk?",
+    "options": [
+      "Volleyball",
+      "Basketball",
+      "Handball",
+      "Netball"
+    ],
+    "correctAnswer": "Basketball",
+    "explanation": "A slam dunk is a scoring move where the ball is forcefully put through the basket.",
+    "tags": [
+      "basketball",
+      "skills"
+    ]
+  },
+  {
+    "id": "sports_011",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which country hosts the Formula 1 race known as the Monaco Grand Prix?",
+    "options": [
+      "France",
+      "Italy",
+      "Monaco",
+      "Spain"
+    ],
+    "correctAnswer": "Monaco",
+    "explanation": "The Monaco Grand Prix is held on the streets of the Principality of Monaco.",
+    "tags": [
+      "formula1",
+      "motorsport"
+    ]
+  },
+  {
+    "id": "sports_012",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which piece in chess can move in an L-shaped pattern?",
+    "options": [
+      "Bishop",
+      "Knight",
+      "Rook",
+      "Queen"
+    ],
+    "correctAnswer": "Knight",
+    "explanation": "The knight is the only chess piece that moves in an L-shape and can jump over others.",
+    "tags": [
+      "chess",
+      "board-games"
+    ]
+  },
+  {
+    "id": "sports_013",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In baseball, how many strikes result in a batter being out?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "explanation": "A batter is out after accumulating three strikes during an at-bat.",
+    "tags": [
+      "baseball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sports_014",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "Uruguay",
+      "Argentina"
+    ],
+    "correctAnswer": "Uruguay",
+    "explanation": "Uruguay hosted and won the inaugural FIFA World Cup in 1930.",
+    "tags": [
+      "soccer",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sports_015",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many holes are played in a standard round of golf?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "27"
+    ],
+    "correctAnswer": "18",
+    "explanation": "A full round of golf is traditionally played over 18 holes.",
+    "tags": [
+      "golf",
+      "rules"
+    ]
+  },
+  {
+    "id": "sports_016",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country hosts the annual Tour de France cycling race?",
+    "options": [
+      "Belgium",
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "correctAnswer": "France",
+    "explanation": "The Tour de France is an annual multi-stage cycling race held primarily in France.",
+    "tags": [
+      "cycling",
+      "france"
+    ]
+  },
+  {
+    "id": "sports_017",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In volleyball, how many players from one team are on the court during play?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Each volleyball team has six players on the court at any given time.",
+    "tags": [
+      "volleyball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sports_018",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which swimming stroke is performed on the back?",
+    "options": [
+      "Butterfly",
+      "Freestyle",
+      "Breaststroke",
+      "Backstroke"
+    ],
+    "correctAnswer": "Backstroke",
+    "explanation": "Backstroke is the only competitive swimming stroke performed while facing upward.",
+    "tags": [
+      "swimming",
+      "strokes"
+    ]
+  },
+  {
+    "id": "sports_019",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which nation is credited with originating the modern sport of judo?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctAnswer": "Japan",
+    "explanation": "Judo was founded in Japan by Jigoro Kano in the late 19th century.",
+    "tags": [
+      "martial-arts",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports_020",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In Formula 1, what is the area called where teams service their cars during a race?",
+    "options": [
+      "Starting Grid",
+      "Pit Lane",
+      "Paddock",
+      "Garage Zone"
+    ],
+    "correctAnswer": "Pit Lane",
+    "explanation": "Pit lane is where cars stop for tire changes, repairs, and other race services.",
+    "tags": [
+      "formula1",
+      "motorsport"
+    ]
+  },
+  {
+    "id": "sports_021",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many points is a touchdown worth in American football before the extra-point attempt?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "explanation": "A touchdown scores six points before the team attempts an extra point or two-point conversion.",
+    "tags": [
+      "american-football",
+      "scoring"
+    ]
+  },
+  {
+    "id": "sports_022",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country is associated with the rugby team nicknamed the All Blacks?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "correctAnswer": "New Zealand",
+    "explanation": "The All Blacks are New Zealand's internationally renowned national rugby union team.",
+    "tags": [
+      "rugby",
+      "teams"
+    ]
+  },
+  {
+    "id": "sports_023",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the maximum score possible with a single dart in standard darts?",
+    "options": [
+      "50",
+      "60",
+      "100",
+      "180"
+    ],
+    "correctAnswer": "60",
+    "explanation": "A triple 20 scores 60 points, the highest possible score with one dart.",
+    "tags": [
+      "darts",
+      "scoring"
+    ]
+  },
+  {
+    "id": "sports_024",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which sport awards the Davis Cup?",
+    "options": [
+      "Cricket",
+      "Badminton",
+      "Tennis",
+      "Table Tennis"
+    ],
+    "correctAnswer": "Tennis",
+    "explanation": "The Davis Cup is the premier international team competition in men's tennis.",
+    "tags": [
+      "tennis",
+      "tournaments"
+    ]
+  },
+  {
+    "id": "sports_025",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "In athletics, the decathlon consists of how many events?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "10",
+    "explanation": "The decathlon is a combined event made up of ten different track and field disciplines.",
+    "tags": [
+      "athletics",
+      "combined-events"
+    ]
+  },
+  {
+    "id": "sports_026",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which Grand Slam tennis tournament is played on clay courts?",
+    "options": [
+      "Australian Open",
+      "Wimbledon",
+      "US Open",
+      "French Open"
+    ],
+    "correctAnswer": "French Open",
+    "explanation": "The French Open at Roland-Garros is the only Grand Slam played on clay.",
+    "tags": [
+      "tennis",
+      "grand-slams"
+    ]
+  },
+  {
+    "id": "sports_027",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which sailing competition is considered the oldest international sporting trophy?",
+    "options": [
+      "Volvo Ocean Race",
+      "America's Cup",
+      "Sydney to Hobart",
+      "Clipper Race"
+    ],
+    "correctAnswer": "America's Cup",
+    "explanation": "The America's Cup, first contested in 1851, is the oldest international trophy in sport.",
+    "tags": [
+      "sailing",
+      "competitions"
+    ]
+  },
+  {
+    "id": "sports_028",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "In snooker, how many points is the black ball worth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "explanation": "The black ball carries the highest value of seven points in snooker.",
+    "tags": [
+      "snooker",
+      "scoring"
+    ]
+  },
+  {
+    "id": "sports_029",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which country won the inaugural ICC Men's Cricket World Cup in 1975?",
+    "options": [
+      "Australia",
+      "India",
+      "England",
+      "West Indies"
+    ],
+    "correctAnswer": "West Indies",
+    "explanation": "The West Indies defeated Australia to win the first Cricket World Cup in 1975.",
+    "tags": [
+      "cricket",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sports_030",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "In fencing, which weapon has the largest valid target area?",
+    "options": [
+      "Foil",
+      "Épée",
+      "Sabre",
+      "Rapier"
+    ],
+    "correctAnswer": "Sabre",
+    "explanation": "Sabre allows touches to the entire body above the waist, giving it the largest target area among the three Olympic weapons.",
+    "tags": [
+      "fencing",
+      "rules"
+    ]
+  }
+]

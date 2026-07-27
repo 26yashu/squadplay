@@ -1,0 +1,302 @@
+[
+  {
+    "id": "punish_001",
+    "title": "10 Jumping Jacks",
+    "description": "Do 10 jumping jacks immediately.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_002",
+    "title": "Talk Like a Robot",
+    "description": "You must speak in a robotic voice for the next 2 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_003",
+    "title": "Wear Sunglasses",
+    "description": "Wear sunglasses indoors for the rest of the game.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_004",
+    "title": "Silent Treatment",
+    "description": "You cannot speak for one full round.",
+    "difficulty": "hard",
+    "tags": [
+      "challenge",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_005",
+    "title": "Wall Sit",
+    "description": "Do a wall sit for 30 seconds.",
+    "difficulty": "hard",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_006",
+    "title": "Plank Position",
+    "description": "Hold a plank for 20 seconds.",
+    "difficulty": "medium",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_007",
+    "title": "Accent Jail",
+    "description": "Speak with a British accent for the next 5 minutes.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_008",
+    "title": "No Names",
+    "description": "You cannot call anyone by their first name for 3 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_009",
+    "title": "T-Rex Arms",
+    "description": "Keep your elbows glued to your sides for the next round.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "funny"
+    ]
+  },
+  {
+    "id": "punish_010",
+    "title": "Stand on One Leg",
+    "description": "Stand on one leg until your next turn.",
+    "difficulty": "hard",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_011",
+    "title": "Slow Motion",
+    "description": "Move in extremely slow motion for the next 2 minutes.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_012",
+    "title": "Forehead Coin",
+    "description": "Balance a coin on your forehead for 1 minute.",
+    "difficulty": "medium",
+    "tags": [
+      "challenge",
+      "physical"
+    ]
+  },
+  {
+    "id": "punish_013",
+    "title": "Servant",
+    "description": "You must fetch a drink or snack for another player.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_014",
+    "title": "The Floor is Sticky",
+    "description": "You cannot lift your feet off the floor for one round.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "funny"
+    ]
+  },
+  {
+    "id": "punish_015",
+    "title": "Rhyme Time",
+    "description": "Everything you say must rhyme until your next turn.",
+    "difficulty": "hard",
+    "tags": [
+      "brain",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_016",
+    "title": "Wear a Hat",
+    "description": "Wear a silly hat or put a piece of clothing on your head.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_017",
+    "title": "Burpees",
+    "description": "Do 5 burpees.",
+    "difficulty": "hard",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_018",
+    "title": "No Laughing",
+    "description": "If you laugh in the next 3 rounds, you lose 50 points.",
+    "difficulty": "hard",
+    "tags": [
+      "challenge",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_019",
+    "title": "Spin 10 Times",
+    "description": "Spin around in a circle 10 times fast.",
+    "difficulty": "medium",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_020",
+    "title": "Opposite Hand",
+    "description": "You must use your non-dominant hand for everything for 5 minutes.",
+    "difficulty": "medium",
+    "tags": [
+      "challenge",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_021",
+    "title": "Walk Backwards",
+    "description": "You can only walk backwards until your next turn.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "physical"
+    ]
+  },
+  {
+    "id": "punish_022",
+    "title": "Whisper Only",
+    "description": "You are only allowed to whisper for the next 3 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "challenge",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_023",
+    "title": "Blindfold",
+    "description": "Wear a blindfold until your next turn.",
+    "difficulty": "hard",
+    "tags": [
+      "challenge",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_024",
+    "title": "Act Like a Baby",
+    "description": "Crawl on the floor and act like a baby for 30 seconds.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "punish_025",
+    "title": "Timeout",
+    "description": "Sit in the corner facing the wall for 1 minute.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_026",
+    "title": "Loud Voice",
+    "description": "You must shout everything you say for the next round.",
+    "difficulty": "medium",
+    "tags": [
+      "funny",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_027",
+    "title": "The Floor is Lava",
+    "description": "Sit on a chair with your feet off the ground for 2 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "physical",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_028",
+    "title": "No Pointing",
+    "description": "If you point at anything, you do 5 pushups.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "punishment"
+    ]
+  },
+  {
+    "id": "punish_029",
+    "title": "Mirror",
+    "description": "You must mirror the movements of the person to your right for 1 minute.",
+    "difficulty": "hard",
+    "tags": [
+      "acting",
+      "interactive"
+    ]
+  },
+  {
+    "id": "punish_030",
+    "title": "Sit on the Floor",
+    "description": "You must sit on the floor instead of a chair for 3 rounds.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "punishment"
+    ]
+  }
+]

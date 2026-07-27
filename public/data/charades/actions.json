@@ -1,0 +1,302 @@
+[
+  {
+    "id": "actions_001",
+    "word": "Running",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "exercise"
+    ]
+  },
+  {
+    "id": "actions_002",
+    "word": "Walking",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "daily"
+    ]
+  },
+  {
+    "id": "actions_003",
+    "word": "Jumping",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "active"
+    ]
+  },
+  {
+    "id": "actions_004",
+    "word": "Swimming",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "movement",
+      "water"
+    ]
+  },
+  {
+    "id": "actions_005",
+    "word": "Dancing",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "music"
+    ]
+  },
+  {
+    "id": "actions_006",
+    "word": "Singing",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "vocal",
+      "music"
+    ]
+  },
+  {
+    "id": "actions_007",
+    "word": "Sleeping",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "daily",
+      "rest"
+    ]
+  },
+  {
+    "id": "actions_008",
+    "word": "Eating",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "daily",
+      "food"
+    ]
+  },
+  {
+    "id": "actions_009",
+    "word": "Drinking",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "daily",
+      "beverage"
+    ]
+  },
+  {
+    "id": "actions_010",
+    "word": "Reading",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "leisure"
+    ]
+  },
+  {
+    "id": "actions_011",
+    "word": "Writing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "actions_012",
+    "word": "Typing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "actions_013",
+    "word": "Cooking",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "food"
+    ]
+  },
+  {
+    "id": "actions_014",
+    "word": "Baking",
+    "category": "Actions",
+    "difficulty": "hard",
+    "tags": [
+      "daily",
+      "food"
+    ]
+  },
+  {
+    "id": "actions_015",
+    "word": "Cleaning",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "chores"
+    ]
+  },
+  {
+    "id": "actions_016",
+    "word": "Sweeping",
+    "category": "Actions",
+    "difficulty": "hard",
+    "tags": [
+      "daily",
+      "chores"
+    ]
+  },
+  {
+    "id": "actions_017",
+    "word": "Driving",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "transport"
+    ]
+  },
+  {
+    "id": "actions_018",
+    "word": "Flying",
+    "category": "Actions",
+    "difficulty": "hard",
+    "tags": [
+      "movement",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "actions_019",
+    "word": "Crying",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "emotion",
+      "vocal"
+    ]
+  },
+  {
+    "id": "actions_020",
+    "word": "Laughing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "emotion",
+      "vocal"
+    ]
+  },
+  {
+    "id": "actions_021",
+    "word": "Yawning",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "tired"
+    ]
+  },
+  {
+    "id": "actions_022",
+    "word": "Sneezing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "reflex"
+    ]
+  },
+  {
+    "id": "actions_023",
+    "word": "Coughing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "daily",
+      "reflex"
+    ]
+  },
+  {
+    "id": "actions_024",
+    "word": "Clapping",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "celebration"
+    ]
+  },
+  {
+    "id": "actions_025",
+    "word": "Waving",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "greeting"
+    ]
+  },
+  {
+    "id": "actions_026",
+    "word": "Pointing",
+    "category": "Actions",
+    "difficulty": "easy",
+    "tags": [
+      "movement",
+      "gesture"
+    ]
+  },
+  {
+    "id": "actions_027",
+    "word": "Digging",
+    "category": "Actions",
+    "difficulty": "hard",
+    "tags": [
+      "movement",
+      "work"
+    ]
+  },
+  {
+    "id": "actions_028",
+    "word": "Climbing",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "movement",
+      "active"
+    ]
+  },
+  {
+    "id": "actions_029",
+    "word": "Fishing",
+    "category": "Actions",
+    "difficulty": "hard",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "actions_030",
+    "word": "Painting",
+    "category": "Actions",
+    "difficulty": "medium",
+    "tags": [
+      "creative",
+      "art"
+    ]
+  }
+]

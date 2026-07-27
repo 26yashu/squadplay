@@ -1,0 +1,542 @@
+[
+  {
+    "id": "business_001",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What does the term 'profit' represent in a business?",
+    "options": [
+      "Total sales before expenses",
+      "Money left after expenses are deducted from revenue",
+      "The amount spent on advertising",
+      "The value of business assets"
+    ],
+    "correctAnswer": "Money left after expenses are deducted from revenue",
+    "explanation": "Profit is the amount remaining after all business expenses are subtracted from revenue.",
+    "tags": [
+      "finance",
+      "basics"
+    ]
+  },
+  {
+    "id": "business_002",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which department is primarily responsible for hiring new employees?",
+    "options": [
+      "Marketing",
+      "Human Resources",
+      "Sales",
+      "Operations"
+    ],
+    "correctAnswer": "Human Resources",
+    "explanation": "Human Resources manages recruitment, onboarding, and employee relations.",
+    "tags": [
+      "hr",
+      "management"
+    ]
+  },
+  {
+    "id": "business_003",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'CEO' stand for?",
+    "options": [
+      "Chief Executive Officer",
+      "Corporate Executive Operator",
+      "Chief Enterprise Organizer",
+      "Central Executive Officer"
+    ],
+    "correctAnswer": "Chief Executive Officer",
+    "explanation": "The CEO is the highest-ranking executive responsible for leading an organization.",
+    "tags": [
+      "leadership",
+      "roles"
+    ]
+  },
+  {
+    "id": "business_004",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which document summarizes a company's income and expenses over a period?",
+    "options": [
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Income Statement",
+      "Purchase Order"
+    ],
+    "correctAnswer": "Income Statement",
+    "explanation": "An income statement reports revenue, expenses, and profit for a specific period.",
+    "tags": [
+      "accounting",
+      "finance"
+    ]
+  },
+  {
+    "id": "business_005",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What is the primary goal of marketing?",
+    "options": [
+      "Reducing taxes",
+      "Attracting and retaining customers",
+      "Preparing payroll",
+      "Managing inventory"
+    ],
+    "correctAnswer": "Attracting and retaining customers",
+    "explanation": "Marketing focuses on creating value and building lasting customer relationships.",
+    "tags": [
+      "marketing",
+      "customers"
+    ]
+  },
+  {
+    "id": "business_006",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which business structure is owned by a single individual?",
+    "options": [
+      "Corporation",
+      "Partnership",
+      "Sole Proprietorship",
+      "Cooperative"
+    ],
+    "correctAnswer": "Sole Proprietorship",
+    "explanation": "A sole proprietorship is owned and operated by one person.",
+    "tags": [
+      "ownership",
+      "business-structure"
+    ]
+  },
+  {
+    "id": "business_007",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What does 'revenue' refer to?",
+    "options": [
+      "Money earned from business activities",
+      "Money paid in salaries",
+      "Company debts",
+      "Business taxes"
+    ],
+    "correctAnswer": "Money earned from business activities",
+    "explanation": "Revenue is the total income generated from selling goods or services.",
+    "tags": [
+      "finance",
+      "revenue"
+    ]
+  },
+  {
+    "id": "business_008",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which department usually manages a company's financial records?",
+    "options": [
+      "Accounting",
+      "Sales",
+      "Customer Service",
+      "Research"
+    ],
+    "correctAnswer": "Accounting",
+    "explanation": "The accounting department records and reports financial transactions.",
+    "tags": [
+      "accounting",
+      "departments"
+    ]
+  },
+  {
+    "id": "business_009",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What is the main purpose of customer service?",
+    "options": [
+      "Manufacturing products",
+      "Supporting customers before and after purchases",
+      "Creating advertisements",
+      "Managing investments"
+    ],
+    "correctAnswer": "Supporting customers before and after purchases",
+    "explanation": "Customer service helps resolve issues and improve customer satisfaction.",
+    "tags": [
+      "customers",
+      "service"
+    ]
+  },
+  {
+    "id": "business_010",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which term describes the promotion of products through online channels?",
+    "options": [
+      "Digital Marketing",
+      "Retailing",
+      "Manufacturing",
+      "Procurement"
+    ],
+    "correctAnswer": "Digital Marketing",
+    "explanation": "Digital marketing uses websites, search engines, email, and social media to reach customers.",
+    "tags": [
+      "marketing",
+      "digital"
+    ]
+  },
+  {
+    "id": "business_011",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "Which document is typically given to a customer to request payment?",
+    "options": [
+      "Invoice",
+      "Resume",
+      "Receipt Book",
+      "Business License"
+    ],
+    "correctAnswer": "Invoice",
+    "explanation": "An invoice lists goods or services provided and the amount due.",
+    "tags": [
+      "payments",
+      "documents"
+    ]
+  },
+  {
+    "id": "business_012",
+    "category": "Business",
+    "difficulty": "easy",
+    "question": "What is a startup?",
+    "options": [
+      "A newly established business",
+      "A government agency",
+      "A nonprofit organization",
+      "A business that has closed"
+    ],
+    "correctAnswer": "A newly established business",
+    "explanation": "A startup is a newly formed company aiming to develop and grow a business idea.",
+    "tags": [
+      "startups",
+      "entrepreneurship"
+    ]
+  },
+  {
+    "id": "business_013",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What does ROI stand for in business?",
+    "options": [
+      "Rate of Investment",
+      "Return on Investment",
+      "Revenue over Income",
+      "Return on Inventory"
+    ],
+    "correctAnswer": "Return on Investment",
+    "explanation": "ROI measures the profitability of an investment relative to its cost.",
+    "tags": [
+      "finance",
+      "metrics"
+    ]
+  },
+  {
+    "id": "business_014",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which pricing strategy introduces a product at a low initial price to gain market share?",
+    "options": [
+      "Premium Pricing",
+      "Penetration Pricing",
+      "Cost-Plus Pricing",
+      "Dynamic Pricing"
+    ],
+    "correctAnswer": "Penetration Pricing",
+    "explanation": "Penetration pricing aims to attract customers quickly with a competitive initial price.",
+    "tags": [
+      "pricing",
+      "marketing"
+    ]
+  },
+  {
+    "id": "business_015",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What does a company's balance sheet primarily show?",
+    "options": [
+      "Advertising performance",
+      "Assets, liabilities, and equity",
+      "Employee attendance",
+      "Monthly sales targets"
+    ],
+    "correctAnswer": "Assets, liabilities, and equity",
+    "explanation": "A balance sheet provides a snapshot of a company's financial position at a specific point in time.",
+    "tags": [
+      "accounting",
+      "balance-sheet"
+    ]
+  },
+  {
+    "id": "business_016",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which financial statement tracks the movement of cash into and out of a business?",
+    "options": [
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Income Statement",
+      "Statement of Retained Earnings"
+    ],
+    "correctAnswer": "Cash Flow Statement",
+    "explanation": "A cash flow statement shows how cash is generated and spent during a specific period.",
+    "tags": [
+      "finance",
+      "cashflow"
+    ]
+  },
+  {
+    "id": "business_017",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What does the term 'break-even point' mean?",
+    "options": [
+      "When revenue equals total costs",
+      "When sales double",
+      "When expenses exceed revenue",
+      "When inventory is sold out"
+    ],
+    "correctAnswer": "When revenue equals total costs",
+    "explanation": "The break-even point is reached when a business neither makes a profit nor incurs a loss.",
+    "tags": [
+      "finance",
+      "profitability"
+    ]
+  },
+  {
+    "id": "business_018",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which leadership style encourages employees to participate in decision-making?",
+    "options": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Transactional"
+    ],
+    "correctAnswer": "Democratic",
+    "explanation": "Democratic leadership values employee input before making important decisions.",
+    "tags": [
+      "leadership",
+      "management"
+    ]
+  },
+  {
+    "id": "business_019",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a business budget?",
+    "options": [
+      "To estimate and control income and expenses",
+      "To recruit employees",
+      "To design advertisements",
+      "To register trademarks"
+    ],
+    "correctAnswer": "To estimate and control income and expenses",
+    "explanation": "A budget helps businesses plan spending and monitor financial performance.",
+    "tags": [
+      "budgeting",
+      "finance"
+    ]
+  },
+  {
+    "id": "business_020",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which business function focuses on obtaining raw materials and services from suppliers?",
+    "options": [
+      "Procurement",
+      "Marketing",
+      "Human Resources",
+      "Accounting"
+    ],
+    "correctAnswer": "Procurement",
+    "explanation": "Procurement manages the sourcing and purchasing of goods and services needed by a business.",
+    "tags": [
+      "operations",
+      "procurement"
+    ]
+  },
+  {
+    "id": "business_021",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What is a company's 'market share'?",
+    "options": [
+      "The percentage of total market sales it earns",
+      "The number of employees it has",
+      "Its annual advertising budget",
+      "Its total inventory value"
+    ],
+    "correctAnswer": "The percentage of total market sales it earns",
+    "explanation": "Market share measures a company's sales relative to the total sales in its industry.",
+    "tags": [
+      "marketing",
+      "competition"
+    ]
+  },
+  {
+    "id": "business_022",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which document outlines a company's goals, strategy, and financial projections?",
+    "options": [
+      "Business Plan",
+      "Invoice",
+      "Employment Contract",
+      "Purchase Order"
+    ],
+    "correctAnswer": "Business Plan",
+    "explanation": "A business plan describes how a company intends to operate and grow.",
+    "tags": [
+      "planning",
+      "entrepreneurship"
+    ]
+  },
+  {
+    "id": "business_023",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "What is the main objective of inventory management?",
+    "options": [
+      "Maintaining the right amount of stock",
+      "Hiring new employees",
+      "Increasing office space",
+      "Preparing tax returns"
+    ],
+    "correctAnswer": "Maintaining the right amount of stock",
+    "explanation": "Effective inventory management balances product availability with storage costs.",
+    "tags": [
+      "inventory",
+      "operations"
+    ]
+  },
+  {
+    "id": "business_024",
+    "category": "Business",
+    "difficulty": "medium",
+    "question": "Which type of business ownership allows shareholders to own portions of a company?",
+    "options": [
+      "Corporation",
+      "Sole Proprietorship",
+      "General Partnership",
+      "Franchise"
+    ],
+    "correctAnswer": "Corporation",
+    "explanation": "A corporation issues shares that represent ownership interests in the company.",
+    "tags": [
+      "ownership",
+      "corporation"
+    ]
+  },
+  {
+    "id": "business_025",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "What does EBITDA stand for?",
+    "options": [
+      "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+      "Estimated Business Income During Annual Transactions",
+      "Equity Before Investments, Taxes, Dividends, and Assets",
+      "Earnings Beyond Income, Taxation, Debt, and Assets"
+    ],
+    "correctAnswer": "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+    "explanation": "EBITDA is a commonly used measure of a company's operating performance before certain accounting and financing costs.",
+    "tags": [
+      "finance",
+      "accounting"
+    ]
+  },
+  {
+    "id": "business_026",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "In project management, what does the 'critical path' represent?",
+    "options": [
+      "The longest sequence of dependent tasks",
+      "The least expensive project phase",
+      "The marketing timeline",
+      "The employee training schedule"
+    ],
+    "correctAnswer": "The longest sequence of dependent tasks",
+    "explanation": "The critical path determines the minimum time needed to complete a project.",
+    "tags": [
+      "projects",
+      "management"
+    ]
+  },
+  {
+    "id": "business_027",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "Which financial ratio measures a company's ability to meet short-term obligations?",
+    "options": [
+      "Current Ratio",
+      "Debt-to-Equity Ratio",
+      "Gross Margin",
+      "Return on Equity"
+    ],
+    "correctAnswer": "Current Ratio",
+    "explanation": "The current ratio compares current assets with current liabilities to assess short-term liquidity.",
+    "tags": [
+      "finance",
+      "ratios"
+    ]
+  },
+  {
+    "id": "business_028",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "What is the primary purpose of diversification in business strategy?",
+    "options": [
+      "Reducing risk by expanding into different products or markets",
+      "Increasing employee salaries",
+      "Eliminating all competitors",
+      "Reducing production quality"
+    ],
+    "correctAnswer": "Reducing risk by expanding into different products or markets",
+    "explanation": "Diversification helps reduce dependence on a single product, market, or revenue source.",
+    "tags": [
+      "strategy",
+      "risk"
+    ]
+  },
+  {
+    "id": "business_029",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "Which accounting principle requires revenue to be recorded when it is earned rather than when cash is received?",
+    "options": [
+      "Accrual Principle",
+      "Conservatism Principle",
+      "Matching Principle",
+      "Consistency Principle"
+    ],
+    "correctAnswer": "Accrual Principle",
+    "explanation": "Accrual accounting recognizes revenue when it is earned, regardless of when payment is collected.",
+    "tags": [
+      "accounting",
+      "principles"
+    ]
+  },
+  {
+    "id": "business_030",
+    "category": "Business",
+    "difficulty": "hard",
+    "question": "Which analysis framework examines an organization's strengths, weaknesses, opportunities, and threats?",
+    "options": [
+      "SWOT Analysis",
+      "PEST Analysis",
+      "Porter's Five Forces",
+      "BCG Matrix"
+    ],
+    "correctAnswer": "SWOT Analysis",
+    "explanation": "SWOT analysis evaluates internal strengths and weaknesses alongside external opportunities and threats.",
+    "tags": [
+      "strategy",
+      "analysis"
+    ]
+  }
+]

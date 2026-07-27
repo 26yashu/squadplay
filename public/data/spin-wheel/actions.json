@@ -1,0 +1,302 @@
+[
+  {
+    "id": "actions-1",
+    "text": "Skip turn",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-2",
+    "text": "Double points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-3",
+    "text": "Lose points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-4",
+    "text": "Steal points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-5",
+    "text": "Give points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-6",
+    "text": "Swap points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-7",
+    "text": "Reset points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-8",
+    "text": "Extra turn",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-9",
+    "text": "Reverse turn",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-10",
+    "text": "Choose player",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-11",
+    "text": "Random player",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-12",
+    "text": "All players",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-13",
+    "text": "No players",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-14",
+    "text": "Half points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-15",
+    "text": "Quarter points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-16",
+    "text": "Triple points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-17",
+    "text": "Quadruple points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-18",
+    "text": "Max points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-19",
+    "text": "Min points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-20",
+    "text": "Average points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-21",
+    "text": "Median points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-22",
+    "text": "Mode points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-23",
+    "text": "Range points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-24",
+    "text": "Standard deviation points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-25",
+    "text": "Variance points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-26",
+    "text": "Skewness points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-27",
+    "text": "Kurtosis points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-28",
+    "text": "Correlation points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-29",
+    "text": "Regression points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-30",
+    "text": "Probability points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-31",
+    "text": "Statistics points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-32",
+    "text": "Mathematics points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-33",
+    "text": "Physics points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-34",
+    "text": "Chemistry points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-35",
+    "text": "Biology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-36",
+    "text": "Geology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-37",
+    "text": "Astronomy points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-38",
+    "text": "Meteorology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-39",
+    "text": "Oceanography points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-40",
+    "text": "Ecology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-41",
+    "text": "Botany points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-42",
+    "text": "Zoology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-43",
+    "text": "Genetics points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-44",
+    "text": "Evolution points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-45",
+    "text": "Paleontology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-46",
+    "text": "Anthropology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-47",
+    "text": "Archaeology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-48",
+    "text": "Sociology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-49",
+    "text": "Psychology points",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "actions-50",
+    "text": "Philosophy points",
+    "type": "category",
+    "difficulty": "medium"
+  }
+]

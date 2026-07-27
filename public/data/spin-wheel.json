@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "spinwheel-challenges-1",
+    "category": "Challenges",
+    "text": "Do 10 jumping jacks (Var 0)",
+    "color": "hsl(300.74428982165387, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-2",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 1)",
+    "color": "hsl(23.74003774447072, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-3",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 2)",
+    "color": "hsl(157.96272178007538, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-4",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 3)",
+    "color": "hsl(190.84923050960458, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-5",
+    "category": "Challenges",
+    "text": "Speak like a robot for 10 seconds (Var 4)",
+    "color": "hsl(90.9694191089009, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-6",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 2 minutes (Var 5)",
+    "color": "hsl(230.61268192888107, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-7",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 6)",
+    "color": "hsl(293.016105852307, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-8",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 7)",
+    "color": "hsl(292.84710327301684, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-9",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 8)",
+    "color": "hsl(348.8260351494225, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-10",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 9)",
+    "color": "hsl(278.9022269470302, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-11",
+    "category": "Challenges",
+    "text": "Speak like a pirate for 1 minute (Var 10)",
+    "color": "hsl(41.83698958637634, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-12",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 11)",
+    "color": "hsl(313.0200627149664, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-13",
+    "category": "Challenges",
+    "text": "Speak like a alien for 2 minutes (Var 12)",
+    "color": "hsl(184.90615055781697, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-14",
+    "category": "Challenges",
+    "text": "Hold your breath for 1 minute (Var 13)",
+    "color": "hsl(62.329719083894844, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-15",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 14)",
+    "color": "hsl(98.03801901956926, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-16",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 15)",
+    "color": "hsl(127.11515343175992, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-17",
+    "category": "Challenges",
+    "text": "Speak like a alien for 10 seconds (Var 16)",
+    "color": "hsl(349.4271210740835, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-18",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 17)",
+    "color": "hsl(74.4978680931727, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-19",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 18)",
+    "color": "hsl(190.32525407832125, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-20",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 19)",
+    "color": "hsl(112.7715660491176, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-21",
+    "category": "Challenges",
+    "text": "Hold your breath for 1 minute (Var 20)",
+    "color": "hsl(216.90865979402764, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-22",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 2 minutes (Var 21)",
+    "color": "hsl(158.36161649946965, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-23",
+    "category": "Challenges",
+    "text": "Balance a book on your head (Var 22)",
+    "color": "hsl(271.80284720514544, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-24",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 23)",
+    "color": "hsl(4.543743447925888, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-25",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 24)",
+    "color": "hsl(334.48664524843275, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-26",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 10 seconds (Var 25)",
+    "color": "hsl(84.45493336857827, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-27",
+    "category": "Challenges",
+    "text": "Do 15 jumping jacks (Var 26)",
+    "color": "hsl(101.47785598704125, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-28",
+    "category": "Challenges",
+    "text": "Speak like a alien for 1 minute (Var 27)",
+    "color": "hsl(339.3337984108322, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-29",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 28)",
+    "color": "hsl(93.34715224916793, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-30",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 29)",
+    "color": "hsl(64.90936187912979, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-31",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 10 seconds (Var 30)",
+    "color": "hsl(198.98365024897583, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-32",
+    "category": "Challenges",
+    "text": "Hold your breath for 1 minute (Var 31)",
+    "color": "hsl(51.46179060865534, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-33",
+    "category": "Challenges",
+    "text": "Speak like a alien for 30 seconds (Var 32)",
+    "color": "hsl(171.61682297470844, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-34",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 33)",
+    "color": "hsl(249.91438627186224, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-35",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 34)",
+    "color": "hsl(250.82018751073298, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-36",
+    "category": "Challenges",
+    "text": "Balance a pillow on your head (Var 35)",
+    "color": "hsl(124.55189142819863, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-37",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 36)",
+    "color": "hsl(14.270068865981438, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-38",
+    "category": "Challenges",
+    "text": "Speak like a alien for 1 minute (Var 37)",
+    "color": "hsl(84.87455137454937, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-39",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 38)",
+    "color": "hsl(228.92109758293176, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-40",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 39)",
+    "color": "hsl(234.3260616326792, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-41",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 40)",
+    "color": "hsl(318.6221506372528, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-42",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 41)",
+    "color": "hsl(234.89485948873906, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-43",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 42)",
+    "color": "hsl(143.95631603361184, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-44",
+    "category": "Challenges",
+    "text": "Do 10 jumping jacks (Var 43)",
+    "color": "hsl(351.6532174010155, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-45",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 44)",
+    "color": "hsl(316.5832182690202, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-46",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 30 seconds (Var 45)",
+    "color": "hsl(161.8871806874328, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-47",
+    "category": "Challenges",
+    "text": "Speak like a robot for 2 minutes (Var 46)",
+    "color": "hsl(85.72364060680728, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-48",
+    "category": "Challenges",
+    "text": "Balance a book on your head (Var 47)",
+    "color": "hsl(28.133911065457088, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-49",
+    "category": "Challenges",
+    "text": "Balance a pillow on your head (Var 48)",
+    "color": "hsl(54.20422854085319, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-50",
+    "category": "Challenges",
+    "text": "Do 15 jumping jacks (Var 49)",
+    "color": "hsl(276.0660400276758, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-51",
+    "category": "Challenges",
+    "text": "Balance a book on your head (Var 50)",
+    "color": "hsl(300.1821583199936, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-52",
+    "category": "Challenges",
+    "text": "Speak like a robot for 10 seconds (Var 51)",
+    "color": "hsl(210.10626823008678, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-53",
+    "category": "Challenges",
+    "text": "Do 20 jumping jacks (Var 52)",
+    "color": "hsl(137.93725207371924, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-54",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 53)",
+    "color": "hsl(74.3565554920798, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-55",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 54)",
+    "color": "hsl(100.1699103712563, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-56",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 55)",
+    "color": "hsl(320.13862456632876, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-57",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 56)",
+    "color": "hsl(167.53713951040768, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-58",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 57)",
+    "color": "hsl(232.47765084287482, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-59",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 58)",
+    "color": "hsl(15.499295183219765, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-60",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 59)",
+    "color": "hsl(312.8754557228217, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-61",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 60)",
+    "color": "hsl(251.4650624045122, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-62",
+    "category": "Challenges",
+    "text": "Hold your breath for 1 minute (Var 61)",
+    "color": "hsl(169.2124081947169, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-63",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 62)",
+    "color": "hsl(353.45882030629195, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-64",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 63)",
+    "color": "hsl(98.73103533088167, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-65",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 64)",
+    "color": "hsl(324.9622807215667, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-66",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 65)",
+    "color": "hsl(180.38250344478956, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-67",
+    "category": "Challenges",
+    "text": "Balance a book on your head (Var 66)",
+    "color": "hsl(167.67681596139772, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-68",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 10 seconds (Var 67)",
+    "color": "hsl(334.5501459309722, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-69",
+    "category": "Challenges",
+    "text": "Do 10 jumping jacks (Var 68)",
+    "color": "hsl(213.44464192228685, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-70",
+    "category": "Challenges",
+    "text": "Speak like a alien for 1 minute (Var 69)",
+    "color": "hsl(228.8714327025987, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-71",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 70)",
+    "color": "hsl(154.27872572553446, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-72",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 71)",
+    "color": "hsl(41.56663762968534, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-73",
+    "category": "Challenges",
+    "text": "Speak like a robot for 2 minutes (Var 72)",
+    "color": "hsl(291.0390072121568, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-74",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 73)",
+    "color": "hsl(61.46595005747964, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-75",
+    "category": "Challenges",
+    "text": "Do 20 jumping jacks (Var 74)",
+    "color": "hsl(206.81953199905493, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-76",
+    "category": "Challenges",
+    "text": "Speak like a alien for 30 seconds (Var 75)",
+    "color": "hsl(359.12612954807867, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-77",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 76)",
+    "color": "hsl(136.7049512478793, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-78",
+    "category": "Challenges",
+    "text": "Do 20 jumping jacks (Var 77)",
+    "color": "hsl(261.2967432786166, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-79",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 78)",
+    "color": "hsl(181.75368357983214, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-80",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 79)",
+    "color": "hsl(300.45366695893716, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-81",
+    "category": "Challenges",
+    "text": "Do 50 jumping jacks (Var 80)",
+    "color": "hsl(166.1876487661516, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-82",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 81)",
+    "color": "hsl(268.58035908998966, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-83",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 82)",
+    "color": "hsl(332.73086851478706, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-84",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 83)",
+    "color": "hsl(53.70152921347713, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-85",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 10 seconds (Var 84)",
+    "color": "hsl(106.06294513985026, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-86",
+    "category": "Challenges",
+    "text": "Speak like a pirate for 1 minute (Var 85)",
+    "color": "hsl(152.42903561895585, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-87",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 30 seconds (Var 86)",
+    "color": "hsl(107.90134983595054, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-88",
+    "category": "Challenges",
+    "text": "Balance a book on your head (Var 87)",
+    "color": "hsl(242.4639361627001, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-89",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 88)",
+    "color": "hsl(97.44901336242748, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-90",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 30 seconds (Var 89)",
+    "color": "hsl(283.60301597637954, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-91",
+    "category": "Challenges",
+    "text": "Do 10 jumping jacks (Var 90)",
+    "color": "hsl(348.57189410467106, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-92",
+    "category": "Challenges",
+    "text": "Hold your breath for 2 minutes (Var 91)",
+    "color": "hsl(61.6254871295967, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-93",
+    "category": "Challenges",
+    "text": "Do 20 jumping jacks (Var 92)",
+    "color": "hsl(181.00959067541984, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-94",
+    "category": "Challenges",
+    "text": "Speak like a robot for 1 minute (Var 93)",
+    "color": "hsl(63.72546397969735, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-95",
+    "category": "Challenges",
+    "text": "Hold your breath for 10 seconds (Var 94)",
+    "color": "hsl(122.50242440827226, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-96",
+    "category": "Challenges",
+    "text": "Balance a pillow on your head (Var 95)",
+    "color": "hsl(140.00763480603274, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-97",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 96)",
+    "color": "hsl(196.2273626918944, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-98",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 30 seconds (Var 97)",
+    "color": "hsl(275.71542826852846, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-99",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 98)",
+    "color": "hsl(162.05936618409862, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-100",
+    "category": "Challenges",
+    "text": "Speak like a cowboy for 30 seconds (Var 99)",
+    "color": "hsl(274.0424186814546, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-101",
+    "category": "Challenges",
+    "text": "Do 10 jumping jacks (Var 100)",
+    "color": "hsl(267.5923079418505, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-102",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 101)",
+    "color": "hsl(274.02768854916934, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-103",
+    "category": "Challenges",
+    "text": "Hold your breath for 30 seconds (Var 102)",
+    "color": "hsl(211.7285981254091, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-104",
+    "category": "Challenges",
+    "text": "Balance a phone on your head (Var 103)",
+    "color": "hsl(159.53410305658784, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-105",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 104)",
+    "color": "hsl(284.52187754672235, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-106",
+    "category": "Challenges",
+    "text": "Balance a cup on your head (Var 105)",
+    "color": "hsl(302.85672275695157, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-107",
+    "category": "Challenges",
+    "text": "Do 5 jumping jacks (Var 106)",
+    "color": "hsl(25.261529758595415, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-108",
+    "category": "Challenges",
+    "text": "Speak like a pirate for 30 seconds (Var 107)",
+    "color": "hsl(149.819020036784, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-109",
+    "category": "Challenges",
+    "text": "Balance a shoe on your head (Var 108)",
+    "color": "hsl(15.534746133346996, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-challenges-110",
+    "category": "Challenges",
+    "text": "Balance a pillow on your head (Var 109)",
+    "color": "hsl(73.03574929090301, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-111",
+    "category": "Mini Games",
+    "text": "Word Association (Var 0)",
+    "color": "hsl(261.5165569303985, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-112",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 1)",
+    "color": "hsl(219.18680140361747, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-113",
+    "category": "Mini Games",
+    "text": "Word Association (Var 2)",
+    "color": "hsl(338.2710867560616, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-114",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 3)",
+    "color": "hsl(106.3814100606552, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-115",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 4)",
+    "color": "hsl(13.51065536230944, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-116",
+    "category": "Mini Games",
+    "text": "Word Association (Var 5)",
+    "color": "hsl(104.71059547757018, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-117",
+    "category": "Mini Games",
+    "text": "Categories (Var 6)",
+    "color": "hsl(71.26053417260556, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-118",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 7)",
+    "color": "hsl(246.3247144341647, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-119",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 8)",
+    "color": "hsl(64.36314485529995, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-120",
+    "category": "Mini Games",
+    "text": "Categories (Var 9)",
+    "color": "hsl(296.202701375262, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-121",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 10)",
+    "color": "hsl(192.0652965759644, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-122",
+    "category": "Mini Games",
+    "text": "Word Association (Var 11)",
+    "color": "hsl(189.27756737170859, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-123",
+    "category": "Mini Games",
+    "text": "Categories (Var 12)",
+    "color": "hsl(313.0109132600015, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-124",
+    "category": "Mini Games",
+    "text": "Categories (Var 13)",
+    "color": "hsl(150.6809001105826, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-125",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 14)",
+    "color": "hsl(57.15581945013288, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-126",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 15)",
+    "color": "hsl(205.15916750664562, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-127",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 16)",
+    "color": "hsl(78.9488126387356, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-128",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 17)",
+    "color": "hsl(110.05379532811008, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-129",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 18)",
+    "color": "hsl(269.4622933087162, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-130",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 19)",
+    "color": "hsl(280.3176201372912, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-131",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 20)",
+    "color": "hsl(102.23146886108819, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-132",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 21)",
+    "color": "hsl(106.52760637350309, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-133",
+    "category": "Mini Games",
+    "text": "Word Association (Var 22)",
+    "color": "hsl(220.44535413518247, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-134",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 23)",
+    "color": "hsl(336.02719515768024, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-135",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 24)",
+    "color": "hsl(209.92523297051696, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-136",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 25)",
+    "color": "hsl(275.2070085311408, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-137",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 26)",
+    "color": "hsl(26.20612227419207, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-138",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 27)",
+    "color": "hsl(287.89299319120045, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-139",
+    "category": "Mini Games",
+    "text": "Word Association (Var 28)",
+    "color": "hsl(131.6492671998414, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-140",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 29)",
+    "color": "hsl(90.8536734474667, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-141",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 30)",
+    "color": "hsl(355.31423025645125, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-142",
+    "category": "Mini Games",
+    "text": "Categories (Var 31)",
+    "color": "hsl(6.878097821723577, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-143",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 32)",
+    "color": "hsl(22.179870708811826, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-144",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 33)",
+    "color": "hsl(322.831791171657, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-145",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 34)",
+    "color": "hsl(331.47245763212914, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-146",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 35)",
+    "color": "hsl(89.29646866446203, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-147",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 36)",
+    "color": "hsl(200.52980373179048, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-148",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 37)",
+    "color": "hsl(313.6908423670834, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-149",
+    "category": "Mini Games",
+    "text": "Word Association (Var 38)",
+    "color": "hsl(243.62408294706609, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-150",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 39)",
+    "color": "hsl(290.2822108609817, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-151",
+    "category": "Mini Games",
+    "text": "Categories (Var 40)",
+    "color": "hsl(28.190121085581108, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-152",
+    "category": "Mini Games",
+    "text": "Categories (Var 41)",
+    "color": "hsl(267.25481173079646, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-153",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 42)",
+    "color": "hsl(357.80608703256456, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-154",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 43)",
+    "color": "hsl(28.151345611133802, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-155",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 44)",
+    "color": "hsl(253.61012457273299, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-156",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 45)",
+    "color": "hsl(253.5939000559018, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-157",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 46)",
+    "color": "hsl(294.51816578339987, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-158",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 47)",
+    "color": "hsl(336.93022543314686, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-159",
+    "category": "Mini Games",
+    "text": "Categories (Var 48)",
+    "color": "hsl(149.3914587926892, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-160",
+    "category": "Mini Games",
+    "text": "Categories (Var 49)",
+    "color": "hsl(261.75656628753626, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-161",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 50)",
+    "color": "hsl(52.54846707022079, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-162",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 51)",
+    "color": "hsl(8.408211625117875, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-163",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 52)",
+    "color": "hsl(112.37017622929802, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-164",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 53)",
+    "color": "hsl(129.53495930783086, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-165",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 54)",
+    "color": "hsl(343.5996262636316, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-166",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 55)",
+    "color": "hsl(58.7967936712373, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-167",
+    "category": "Mini Games",
+    "text": "Categories (Var 56)",
+    "color": "hsl(337.10715357167646, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-168",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 57)",
+    "color": "hsl(125.38574458803822, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-169",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 58)",
+    "color": "hsl(72.35656594764774, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-170",
+    "category": "Mini Games",
+    "text": "Categories (Var 59)",
+    "color": "hsl(56.726687772631806, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-171",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 60)",
+    "color": "hsl(353.3991444375013, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-172",
+    "category": "Mini Games",
+    "text": "Categories (Var 61)",
+    "color": "hsl(323.0151546816033, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-173",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 62)",
+    "color": "hsl(334.64450511182247, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-174",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 63)",
+    "color": "hsl(77.3563472705885, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-175",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 64)",
+    "color": "hsl(352.89092339178455, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-176",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 65)",
+    "color": "hsl(15.622875792525885, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-177",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 66)",
+    "color": "hsl(260.69621698202707, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-178",
+    "category": "Mini Games",
+    "text": "Word Association (Var 67)",
+    "color": "hsl(20.071562767277932, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-179",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 68)",
+    "color": "hsl(234.06840505519193, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-180",
+    "category": "Mini Games",
+    "text": "Categories (Var 69)",
+    "color": "hsl(248.81070445853027, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-181",
+    "category": "Mini Games",
+    "text": "Categories (Var 70)",
+    "color": "hsl(175.91885663371193, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-182",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 71)",
+    "color": "hsl(234.36289615108623, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-183",
+    "category": "Mini Games",
+    "text": "Word Association (Var 72)",
+    "color": "hsl(308.53839174474166, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-184",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 73)",
+    "color": "hsl(279.07693971280565, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-185",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 74)",
+    "color": "hsl(282.6360584108346, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-186",
+    "category": "Mini Games",
+    "text": "Categories (Var 75)",
+    "color": "hsl(162.177601898686, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-187",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 76)",
+    "color": "hsl(253.09617836129706, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-188",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 77)",
+    "color": "hsl(118.30088431600869, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-189",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 78)",
+    "color": "hsl(259.37604765750194, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-190",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 79)",
+    "color": "hsl(254.90577245108796, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-191",
+    "category": "Mini Games",
+    "text": "Word Association (Var 80)",
+    "color": "hsl(101.68744221226734, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-192",
+    "category": "Mini Games",
+    "text": "Categories (Var 81)",
+    "color": "hsl(157.89057053334733, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-193",
+    "category": "Mini Games",
+    "text": "Categories (Var 82)",
+    "color": "hsl(174.47472662373994, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-194",
+    "category": "Mini Games",
+    "text": "Categories (Var 83)",
+    "color": "hsl(188.8676054046942, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-195",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 84)",
+    "color": "hsl(160.3168639552132, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-196",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 85)",
+    "color": "hsl(189.156093901532, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-197",
+    "category": "Mini Games",
+    "text": "Word Association (Var 86)",
+    "color": "hsl(255.25685505204487, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-198",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 87)",
+    "color": "hsl(62.34302428201347, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-199",
+    "category": "Mini Games",
+    "text": "Word Association (Var 88)",
+    "color": "hsl(173.50123182340266, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-200",
+    "category": "Mini Games",
+    "text": "Categories (Var 89)",
+    "color": "hsl(136.46232430004193, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-201",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 90)",
+    "color": "hsl(152.48330570341045, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-202",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 91)",
+    "color": "hsl(244.68649317659236, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-203",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 92)",
+    "color": "hsl(240.55559354567308, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-204",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 93)",
+    "color": "hsl(278.33107457893976, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-205",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 94)",
+    "color": "hsl(184.21820135246267, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-206",
+    "category": "Mini Games",
+    "text": "Categories (Var 95)",
+    "color": "hsl(146.07023364409307, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-207",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 96)",
+    "color": "hsl(271.34290565469945, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-208",
+    "category": "Mini Games",
+    "text": "Word Association (Var 97)",
+    "color": "hsl(258.4567816692468, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-209",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 98)",
+    "color": "hsl(100.65709634925332, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-210",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 99)",
+    "color": "hsl(237.29088036885443, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-211",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 100)",
+    "color": "hsl(171.45142087354975, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-212",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 101)",
+    "color": "hsl(213.50914158002712, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-213",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 102)",
+    "color": "hsl(50.96097563042013, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-214",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 103)",
+    "color": "hsl(229.36671826359574, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-215",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 104)",
+    "color": "hsl(102.93414838881695, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-216",
+    "category": "Mini Games",
+    "text": "Staring Contest (Var 105)",
+    "color": "hsl(142.50251467330384, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-217",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 106)",
+    "color": "hsl(29.17549749067466, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-218",
+    "category": "Mini Games",
+    "text": "Rhyme Time (Var 107)",
+    "color": "hsl(17.367952207350235, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-219",
+    "category": "Mini Games",
+    "text": "Rock Paper Scissors (Var 108)",
+    "color": "hsl(218.36874710551658, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-mini-games-220",
+    "category": "Mini Games",
+    "text": "Thumb War (Var 109)",
+    "color": "hsl(80.99127941830339, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-221",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 0)",
+    "color": "hsl(333.86114487159915, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-222",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 1)",
+    "color": "hsl(356.8113626007637, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-223",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 2)",
+    "color": "hsl(260.4657748584443, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-224",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 3)",
+    "color": "hsl(81.96216699145704, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-225",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 4)",
+    "color": "hsl(153.7721035297949, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-226",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 5)",
+    "color": "hsl(178.1503580496725, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-227",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 6)",
+    "color": "hsl(100.78214896990774, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-228",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 7)",
+    "color": "hsl(73.13603237139999, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-229",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 8)",
+    "color": "hsl(347.8964269112878, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-230",
+    "category": "Rewards",
+    "text": "Double points (Var 9)",
+    "color": "hsl(209.85937493343374, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-231",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 10)",
+    "color": "hsl(29.50861063940023, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-232",
+    "category": "Rewards",
+    "text": "Double points (Var 11)",
+    "color": "hsl(256.1682563575126, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-233",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 12)",
+    "color": "hsl(40.828700547435545, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-234",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 13)",
+    "color": "hsl(302.23737516574204, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-235",
+    "category": "Rewards",
+    "text": "Double points (Var 14)",
+    "color": "hsl(166.4374742323865, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-236",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 15)",
+    "color": "hsl(282.4765749666072, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-237",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 16)",
+    "color": "hsl(138.83177254304826, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-238",
+    "category": "Rewards",
+    "text": "Double points (Var 17)",
+    "color": "hsl(69.44663696807744, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-239",
+    "category": "Rewards",
+    "text": "Double points (Var 18)",
+    "color": "hsl(165.40075473189077, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-240",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 19)",
+    "color": "hsl(143.72694150199976, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-241",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 20)",
+    "color": "hsl(350.8422449404554, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-242",
+    "category": "Rewards",
+    "text": "Double points (Var 21)",
+    "color": "hsl(220.48529716760868, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-243",
+    "category": "Rewards",
+    "text": "Double points (Var 22)",
+    "color": "hsl(43.348200805717184, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-244",
+    "category": "Rewards",
+    "text": "Double points (Var 23)",
+    "color": "hsl(118.91236505939787, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-245",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 24)",
+    "color": "hsl(57.868708176316034, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-246",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 25)",
+    "color": "hsl(339.2847311365779, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-247",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 26)",
+    "color": "hsl(291.97112501838257, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-248",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 27)",
+    "color": "hsl(108.3278758527911, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-249",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 28)",
+    "color": "hsl(207.9888145982769, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-250",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 29)",
+    "color": "hsl(23.922271573047695, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-251",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 30)",
+    "color": "hsl(212.9769922227158, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-252",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 31)",
+    "color": "hsl(322.6121951630901, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-253",
+    "category": "Rewards",
+    "text": "Double points (Var 32)",
+    "color": "hsl(191.41842448463893, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-254",
+    "category": "Rewards",
+    "text": "Double points (Var 33)",
+    "color": "hsl(15.73753892659357, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-255",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 34)",
+    "color": "hsl(184.3564025564361, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-256",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 35)",
+    "color": "hsl(74.1632641803014, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-257",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 36)",
+    "color": "hsl(230.1963527874273, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-258",
+    "category": "Rewards",
+    "text": "Double points (Var 37)",
+    "color": "hsl(146.44320543978498, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-259",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 38)",
+    "color": "hsl(313.48969539618383, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-260",
+    "category": "Rewards",
+    "text": "Double points (Var 39)",
+    "color": "hsl(340.4326417910218, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-261",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 40)",
+    "color": "hsl(259.37576070812884, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-262",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 41)",
+    "color": "hsl(309.11143437755845, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-263",
+    "category": "Rewards",
+    "text": "Double points (Var 42)",
+    "color": "hsl(228.67616681736823, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-264",
+    "category": "Rewards",
+    "text": "Double points (Var 43)",
+    "color": "hsl(182.03408325482732, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-265",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 44)",
+    "color": "hsl(117.41786857156455, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-266",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 45)",
+    "color": "hsl(281.3554478640485, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-267",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 46)",
+    "color": "hsl(36.243499820238625, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-268",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 47)",
+    "color": "hsl(71.60347984643141, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-269",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 48)",
+    "color": "hsl(277.03249913400526, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-270",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 49)",
+    "color": "hsl(233.23461223747847, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-271",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 50)",
+    "color": "hsl(130.43973094183528, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-272",
+    "category": "Rewards",
+    "text": "Double points (Var 51)",
+    "color": "hsl(300.52096976239244, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-273",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 52)",
+    "color": "hsl(133.0319659201708, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-274",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 53)",
+    "color": "hsl(153.83193597536518, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-275",
+    "category": "Rewards",
+    "text": "Double points (Var 54)",
+    "color": "hsl(221.41778898135223, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-276",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 55)",
+    "color": "hsl(55.22503650104559, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-277",
+    "category": "Rewards",
+    "text": "Double points (Var 56)",
+    "color": "hsl(217.4805496348804, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-278",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 57)",
+    "color": "hsl(181.88724766247606, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-279",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 58)",
+    "color": "hsl(136.72286251299036, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-280",
+    "category": "Rewards",
+    "text": "Double points (Var 59)",
+    "color": "hsl(40.43443903523351, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-281",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 60)",
+    "color": "hsl(210.21360129895444, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-282",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 61)",
+    "color": "hsl(157.22521690402993, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-283",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 62)",
+    "color": "hsl(44.75828107592755, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-284",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 63)",
+    "color": "hsl(152.85722178033626, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-285",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 64)",
+    "color": "hsl(270.5428873853298, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-286",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 65)",
+    "color": "hsl(43.10220352676927, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-287",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 66)",
+    "color": "hsl(232.55560187501035, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-288",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 67)",
+    "color": "hsl(74.57491360742257, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-289",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 68)",
+    "color": "hsl(247.36321119651973, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-290",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 69)",
+    "color": "hsl(190.0368875436479, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-291",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 70)",
+    "color": "hsl(143.65679643484188, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-292",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 71)",
+    "color": "hsl(28.797593668699207, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-293",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 72)",
+    "color": "hsl(2.3989363676214026, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-294",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 73)",
+    "color": "hsl(253.91110101196261, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-295",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 74)",
+    "color": "hsl(95.40402637460153, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-296",
+    "category": "Rewards",
+    "text": "Double points (Var 75)",
+    "color": "hsl(51.90597041820135, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-297",
+    "category": "Rewards",
+    "text": "Double points (Var 76)",
+    "color": "hsl(180.73909200282725, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-298",
+    "category": "Rewards",
+    "text": "Double points (Var 77)",
+    "color": "hsl(103.22123272120955, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-299",
+    "category": "Rewards",
+    "text": "Double points (Var 78)",
+    "color": "hsl(163.78661030517569, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-300",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 79)",
+    "color": "hsl(164.50133507762476, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-301",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 80)",
+    "color": "hsl(174.35980712647122, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-302",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 81)",
+    "color": "hsl(9.954896363115516, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-303",
+    "category": "Rewards",
+    "text": "Double points (Var 82)",
+    "color": "hsl(106.65776123368738, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-304",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 83)",
+    "color": "hsl(134.95165280465358, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-305",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 84)",
+    "color": "hsl(347.5110161221482, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-306",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 85)",
+    "color": "hsl(8.808879146026527, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-307",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 86)",
+    "color": "hsl(118.9609334387747, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-308",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 87)",
+    "color": "hsl(251.83917096614198, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-309",
+    "category": "Rewards",
+    "text": "Double points (Var 88)",
+    "color": "hsl(82.63281754111446, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-310",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 89)",
+    "color": "hsl(53.94961114590807, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-311",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 90)",
+    "color": "hsl(75.51355101097566, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-312",
+    "category": "Rewards",
+    "text": "Double points (Var 91)",
+    "color": "hsl(344.385012504564, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-313",
+    "category": "Rewards",
+    "text": "Double points (Var 92)",
+    "color": "hsl(269.3718461206985, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-314",
+    "category": "Rewards",
+    "text": "Double points (Var 93)",
+    "color": "hsl(36.649795150212164, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-315",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 94)",
+    "color": "hsl(65.43998516250898, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-316",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 95)",
+    "color": "hsl(244.12563463866837, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-317",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 96)",
+    "color": "hsl(28.233990046360322, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-318",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 97)",
+    "color": "hsl(182.5839722225301, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-319",
+    "category": "Rewards",
+    "text": "Get a free pass (Var 98)",
+    "color": "hsl(166.5149087207892, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-320",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 99)",
+    "color": "hsl(181.56974475911335, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-321",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 100)",
+    "color": "hsl(187.97496145785402, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-322",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 101)",
+    "color": "hsl(321.08083513106686, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-323",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 102)",
+    "color": "hsl(151.7071846871955, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-324",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 103)",
+    "color": "hsl(332.8234033072064, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-325",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 104)",
+    "color": "hsl(101.99795155263739, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-326",
+    "category": "Rewards",
+    "text": "Skip your next turn (Var 105)",
+    "color": "hsl(271.9039623319863, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-327",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 106)",
+    "color": "hsl(325.76466017582266, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-328",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 107)",
+    "color": "hsl(282.729482190239, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-329",
+    "category": "Rewards",
+    "text": "Choose the next game (Var 108)",
+    "color": "hsl(129.18245825433698, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-rewards-330",
+    "category": "Rewards",
+    "text": "Assign a dare (Var 109)",
+    "color": "hsl(131.15458178913804, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-331",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 0)",
+    "color": "hsl(22.322951847207765, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-332",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 1)",
+    "color": "hsl(351.82162430650385, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-333",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 2)",
+    "color": "hsl(77.17925056391807, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-334",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 3)",
+    "color": "hsl(81.29565851639178, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-335",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 4)",
+    "color": "hsl(158.18208214502474, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-336",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 5)",
+    "color": "hsl(335.6946053864313, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-337",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 6)",
+    "color": "hsl(243.89874739835037, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-338",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 7)",
+    "color": "hsl(123.48037355430668, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-339",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 8)",
+    "color": "hsl(270.9730905901314, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-340",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 9)",
+    "color": "hsl(344.78684462518254, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-341",
+    "category": "Punishments",
+    "text": "Minus 5 points (Var 10)",
+    "color": "hsl(87.18803411345374, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-342",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 11)",
+    "color": "hsl(173.37906243181342, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-343",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 12)",
+    "color": "hsl(233.5659056389057, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-344",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 13)",
+    "color": "hsl(167.81848719845777, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-345",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 14)",
+    "color": "hsl(253.71005221422655, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-346",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 15)",
+    "color": "hsl(53.787596851909505, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-347",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 16)",
+    "color": "hsl(257.18504215294234, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-348",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 17)",
+    "color": "hsl(162.74563272563978, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-349",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 18)",
+    "color": "hsl(300.19067506706887, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-350",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 19)",
+    "color": "hsl(136.36511013864526, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-351",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 20)",
+    "color": "hsl(82.07475077194869, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-352",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 21)",
+    "color": "hsl(9.762207206318667, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-353",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 22)",
+    "color": "hsl(308.0406532677487, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-354",
+    "category": "Punishments",
+    "text": "Do a dare (Var 23)",
+    "color": "hsl(355.40094641246213, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-355",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 24)",
+    "color": "hsl(26.925644720727938, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-356",
+    "category": "Punishments",
+    "text": "Do a dare (Var 25)",
+    "color": "hsl(232.08841952194962, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-357",
+    "category": "Punishments",
+    "text": "Minus 50 points (Var 26)",
+    "color": "hsl(96.69831230585825, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-358",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 27)",
+    "color": "hsl(260.0883538563775, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-359",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 28)",
+    "color": "hsl(253.55602429858916, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-360",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 29)",
+    "color": "hsl(49.6606376451988, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-361",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 30)",
+    "color": "hsl(97.43407446705582, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-362",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 31)",
+    "color": "hsl(349.2485681730378, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-363",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 32)",
+    "color": "hsl(67.17341657670147, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-364",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 33)",
+    "color": "hsl(92.87778056840861, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-365",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 34)",
+    "color": "hsl(60.54920531167201, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-366",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 35)",
+    "color": "hsl(355.2852796742238, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-367",
+    "category": "Punishments",
+    "text": "Do a dare (Var 36)",
+    "color": "hsl(252.28788769768715, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-368",
+    "category": "Punishments",
+    "text": "Do a dare (Var 37)",
+    "color": "hsl(31.11910877437278, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-369",
+    "category": "Punishments",
+    "text": "Minus 50 points (Var 38)",
+    "color": "hsl(322.44349721572996, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-370",
+    "category": "Punishments",
+    "text": "Minus 50 points (Var 39)",
+    "color": "hsl(141.7673432030354, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-371",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 40)",
+    "color": "hsl(346.3607909143831, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-372",
+    "category": "Punishments",
+    "text": "Do a dare (Var 41)",
+    "color": "hsl(167.82654659497905, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-373",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 42)",
+    "color": "hsl(221.76516959053495, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-374",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 43)",
+    "color": "hsl(338.28029804517007, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-375",
+    "category": "Punishments",
+    "text": "Minus 15 points (Var 44)",
+    "color": "hsl(95.56587952042254, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-376",
+    "category": "Punishments",
+    "text": "Minus 15 points (Var 45)",
+    "color": "hsl(300.39534780602673, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-377",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 46)",
+    "color": "hsl(260.93240749630894, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-378",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 47)",
+    "color": "hsl(301.16320731641997, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-379",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 48)",
+    "color": "hsl(341.27854798647917, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-380",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 49)",
+    "color": "hsl(280.73564036524243, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-381",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 50)",
+    "color": "hsl(72.20768975638462, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-382",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 51)",
+    "color": "hsl(237.52526133811122, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-383",
+    "category": "Punishments",
+    "text": "Do a dare (Var 52)",
+    "color": "hsl(293.2745384438014, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-384",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 53)",
+    "color": "hsl(232.25398874870547, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-385",
+    "category": "Punishments",
+    "text": "Do a dare (Var 54)",
+    "color": "hsl(177.9340821518572, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-386",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 55)",
+    "color": "hsl(275.018449731737, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-387",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 56)",
+    "color": "hsl(255.7607113764251, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-388",
+    "category": "Punishments",
+    "text": "Minus 15 points (Var 57)",
+    "color": "hsl(228.28987090689, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-389",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 58)",
+    "color": "hsl(172.34340425586527, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-390",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 59)",
+    "color": "hsl(343.2245244574713, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-391",
+    "category": "Punishments",
+    "text": "Do a dare (Var 60)",
+    "color": "hsl(38.05863160526425, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-392",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 61)",
+    "color": "hsl(98.58241319168798, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-393",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 62)",
+    "color": "hsl(88.96219445276233, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-394",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 63)",
+    "color": "hsl(127.11736552617093, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-395",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 64)",
+    "color": "hsl(109.94772962647966, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-396",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 65)",
+    "color": "hsl(339.8773943883096, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-397",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 66)",
+    "color": "hsl(219.49871019489825, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-398",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 67)",
+    "color": "hsl(149.45008156928634, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-399",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 68)",
+    "color": "hsl(319.6220791703811, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-400",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 69)",
+    "color": "hsl(337.7648326203683, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-401",
+    "category": "Punishments",
+    "text": "Do a dare (Var 70)",
+    "color": "hsl(199.44288541961555, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-402",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 71)",
+    "color": "hsl(54.93297624909824, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-403",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 72)",
+    "color": "hsl(346.4953945928817, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-404",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 73)",
+    "color": "hsl(126.47863492157, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-405",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 74)",
+    "color": "hsl(357.1044738519831, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-406",
+    "category": "Punishments",
+    "text": "Minus 50 points (Var 75)",
+    "color": "hsl(292.25081015449985, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-407",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 76)",
+    "color": "hsl(17.387942066253082, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-408",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 77)",
+    "color": "hsl(339.2855434059001, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-409",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 78)",
+    "color": "hsl(243.1199709697756, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-410",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 79)",
+    "color": "hsl(197.4568476588924, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-411",
+    "category": "Punishments",
+    "text": "Minus 5 points (Var 80)",
+    "color": "hsl(163.4734418068356, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-412",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 81)",
+    "color": "hsl(231.1248832970261, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-413",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 82)",
+    "color": "hsl(201.91261142222027, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-414",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 83)",
+    "color": "hsl(233.60228818233116, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-415",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 84)",
+    "color": "hsl(123.95218368285282, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-416",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 85)",
+    "color": "hsl(275.1822061967603, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-417",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 86)",
+    "color": "hsl(280.8118421622827, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-418",
+    "category": "Punishments",
+    "text": "Lose a turn (Var 87)",
+    "color": "hsl(341.11399627281224, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-419",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 88)",
+    "color": "hsl(266.740746136527, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-420",
+    "category": "Punishments",
+    "text": "Do a dare (Var 89)",
+    "color": "hsl(222.5197802563401, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-421",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 90)",
+    "color": "hsl(118.67981921500622, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-422",
+    "category": "Punishments",
+    "text": "Minus 50 points (Var 91)",
+    "color": "hsl(75.7896550893739, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-423",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 92)",
+    "color": "hsl(11.001297479979538, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-424",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 93)",
+    "color": "hsl(56.22643028300922, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-425",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 94)",
+    "color": "hsl(335.88937472443087, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-426",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 95)",
+    "color": "hsl(144.20565993393757, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-427",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 96)",
+    "color": "hsl(128.39725232943175, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-428",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 97)",
+    "color": "hsl(306.6828920730754, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-429",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 98)",
+    "color": "hsl(271.00428430508015, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-430",
+    "category": "Punishments",
+    "text": "Minus 20 points (Var 99)",
+    "color": "hsl(14.21956294026311, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-431",
+    "category": "Punishments",
+    "text": "Do a dare (Var 100)",
+    "color": "hsl(252.39927414050243, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-432",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 101)",
+    "color": "hsl(58.05189204130763, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-433",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 102)",
+    "color": "hsl(103.57607960169085, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-434",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 103)",
+    "color": "hsl(123.48581296347704, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-435",
+    "category": "Punishments",
+    "text": "Minus 5 points (Var 104)",
+    "color": "hsl(127.82383704221704, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-436",
+    "category": "Punishments",
+    "text": "Do a dare (Var 105)",
+    "color": "hsl(171.36094239563153, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-437",
+    "category": "Punishments",
+    "text": "Wear a silly hat (Var 106)",
+    "color": "hsl(325.8710253286777, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-438",
+    "category": "Punishments",
+    "text": "Minus 10 points (Var 107)",
+    "color": "hsl(163.9700238640809, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-439",
+    "category": "Punishments",
+    "text": "Do a dare (Var 108)",
+    "color": "hsl(224.31869244882756, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-punishments-440",
+    "category": "Punishments",
+    "text": "Sing everything you say (Var 109)",
+    "color": "hsl(22.83311747788696, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-441",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 0)",
+    "color": "hsl(58.56264501069197, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-442",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 1)",
+    "color": "hsl(300.42401091743477, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-443",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 2)",
+    "color": "hsl(98.4782934357253, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-444",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 3)",
+    "color": "hsl(226.3657421044721, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-445",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 4)",
+    "color": "hsl(260.80511598049156, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-446",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 5)",
+    "color": "hsl(316.6182864285049, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-447",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 6)",
+    "color": "hsl(15.809584186874567, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-448",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 7)",
+    "color": "hsl(146.7829059640646, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-449",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 8)",
+    "color": "hsl(336.2665460417566, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-450",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 9)",
+    "color": "hsl(359.7357692041898, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-451",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 10)",
+    "color": "hsl(97.32504682976509, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-452",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 11)",
+    "color": "hsl(354.45695834909645, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-453",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 12)",
+    "color": "hsl(104.38726243767388, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-454",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 13)",
+    "color": "hsl(314.72465957146596, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-455",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 14)",
+    "color": "hsl(0.9479300296190862, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-456",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 15)",
+    "color": "hsl(36.53053981607451, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-457",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 16)",
+    "color": "hsl(19.483115914015045, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-458",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 17)",
+    "color": "hsl(264.5347186759448, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-459",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 18)",
+    "color": "hsl(84.97466308706306, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-460",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 19)",
+    "color": "hsl(347.8963773402981, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-461",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 20)",
+    "color": "hsl(97.62948298823838, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-462",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 21)",
+    "color": "hsl(0.41552026161419064, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-463",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 22)",
+    "color": "hsl(264.14299269528664, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-464",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 23)",
+    "color": "hsl(350.66706287516706, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-465",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 24)",
+    "color": "hsl(311.4497530683348, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-466",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 25)",
+    "color": "hsl(48.44701008604472, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-467",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 26)",
+    "color": "hsl(167.1742329766964, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-468",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 27)",
+    "color": "hsl(292.975971957744, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-469",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 28)",
+    "color": "hsl(356.95058623069434, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-470",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 29)",
+    "color": "hsl(184.04764505486926, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-471",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 30)",
+    "color": "hsl(37.63526832540697, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-472",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 31)",
+    "color": "hsl(240.71238955399883, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-473",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 32)",
+    "color": "hsl(354.0626160068264, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-474",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 33)",
+    "color": "hsl(350.6989899224497, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-475",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 34)",
+    "color": "hsl(261.29736775581245, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-476",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 35)",
+    "color": "hsl(332.53641079065574, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-477",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 36)",
+    "color": "hsl(143.222359204543, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-478",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 37)",
+    "color": "hsl(73.33470900485483, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-479",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 38)",
+    "color": "hsl(261.7571847273707, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-480",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 39)",
+    "color": "hsl(86.61246137730139, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-481",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 40)",
+    "color": "hsl(44.259947191876314, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-482",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 41)",
+    "color": "hsl(194.47554466502766, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-483",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 42)",
+    "color": "hsl(193.76518951117077, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-484",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 43)",
+    "color": "hsl(176.804955533815, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-485",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 44)",
+    "color": "hsl(353.49852074611033, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-486",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 45)",
+    "color": "hsl(249.03978609099048, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-487",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 46)",
+    "color": "hsl(206.63705608063498, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-488",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 47)",
+    "color": "hsl(164.76594226703574, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-489",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 48)",
+    "color": "hsl(278.1364688879116, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-490",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 49)",
+    "color": "hsl(238.676827288412, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-491",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 50)",
+    "color": "hsl(111.29971216641285, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-492",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 51)",
+    "color": "hsl(77.78278530720112, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-493",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 52)",
+    "color": "hsl(317.784927492569, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-494",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 53)",
+    "color": "hsl(157.07966830226002, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-495",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 54)",
+    "color": "hsl(115.72883300362652, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-496",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 55)",
+    "color": "hsl(152.21149613430472, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-497",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 56)",
+    "color": "hsl(96.70544169580756, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-498",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 57)",
+    "color": "hsl(254.23630198146935, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-499",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 58)",
+    "color": "hsl(318.6167988048168, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-500",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 59)",
+    "color": "hsl(39.33023334329219, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-501",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 60)",
+    "color": "hsl(35.97362327129463, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-502",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 61)",
+    "color": "hsl(135.08016504672608, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-503",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 62)",
+    "color": "hsl(222.25537070234486, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-504",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 63)",
+    "color": "hsl(127.14411380145387, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-505",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 64)",
+    "color": "hsl(110.77095602321309, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-506",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 65)",
+    "color": "hsl(231.21903298374795, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-507",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 66)",
+    "color": "hsl(170.02042505305005, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-508",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 67)",
+    "color": "hsl(315.2364307785047, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-509",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 68)",
+    "color": "hsl(38.187424836455946, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-510",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 69)",
+    "color": "hsl(328.63838714013946, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-511",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 70)",
+    "color": "hsl(70.74234352714355, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-512",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 71)",
+    "color": "hsl(65.25924513645931, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-513",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 72)",
+    "color": "hsl(10.816937530528605, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-514",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 73)",
+    "color": "hsl(200.05616636407396, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-515",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 74)",
+    "color": "hsl(276.3641167169926, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-516",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 75)",
+    "color": "hsl(143.3314020942686, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-517",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 76)",
+    "color": "hsl(208.65998423646627, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-518",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 77)",
+    "color": "hsl(292.10572842607706, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-519",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 78)",
+    "color": "hsl(266.5486859515614, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-520",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 79)",
+    "color": "hsl(129.92249739717585, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-521",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 80)",
+    "color": "hsl(36.67468073359966, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-522",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 81)",
+    "color": "hsl(127.9439516800981, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-523",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 82)",
+    "color": "hsl(232.16170918228053, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-524",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 83)",
+    "color": "hsl(143.1158613790406, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-525",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 84)",
+    "color": "hsl(351.27472548944843, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-526",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 85)",
+    "color": "hsl(123.6497021049894, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-527",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 86)",
+    "color": "hsl(103.77321200527923, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-528",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 87)",
+    "color": "hsl(272.5397332228888, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-529",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 88)",
+    "color": "hsl(290.46569825399524, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-530",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 89)",
+    "color": "hsl(142.7974468302881, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-531",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 90)",
+    "color": "hsl(323.67738987217774, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-532",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 91)",
+    "color": "hsl(216.51050650644098, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-533",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 92)",
+    "color": "hsl(168.92319117898117, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-534",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 93)",
+    "color": "hsl(96.04180986597841, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-535",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 94)",
+    "color": "hsl(96.6805609214697, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-536",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 95)",
+    "color": "hsl(51.361891864263384, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-537",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 96)",
+    "color": "hsl(104.10637081430566, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-538",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 97)",
+    "color": "hsl(300.8540087856746, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-539",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 98)",
+    "color": "hsl(162.9424660837526, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-540",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 99)",
+    "color": "hsl(128.07450735480688, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-541",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 100)",
+    "color": "hsl(343.89581972778217, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-542",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 101)",
+    "color": "hsl(251.31883587069035, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-543",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 102)",
+    "color": "hsl(183.92725189800393, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-544",
+    "category": "Truths",
+    "text": "What is your secret talent? (Var 103)",
+    "color": "hsl(14.799933660807296, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-545",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 104)",
+    "color": "hsl(118.3573995521644, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-546",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 105)",
+    "color": "hsl(276.1524284851006, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-547",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 106)",
+    "color": "hsl(312.46236043105927, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-548",
+    "category": "Truths",
+    "text": "What is your biggest fear? (Var 107)",
+    "color": "hsl(68.38017773223278, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-549",
+    "category": "Truths",
+    "text": "What is your most embarrassing memory? (Var 108)",
+    "color": "hsl(62.5389272392112, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-truths-550",
+    "category": "Truths",
+    "text": "Who do you like the most? (Var 109)",
+    "color": "hsl(278.4095560447969, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-551",
+    "category": "Dares",
+    "text": "Act like a chicken (Var 0)",
+    "color": "hsl(191.56842239240225, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-552",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 1)",
+    "color": "hsl(298.44516253121935, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-553",
+    "category": "Dares",
+    "text": "Act like a cat (Var 2)",
+    "color": "hsl(314.8494092613819, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-554",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 3)",
+    "color": "hsl(108.6968825460523, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-555",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 4)",
+    "color": "hsl(252.58937091893458, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-556",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 5)",
+    "color": "hsl(331.53510424344415, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-557",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 6)",
+    "color": "hsl(112.71053116124604, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-558",
+    "category": "Dares",
+    "text": "Eat a spoon of mustard (Var 7)",
+    "color": "hsl(25.042300177397884, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-559",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 8)",
+    "color": "hsl(28.569759971808395, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-560",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 9)",
+    "color": "hsl(121.30396619668798, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-561",
+    "category": "Dares",
+    "text": "Act like a cat (Var 10)",
+    "color": "hsl(7.557381985849738, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-562",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 11)",
+    "color": "hsl(32.82716930054298, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-563",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 12)",
+    "color": "hsl(47.64928381567261, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-564",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 13)",
+    "color": "hsl(226.6981270870198, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-565",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 14)",
+    "color": "hsl(340.95782335593447, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-566",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 15)",
+    "color": "hsl(125.1119190337573, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-567",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 16)",
+    "color": "hsl(108.32758426671988, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-568",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 17)",
+    "color": "hsl(200.60172618787374, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-569",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 18)",
+    "color": "hsl(343.11706396777464, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-570",
+    "category": "Dares",
+    "text": "Eat a spoon of mustard (Var 19)",
+    "color": "hsl(69.71631457685953, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-571",
+    "category": "Dares",
+    "text": "Act like a chicken (Var 20)",
+    "color": "hsl(155.48598801936282, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-572",
+    "category": "Dares",
+    "text": "Act like a dog (Var 21)",
+    "color": "hsl(149.68363955239786, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-573",
+    "category": "Dares",
+    "text": "Act like a cat (Var 22)",
+    "color": "hsl(115.9373757820503, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-574",
+    "category": "Dares",
+    "text": "Act like a chicken (Var 23)",
+    "color": "hsl(170.46142819687853, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-575",
+    "category": "Dares",
+    "text": "Call someone and say What year is it? (Var 24)",
+    "color": "hsl(2.7246435295070226, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-576",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 25)",
+    "color": "hsl(255.56216714107507, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-577",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 26)",
+    "color": "hsl(55.44325614079061, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-578",
+    "category": "Dares",
+    "text": "Call someone and say What year is it? (Var 27)",
+    "color": "hsl(149.21474999841737, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-579",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 28)",
+    "color": "hsl(91.55432284003773, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-580",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 29)",
+    "color": "hsl(270.92348326993874, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-581",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 30)",
+    "color": "hsl(82.79482998033117, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-582",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 31)",
+    "color": "hsl(0.11609281120923853, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-583",
+    "category": "Dares",
+    "text": "Act like a cat (Var 32)",
+    "color": "hsl(239.58299635142, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-584",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 33)",
+    "color": "hsl(296.4886084314891, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-585",
+    "category": "Dares",
+    "text": "Act like a cat (Var 34)",
+    "color": "hsl(313.61641519120394, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-586",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 35)",
+    "color": "hsl(277.49215779196504, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-587",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 36)",
+    "color": "hsl(62.09145815035795, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-588",
+    "category": "Dares",
+    "text": "Act like a dog (Var 37)",
+    "color": "hsl(111.58931759757219, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-589",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 38)",
+    "color": "hsl(66.72311983574352, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-590",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 39)",
+    "color": "hsl(103.05091490782866, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-591",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 40)",
+    "color": "hsl(229.30046218219843, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-592",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 41)",
+    "color": "hsl(47.74032615950781, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-593",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 42)",
+    "color": "hsl(194.19793784999158, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-594",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 43)",
+    "color": "hsl(161.73330829220188, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-595",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 44)",
+    "color": "hsl(151.980606487735, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-596",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 45)",
+    "color": "hsl(296.22742525428447, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-597",
+    "category": "Dares",
+    "text": "Eat a spoon of mustard (Var 46)",
+    "color": "hsl(141.35699186724742, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-598",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 47)",
+    "color": "hsl(152.67451695301898, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-599",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 48)",
+    "color": "hsl(309.53112108397926, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-600",
+    "category": "Dares",
+    "text": "Act like a cat (Var 49)",
+    "color": "hsl(279.94572643277587, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-601",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 50)",
+    "color": "hsl(154.1746944654428, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-602",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 51)",
+    "color": "hsl(231.16548294376457, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-603",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 52)",
+    "color": "hsl(118.92951250820586, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-604",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 53)",
+    "color": "hsl(278.6103469671157, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-605",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 54)",
+    "color": "hsl(224.65880222476585, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-606",
+    "category": "Dares",
+    "text": "Call someone and say What year is it? (Var 55)",
+    "color": "hsl(7.061547442415614, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-607",
+    "category": "Dares",
+    "text": "Act like a dog (Var 56)",
+    "color": "hsl(27.787597670113943, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-608",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 57)",
+    "color": "hsl(84.13934094996155, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-609",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 58)",
+    "color": "hsl(133.63178229311552, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-610",
+    "category": "Dares",
+    "text": "Eat a spoon of ketchup (Var 59)",
+    "color": "hsl(180.1882334968212, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-611",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 60)",
+    "color": "hsl(333.2380601885723, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-612",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 61)",
+    "color": "hsl(182.47686056135734, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-613",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 62)",
+    "color": "hsl(66.36140174590531, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-614",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 63)",
+    "color": "hsl(152.22009697473067, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-615",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 64)",
+    "color": "hsl(71.10712927656647, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-616",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 65)",
+    "color": "hsl(158.0299393184563, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-617",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 66)",
+    "color": "hsl(245.33971020076515, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-618",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 67)",
+    "color": "hsl(88.28891108579882, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-619",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 68)",
+    "color": "hsl(111.43406016525299, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-620",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 69)",
+    "color": "hsl(65.55475970975135, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-621",
+    "category": "Dares",
+    "text": "Eat a spoon of ketchup (Var 70)",
+    "color": "hsl(315.2515400468911, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-622",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 71)",
+    "color": "hsl(196.61208701658873, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-623",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 72)",
+    "color": "hsl(255.19047371369956, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-624",
+    "category": "Dares",
+    "text": "Eat a spoon of ketchup (Var 73)",
+    "color": "hsl(231.14136647862352, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-625",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 74)",
+    "color": "hsl(226.8930229870234, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-626",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 75)",
+    "color": "hsl(45.955241279878855, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-627",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 76)",
+    "color": "hsl(286.5658006810381, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-628",
+    "category": "Dares",
+    "text": "Call someone and say I love cheese (Var 77)",
+    "color": "hsl(102.65174512381, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-629",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 78)",
+    "color": "hsl(176.23258782457197, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-630",
+    "category": "Dares",
+    "text": "Act like a dog (Var 79)",
+    "color": "hsl(185.49979319937276, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-631",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 80)",
+    "color": "hsl(37.776594331022636, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-632",
+    "category": "Dares",
+    "text": "Eat a spoon of hot sauce (Var 81)",
+    "color": "hsl(338.5567327513124, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-633",
+    "category": "Dares",
+    "text": "Act like a chicken (Var 82)",
+    "color": "hsl(248.35902713138398, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-634",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 83)",
+    "color": "hsl(117.5251861241707, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-635",
+    "category": "Dares",
+    "text": "Act like a elephant (Var 84)",
+    "color": "hsl(97.65717800146336, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-636",
+    "category": "Dares",
+    "text": "Act like a dog (Var 85)",
+    "color": "hsl(88.80467354793139, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-637",
+    "category": "Dares",
+    "text": "Eat a spoon of hot sauce (Var 86)",
+    "color": "hsl(178.99333618778053, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-638",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 87)",
+    "color": "hsl(28.96470819474303, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-639",
+    "category": "Dares",
+    "text": "Eat a spoon of hot sauce (Var 88)",
+    "color": "hsl(348.53888475875885, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-640",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 89)",
+    "color": "hsl(23.599067665922192, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-641",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 90)",
+    "color": "hsl(53.12580601490944, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-642",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 91)",
+    "color": "hsl(289.5562344172988, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-643",
+    "category": "Dares",
+    "text": "Dance for 30 seconds (Var 92)",
+    "color": "hsl(126.80352037818272, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-644",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 93)",
+    "color": "hsl(355.3559572783686, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-645",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 94)",
+    "color": "hsl(52.23782983965512, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-646",
+    "category": "Dares",
+    "text": "Act like a cat (Var 95)",
+    "color": "hsl(329.57005560340104, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-647",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 96)",
+    "color": "hsl(261.94692439886586, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-648",
+    "category": "Dares",
+    "text": "Call someone and say I am a banana (Var 97)",
+    "color": "hsl(248.76937731440643, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-649",
+    "category": "Dares",
+    "text": "Eat a spoon of salt (Var 98)",
+    "color": "hsl(103.85913867875607, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-650",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 99)",
+    "color": "hsl(65.7328974421787, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-651",
+    "category": "Dares",
+    "text": "Dance for 2 minutes (Var 100)",
+    "color": "hsl(330.62733164875897, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-652",
+    "category": "Dares",
+    "text": "Eat a spoon of mustard (Var 101)",
+    "color": "hsl(69.33732780613744, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-653",
+    "category": "Dares",
+    "text": "Dance for 1 minute (Var 102)",
+    "color": "hsl(19.320684263501732, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-654",
+    "category": "Dares",
+    "text": "Call someone and say Help me! (Var 103)",
+    "color": "hsl(345.44308958286035, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-655",
+    "category": "Dares",
+    "text": "Call someone and say What year is it? (Var 104)",
+    "color": "hsl(207.47316985198592, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-656",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 105)",
+    "color": "hsl(189.62709747670388, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-657",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 106)",
+    "color": "hsl(66.8817042463208, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-658",
+    "category": "Dares",
+    "text": "Dance for 10 seconds (Var 107)",
+    "color": "hsl(168.3705135694369, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-659",
+    "category": "Dares",
+    "text": "Eat a spoon of hot sauce (Var 108)",
+    "color": "hsl(147.75401684040673, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-dares-660",
+    "category": "Dares",
+    "text": "Act like a monkey (Var 109)",
+    "color": "hsl(335.62942087140846, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-661",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 0)",
+    "color": "hsl(291.61950414333114, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-662",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 1)",
+    "color": "hsl(115.61805520470557, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-663",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 2)",
+    "color": "hsl(38.182380211712534, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-664",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 3)",
+    "color": "hsl(153.02588263126515, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-665",
+    "category": "Random Tasks",
+    "text": "Spin around 50 times (Var 4)",
+    "color": "hsl(265.7835187707726, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-666",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 5)",
+    "color": "hsl(17.82862798518774, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-667",
+    "category": "Random Tasks",
+    "text": "Spin around 5 times (Var 6)",
+    "color": "hsl(249.74859345719585, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-668",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 7)",
+    "color": "hsl(75.03306996872864, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-669",
+    "category": "Random Tasks",
+    "text": "Spin around 5 times (Var 8)",
+    "color": "hsl(94.90672273609118, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-670",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 9)",
+    "color": "hsl(177.55448963634967, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-671",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 10)",
+    "color": "hsl(339.61094894327994, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-672",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 11)",
+    "color": "hsl(157.06864781156727, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-673",
+    "category": "Random Tasks",
+    "text": "Spin around 5 times (Var 12)",
+    "color": "hsl(312.7578661546862, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-674",
+    "category": "Random Tasks",
+    "text": "Spin around 5 times (Var 13)",
+    "color": "hsl(84.72075244914465, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-675",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 14)",
+    "color": "hsl(42.67192287735239, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-676",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 15)",
+    "color": "hsl(31.879722346177807, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-677",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 16)",
+    "color": "hsl(351.365808237382, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-678",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 17)",
+    "color": "hsl(298.91377580409, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-679",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 18)",
+    "color": "hsl(75.91665185815292, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-680",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 19)",
+    "color": "hsl(172.41128875920398, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-681",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 20)",
+    "color": "hsl(293.64188584130426, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-682",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 21)",
+    "color": "hsl(358.91650288487614, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-683",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 22)",
+    "color": "hsl(228.5938405800576, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-684",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 23)",
+    "color": "hsl(210.20341083246782, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-685",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 24)",
+    "color": "hsl(358.1923651712104, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-686",
+    "category": "Random Tasks",
+    "text": "Fetch a phone (Var 25)",
+    "color": "hsl(189.98547314339777, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-687",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 26)",
+    "color": "hsl(106.51777208134851, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-688",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 27)",
+    "color": "hsl(343.13940086924254, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-689",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 28)",
+    "color": "hsl(229.89696445357575, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-690",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 29)",
+    "color": "hsl(168.9751258834466, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-691",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 30)",
+    "color": "hsl(154.47403863647477, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-692",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 31)",
+    "color": "hsl(157.29926153435966, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-693",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 32)",
+    "color": "hsl(12.287486444391647, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-694",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 33)",
+    "color": "hsl(245.79610803061965, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-695",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 34)",
+    "color": "hsl(140.6829862566028, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-696",
+    "category": "Random Tasks",
+    "text": "Fetch a phone (Var 35)",
+    "color": "hsl(132.875720620041, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-697",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 36)",
+    "color": "hsl(174.8309239782202, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-698",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 37)",
+    "color": "hsl(146.55395936881612, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-699",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 38)",
+    "color": "hsl(105.4619957854037, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-700",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 39)",
+    "color": "hsl(119.53129257976971, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-701",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 40)",
+    "color": "hsl(251.38665980689336, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-702",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 41)",
+    "color": "hsl(331.4057234714455, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-703",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 42)",
+    "color": "hsl(130.01463140795568, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-704",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 43)",
+    "color": "hsl(184.39236619290904, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-705",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 44)",
+    "color": "hsl(302.1494793357753, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-706",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 45)",
+    "color": "hsl(170.24750661170233, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-707",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 46)",
+    "color": "hsl(293.7289571117742, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-708",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 47)",
+    "color": "hsl(119.86388099815582, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-709",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 48)",
+    "color": "hsl(285.4048263386421, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-710",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 49)",
+    "color": "hsl(332.3969740619339, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-711",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 50)",
+    "color": "hsl(74.14879162610781, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-712",
+    "category": "Random Tasks",
+    "text": "Fetch a book (Var 51)",
+    "color": "hsl(18.805982830933292, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-713",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 52)",
+    "color": "hsl(246.8615524046846, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-714",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 53)",
+    "color": "hsl(128.1712525900395, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-715",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 54)",
+    "color": "hsl(191.24597119023983, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-716",
+    "category": "Random Tasks",
+    "text": "Spin around 50 times (Var 55)",
+    "color": "hsl(136.59881568986646, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-717",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 56)",
+    "color": "hsl(175.64902472499492, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-718",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 57)",
+    "color": "hsl(331.3124013612345, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-719",
+    "category": "Random Tasks",
+    "text": "Fetch a pillow (Var 58)",
+    "color": "hsl(319.8671331384748, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-720",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 59)",
+    "color": "hsl(26.8557389151758, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-721",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 60)",
+    "color": "hsl(206.28778006569146, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-722",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 61)",
+    "color": "hsl(34.31684045740502, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-723",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 62)",
+    "color": "hsl(295.48899392827497, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-724",
+    "category": "Random Tasks",
+    "text": "Spin around 50 times (Var 63)",
+    "color": "hsl(280.4887989406709, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-725",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 64)",
+    "color": "hsl(86.7656180081588, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-726",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 65)",
+    "color": "hsl(23.436880595234868, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-727",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 66)",
+    "color": "hsl(88.14555238120845, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-728",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 67)",
+    "color": "hsl(39.224294857260176, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-729",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 68)",
+    "color": "hsl(29.520282660094956, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-730",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 69)",
+    "color": "hsl(240.9261339038398, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-731",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 70)",
+    "color": "hsl(305.5970221215871, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-732",
+    "category": "Random Tasks",
+    "text": "Fetch a book (Var 71)",
+    "color": "hsl(137.0923942756139, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-733",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 72)",
+    "color": "hsl(31.68156813381215, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-734",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 73)",
+    "color": "hsl(214.54255514941016, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-735",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 74)",
+    "color": "hsl(224.9826950133063, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-736",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 75)",
+    "color": "hsl(13.387430946465964, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-737",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 76)",
+    "color": "hsl(85.47706157526811, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-738",
+    "category": "Random Tasks",
+    "text": "Spin around 5 times (Var 77)",
+    "color": "hsl(266.2044912017207, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-739",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 78)",
+    "color": "hsl(171.38409217137152, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-740",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 79)",
+    "color": "hsl(108.57392722783936, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-741",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 80)",
+    "color": "hsl(56.556374482621436, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-742",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 81)",
+    "color": "hsl(182.98179627448658, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-743",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 82)",
+    "color": "hsl(213.4590320738641, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-744",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 83)",
+    "color": "hsl(139.19973901512702, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-745",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 84)",
+    "color": "hsl(161.44781534085368, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-746",
+    "category": "Random Tasks",
+    "text": "Fetch a phone (Var 85)",
+    "color": "hsl(241.68722109445767, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-747",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 86)",
+    "color": "hsl(187.51702539327485, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-748",
+    "category": "Random Tasks",
+    "text": "Fetch a phone (Var 87)",
+    "color": "hsl(124.43907209579748, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-749",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 88)",
+    "color": "hsl(242.7546738269208, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-750",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 89)",
+    "color": "hsl(275.4250069298236, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-751",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 90)",
+    "color": "hsl(187.23745153332078, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-752",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 91)",
+    "color": "hsl(55.92667812174219, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-753",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 92)",
+    "color": "hsl(48.61758130842375, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-754",
+    "category": "Random Tasks",
+    "text": "Spin around 15 times (Var 93)",
+    "color": "hsl(168.2243033675326, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-755",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 94)",
+    "color": "hsl(154.1474213219861, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-756",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 95)",
+    "color": "hsl(315.7488945609516, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-757",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 96)",
+    "color": "hsl(79.66768475167113, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-758",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 97)",
+    "color": "hsl(144.6989973199068, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-759",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 98)",
+    "color": "hsl(30.545492384899838, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-760",
+    "category": "Random Tasks",
+    "text": "Fetch a pillow (Var 99)",
+    "color": "hsl(217.75997391745852, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-761",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 100)",
+    "color": "hsl(170.68842413127206, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-762",
+    "category": "Random Tasks",
+    "text": "Fetch a cup (Var 101)",
+    "color": "hsl(243.49328593992155, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-763",
+    "category": "Random Tasks",
+    "text": "Spin around 10 times (Var 102)",
+    "color": "hsl(319.22059647969195, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-764",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 103)",
+    "color": "hsl(148.70599068140947, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-765",
+    "category": "Random Tasks",
+    "text": "Fetch a shoe (Var 104)",
+    "color": "hsl(10.925544730735787, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-766",
+    "category": "Random Tasks",
+    "text": "High five everyone (Var 105)",
+    "color": "hsl(138.03914110192548, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-767",
+    "category": "Random Tasks",
+    "text": "Fetch a pillow (Var 106)",
+    "color": "hsl(281.3713854032568, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-768",
+    "category": "Random Tasks",
+    "text": "Fetch a pillow (Var 107)",
+    "color": "hsl(264.217175099058, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-769",
+    "category": "Random Tasks",
+    "text": "Do a handstand (Var 108)",
+    "color": "hsl(5.529312723031081, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-random-tasks-770",
+    "category": "Random Tasks",
+    "text": "Spin around 20 times (Var 109)",
+    "color": "hsl(52.01075442567513, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-771",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 0)",
+    "color": "hsl(215.82526038532706, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-772",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 1)",
+    "color": "hsl(228.48674251094593, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-773",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 2)",
+    "color": "hsl(116.29606524012331, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-774",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 3)",
+    "color": "hsl(57.08021323295138, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-775",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 4)",
+    "color": "hsl(151.2763054167857, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-776",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 5)",
+    "color": "hsl(123.02238605931586, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-777",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 6)",
+    "color": "hsl(184.50755880806028, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-778",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 7)",
+    "color": "hsl(292.9395000730306, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-779",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 8)",
+    "color": "hsl(259.29455301098426, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-780",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 9)",
+    "color": "hsl(79.70045628629721, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-781",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 10)",
+    "color": "hsl(135.38403454398866, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-782",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 11)",
+    "color": "hsl(195.70198065932485, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-783",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 12)",
+    "color": "hsl(117.00017868441756, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-784",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 13)",
+    "color": "hsl(310.0134393464553, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-785",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 14)",
+    "color": "hsl(263.87541328358424, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-786",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 15)",
+    "color": "hsl(233.8836515671933, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-787",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 16)",
+    "color": "hsl(266.23388779804276, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-788",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 17)",
+    "color": "hsl(276.5943651490104, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-789",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 18)",
+    "color": "hsl(49.517775858560135, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-790",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 19)",
+    "color": "hsl(70.21427534664149, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-791",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 20)",
+    "color": "hsl(316.0378334527267, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-792",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 21)",
+    "color": "hsl(78.25081394513158, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-793",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 22)",
+    "color": "hsl(319.137961505278, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-794",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 23)",
+    "color": "hsl(303.03553440762664, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-795",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 24)",
+    "color": "hsl(108.42921673555685, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-796",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 25)",
+    "color": "hsl(272.15767124291256, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-797",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 26)",
+    "color": "hsl(242.92811082178488, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-798",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 27)",
+    "color": "hsl(336.7100284973222, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-799",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 28)",
+    "color": "hsl(287.25442123020616, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-800",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 29)",
+    "color": "hsl(75.95049757191447, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-801",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 30)",
+    "color": "hsl(203.3472815743117, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-802",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 31)",
+    "color": "hsl(188.5274232607219, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-803",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 32)",
+    "color": "hsl(20.176850865280397, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-804",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 33)",
+    "color": "hsl(317.33427881662703, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-805",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 34)",
+    "color": "hsl(301.7525883826746, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-806",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 35)",
+    "color": "hsl(76.39539141944294, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-807",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 36)",
+    "color": "hsl(140.76597997191973, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-808",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 37)",
+    "color": "hsl(31.6218807571694, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-809",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 38)",
+    "color": "hsl(295.37435333745003, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-810",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 39)",
+    "color": "hsl(161.9338960389038, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-811",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 40)",
+    "color": "hsl(275.29768658669826, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-812",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 41)",
+    "color": "hsl(214.01644021163733, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-813",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 42)",
+    "color": "hsl(291.06711196764195, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-814",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 43)",
+    "color": "hsl(156.9350078301599, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-815",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 44)",
+    "color": "hsl(183.1273425661082, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-816",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 45)",
+    "color": "hsl(205.26371961090172, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-817",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 46)",
+    "color": "hsl(60.78368287993384, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-818",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 47)",
+    "color": "hsl(228.1645585273354, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-819",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 48)",
+    "color": "hsl(123.86827314146758, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-820",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 49)",
+    "color": "hsl(211.7100258157959, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-821",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 50)",
+    "color": "hsl(205.60224216601418, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-822",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 51)",
+    "color": "hsl(337.7961573498833, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-823",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 52)",
+    "color": "hsl(268.4139515085607, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-824",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 53)",
+    "color": "hsl(58.94634237791246, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-825",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 54)",
+    "color": "hsl(134.21045129690168, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-826",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 55)",
+    "color": "hsl(63.40544015736311, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-827",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 56)",
+    "color": "hsl(348.2724307179982, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-828",
+    "category": "Player Picker",
+    "text": "Player 3 (Var 57)",
+    "color": "hsl(217.36824230706085, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-829",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 58)",
+    "color": "hsl(252.6342136148659, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-830",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 59)",
+    "color": "hsl(334.8886262342513, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-831",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 60)",
+    "color": "hsl(258.44150437100876, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-832",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 61)",
+    "color": "hsl(330.90548148297415, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-833",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 62)",
+    "color": "hsl(231.5846857433526, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-834",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 63)",
+    "color": "hsl(240.09863191792658, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-835",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 64)",
+    "color": "hsl(184.78957123118906, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-836",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 65)",
+    "color": "hsl(68.55572787714755, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-837",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 66)",
+    "color": "hsl(105.72540389521909, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-838",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 67)",
+    "color": "hsl(279.8845824197562, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-839",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 68)",
+    "color": "hsl(67.38271772615262, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-840",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 69)",
+    "color": "hsl(235.57183118342869, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-841",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 70)",
+    "color": "hsl(53.97582648915008, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-842",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 71)",
+    "color": "hsl(232.31445665930212, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-843",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 72)",
+    "color": "hsl(352.86840660314454, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-844",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 73)",
+    "color": "hsl(212.07995391403892, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-845",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 74)",
+    "color": "hsl(131.6877786463297, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-846",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 75)",
+    "color": "hsl(24.611636187908992, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-847",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 76)",
+    "color": "hsl(276.8406644023286, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-848",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 77)",
+    "color": "hsl(3.0377573624151744, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-849",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 78)",
+    "color": "hsl(33.131585677715066, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-850",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 79)",
+    "color": "hsl(237.91791501757316, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-851",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 80)",
+    "color": "hsl(116.73230757738219, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-852",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 81)",
+    "color": "hsl(215.50898326323843, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-853",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 82)",
+    "color": "hsl(328.70634091008964, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-854",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 83)",
+    "color": "hsl(177.0072214348522, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-855",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 84)",
+    "color": "hsl(206.46169021275293, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-856",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 85)",
+    "color": "hsl(232.73015758136555, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-857",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 86)",
+    "color": "hsl(318.04929996373227, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-858",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 87)",
+    "color": "hsl(33.443550379270825, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-859",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 88)",
+    "color": "hsl(199.53137037096954, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-860",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 89)",
+    "color": "hsl(8.432399892301877, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-861",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 90)",
+    "color": "hsl(255.25090249028253, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-862",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 91)",
+    "color": "hsl(221.99506775477997, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-863",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 92)",
+    "color": "hsl(262.7769146284934, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-864",
+    "category": "Player Picker",
+    "text": "The oldest player (Var 93)",
+    "color": "hsl(308.34956213892235, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-865",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 94)",
+    "color": "hsl(184.73729129426002, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-866",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 95)",
+    "color": "hsl(6.237241135528477, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-867",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 96)",
+    "color": "hsl(133.81619892400784, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-868",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 97)",
+    "color": "hsl(356.2968082035858, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-869",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 98)",
+    "color": "hsl(65.89611822000843, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-870",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 99)",
+    "color": "hsl(326.82792956780094, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-871",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 100)",
+    "color": "hsl(298.0678589160866, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-872",
+    "category": "Player Picker",
+    "text": "Player 1 (Var 101)",
+    "color": "hsl(28.5739723599933, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-873",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 102)",
+    "color": "hsl(306.97628623802785, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-874",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 103)",
+    "color": "hsl(11.49635511006165, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-875",
+    "category": "Player Picker",
+    "text": "Player 2 (Var 104)",
+    "color": "hsl(149.55586858277846, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-876",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 105)",
+    "color": "hsl(82.99818642292878, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-877",
+    "category": "Player Picker",
+    "text": "The person to your right (Var 106)",
+    "color": "hsl(194.97891488718201, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-878",
+    "category": "Player Picker",
+    "text": "Player 4 (Var 107)",
+    "color": "hsl(95.3486521623318, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-879",
+    "category": "Player Picker",
+    "text": "The youngest player (Var 108)",
+    "color": "hsl(88.32702027027453, 70%, 60%)"
+  },
+  {
+    "id": "spinwheel-player-picker-880",
+    "category": "Player Picker",
+    "text": "The person to your left (Var 109)",
+    "color": "hsl(276.98818093557804, 70%, 60%)"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "science_001",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for oxygen?",
+    "options": [
+      "O",
+      "Ox",
+      "Og",
+      "Om"
+    ],
+    "correctAnswer": "O",
+    "explanation": "The element oxygen is represented by the single-letter symbol O.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "science_002",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which planet is the largest in our Solar System?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Earth",
+      "Neptune"
+    ],
+    "correctAnswer": "Jupiter",
+    "explanation": "Jupiter has the greatest mass and diameter of all the planets in the Solar System.",
+    "tags": [
+      "astronomy",
+      "planets"
+    ]
+  },
+  {
+    "id": "science_003",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which part of a plant absorbs water and minerals from the soil?",
+    "options": [
+      "Leaf",
+      "Flower",
+      "Stem",
+      "Root"
+    ],
+    "correctAnswer": "Root",
+    "explanation": "Roots take in water and dissolved minerals that support plant growth.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "science_004",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Water freezes at what temperature on the Celsius scale?",
+    "options": [
+      "10°C",
+      "0°C",
+      "32°C",
+      "-10°C"
+    ],
+    "correctAnswer": "0°C",
+    "explanation": "Pure water freezes at 0 degrees Celsius under standard atmospheric pressure.",
+    "tags": [
+      "physics",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science_005",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which gas do humans breathe in to survive?",
+    "options": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "Human cells use oxygen to produce energy through cellular respiration.",
+    "tags": [
+      "biology",
+      "respiration"
+    ]
+  },
+  {
+    "id": "science_006",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What force pulls objects toward Earth's center?",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Electricity"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force of attraction between objects with mass.",
+    "tags": [
+      "physics",
+      "forces"
+    ]
+  },
+  {
+    "id": "science_007",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which organ pumps blood throughout the human body?",
+    "options": [
+      "Liver",
+      "Lung",
+      "Heart",
+      "Kidney"
+    ],
+    "correctAnswer": "Heart",
+    "explanation": "The heart continuously pumps blood through the circulatory system.",
+    "tags": [
+      "biology",
+      "human-body"
+    ]
+  },
+  {
+    "id": "science_008",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite shape and definite volume?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswer": "Solid",
+    "explanation": "Particles in a solid are tightly packed, giving it a fixed shape and volume.",
+    "tags": [
+      "chemistry",
+      "matter"
+    ]
+  },
+  {
+    "id": "science_009",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "Sirius",
+      "Polaris",
+      "The Sun",
+      "Alpha Centauri A"
+    ],
+    "correctAnswer": "The Sun",
+    "explanation": "The Sun is Earth's nearest star and the center of our Solar System.",
+    "tags": [
+      "astronomy",
+      "stars"
+    ]
+  },
+  {
+    "id": "science_010",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which blood cells help fight infections?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correctAnswer": "White blood cells",
+    "explanation": "White blood cells are essential components of the immune system.",
+    "tags": [
+      "biology",
+      "health"
+    ]
+  },
+  {
+    "id": "science_011",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which instrument is commonly used to view tiny organisms?",
+    "options": [
+      "Periscope",
+      "Microscope",
+      "Telescope",
+      "Spectrometer"
+    ],
+    "correctAnswer": "Microscope",
+    "explanation": "A microscope magnifies objects too small to be seen clearly with the naked eye.",
+    "tags": [
+      "laboratory",
+      "biology"
+    ]
+  },
+  {
+    "id": "science_012",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which vitamin is naturally produced in the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin C"
+    ],
+    "correctAnswer": "Vitamin D",
+    "explanation": "Sunlight triggers the production of vitamin D in human skin.",
+    "tags": [
+      "health",
+      "nutrition"
+    ]
+  },
+  {
+    "id": "science_013",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which planet has the most extensive ring system in the Solar System?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Mars",
+      "Mercury"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn's bright and complex ring system is the largest and most prominent among the planets.",
+    "tags": [
+      "astronomy",
+      "space"
+    ]
+  },
+  {
+    "id": "science_014",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the basic unit of heredity in living organisms?",
+    "options": [
+      "Cell",
+      "Gene",
+      "Protein",
+      "Chromosome"
+    ],
+    "correctAnswer": "Gene",
+    "explanation": "Genes are segments of DNA that carry hereditary information.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science_015",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which scientist developed the three laws of planetary motion?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Nicolaus Copernicus"
+    ],
+    "correctAnswer": "Johannes Kepler",
+    "explanation": "Johannes Kepler described how planets move around the Sun using three mathematical laws.",
+    "tags": [
+      "astronomy",
+      "scientists"
+    ]
+  },
+  {
+    "id": "science_017",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond",
+      "Covalent bond"
+    ],
+    "correctAnswer": "Covalent bond",
+    "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+    "tags": [
+      "chemistry",
+      "bonding"
+    ]
+  },
+  {
+    "id": "science_018",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which blood vessel carries oxygen-rich blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Aorta",
+      "Superior vena cava"
+    ],
+    "correctAnswer": "Pulmonary vein",
+    "explanation": "Pulmonary veins uniquely carry oxygenated blood back to the left atrium of the heart.",
+    "tags": [
+      "biology",
+      "circulatory-system"
+    ]
+  },
+  {
+    "id": "science_019",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which scale measures the magnitude of earthquakes using seismic wave data?",
+    "options": [
+      "Beaufort scale",
+      "Richter scale",
+      "Mohs scale",
+      "Kelvin scale"
+    ],
+    "correctAnswer": "Richter scale",
+    "explanation": "The Richter scale was developed to quantify earthquake magnitude from seismic recordings.",
+    "tags": [
+      "geology",
+      "earthquakes"
+    ]
+  },
+  {
+    "id": "science_020",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Ribosome"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria generate most of a cell's usable energy in the form of ATP.",
+    "tags": [
+      "biology",
+      "cells"
+    ]
+  },
+  {
+    "id": "science_021",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which element is the primary component of natural diamonds?",
+    "options": [
+      "Carbon",
+      "Silicon",
+      "Calcium",
+      "Graphite"
+    ],
+    "correctAnswer": "Carbon",
+    "explanation": "Diamonds are crystals composed almost entirely of carbon atoms.",
+    "tags": [
+      "chemistry",
+      "minerals"
+    ]
+  },
+  {
+    "id": "science_022",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which process changes a liquid directly into a gas at the surface?",
+    "options": [
+      "Condensation",
+      "Sublimation",
+      "Evaporation",
+      "Freezing"
+    ],
+    "correctAnswer": "Evaporation",
+    "explanation": "Evaporation occurs when surface molecules gain enough energy to become vapor.",
+    "tags": [
+      "physics",
+      "states-of-matter"
+    ]
+  },
+  {
+    "id": "science_023",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which branch of science studies fungi?",
+    "options": [
+      "Botany",
+      "Entomology",
+      "Mycology",
+      "Ecology"
+    ],
+    "correctAnswer": "Mycology",
+    "explanation": "Mycology is the scientific study of fungi, including mushrooms, molds, and yeasts.",
+    "tags": [
+      "biology",
+      "fungi"
+    ]
+  },
+  {
+    "id": "science_024",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Anemometer"
+    ],
+    "correctAnswer": "Barometer",
+    "explanation": "A barometer measures changes in atmospheric pressure for weather observations.",
+    "tags": [
+      "meteorology",
+      "measurement"
+    ]
+  },
+  {
+    "id": "science_025",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which subatomic particle has a positive electric charge?",
+    "options": [
+      "Neutron",
+      "Electron",
+      "Proton",
+      "Photon"
+    ],
+    "correctAnswer": "Proton",
+    "explanation": "Protons carry a positive charge and are found in the nucleus of every atom.",
+    "tags": [
+      "physics",
+      "atoms"
+    ]
+  },
+  {
+    "id": "science_026",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which law states that energy cannot be created or destroyed, only transformed?",
+    "options": [
+      "Boyle's Law",
+      "Law of Conservation of Energy",
+      "Ohm's Law",
+      "Charles's Law"
+    ],
+    "correctAnswer": "Law of Conservation of Energy",
+    "explanation": "The law of conservation of energy states that the total energy of an isolated system remains constant.",
+    "tags": [
+      "physics",
+      "energy"
+    ]
+  },
+  {
+    "id": "science_027",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which scientist is credited with discovering penicillin?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Edward Jenner"
+    ],
+    "correctAnswer": "Alexander Fleming",
+    "explanation": "Alexander Fleming discovered the antibiotic properties of penicillin in 1928.",
+    "tags": [
+      "medicine",
+      "scientists"
+    ]
+  },
+  {
+    "id": "science_028",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswer": "Ohm",
+    "explanation": "Electrical resistance is measured in ohms, symbolized by the Greek letter Ω.",
+    "tags": [
+      "physics",
+      "electricity"
+    ]
+  },
+  {
+    "id": "science_029",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which organelle contains digestive enzymes that break down cellular waste?",
+    "options": [
+      "Chloroplast",
+      "Lysosome",
+      "Centrosome",
+      "Vacuole"
+    ],
+    "correctAnswer": "Lysosome",
+    "explanation": "Lysosomes contain enzymes that digest worn-out cell components and foreign materials.",
+    "tags": [
+      "biology",
+      "cell-organelles"
+    ]
+  },
+  {
+    "id": "science_030",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which particle mediates the electromagnetic force according to the Standard Model?",
+    "options": [
+      "Gluon",
+      "Photon",
+      "Neutrino",
+      "Muon"
+    ],
+    "correctAnswer": "Photon",
+    "explanation": "Photons are the fundamental particles that carry the electromagnetic interaction.",
+    "tags": [
+      "physics",
+      "particle-physics"
+    ]
+  }
+]

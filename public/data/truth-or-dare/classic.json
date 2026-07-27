@@ -1,0 +1,332 @@
+[
+  {
+    "id": "classic_truth_001",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "What is your biggest fear?",
+    "tags": [
+      "friends",
+      "conversation"
+    ]
+  },
+  {
+    "id": "classic_truth_002",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "What is the most embarrassing thing you've ever done in public?",
+    "tags": [
+      "funny",
+      "icebreaker"
+    ]
+  },
+  {
+    "id": "classic_truth_003",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "Have you ever kept a huge secret from your best friend?",
+    "tags": [
+      "friends",
+      "secrets"
+    ]
+  },
+  {
+    "id": "classic_truth_004",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "What is a bad habit you have that nobody knows about?",
+    "tags": [
+      "conversation",
+      "personal"
+    ]
+  },
+  {
+    "id": "classic_truth_005",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "If you had to swap lives with one person in this room, who would it be?",
+    "tags": [
+      "friends",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_truth_006",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "What is the weirdest dream you've ever had?",
+    "tags": [
+      "funny",
+      "conversation"
+    ]
+  },
+  {
+    "id": "classic_truth_007",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Who was your first celebrity crush?",
+    "tags": [
+      "icebreaker",
+      "friends"
+    ]
+  },
+  {
+    "id": "classic_truth_008",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Have you ever faked an illness to get out of something?",
+    "tags": [
+      "funny",
+      "secrets"
+    ]
+  },
+  {
+    "id": "classic_truth_009",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "What is the most childish thing you still do?",
+    "tags": [
+      "funny",
+      "personal"
+    ]
+  },
+  {
+    "id": "classic_truth_010",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "What is a lie you told that you got away with?",
+    "tags": [
+      "secrets",
+      "conversation"
+    ]
+  },
+  {
+    "id": "classic_truth_011",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "If you could erase one past experience from your memory, what would it be?",
+    "tags": [
+      "deep",
+      "personal"
+    ]
+  },
+  {
+    "id": "classic_truth_012",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "What is your most irrational pet peeve?",
+    "tags": [
+      "funny",
+      "conversation"
+    ]
+  },
+  {
+    "id": "classic_truth_013",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Have you ever blamed a mistake on someone else?",
+    "tags": [
+      "secrets",
+      "friends"
+    ]
+  },
+  {
+    "id": "classic_truth_014",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "What is the longest you've gone without showering?",
+    "tags": [
+      "funny",
+      "gross"
+    ]
+  },
+  {
+    "id": "classic_truth_015",
+    "type": "truth",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "What is the worst gift you have ever received?",
+    "tags": [
+      "funny",
+      "conversation"
+    ]
+  },
+  {
+    "id": "classic_dare_001",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Dance without music for 30 seconds.",
+    "tags": [
+      "funny",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_dare_002",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Let the person to your left draw a tattoo on your arm with a pen.",
+    "tags": [
+      "creative",
+      "friends"
+    ]
+  },
+  {
+    "id": "classic_dare_003",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Speak in an accent chosen by the group until your next turn.",
+    "tags": [
+      "acting",
+      "funny"
+    ]
+  },
+  {
+    "id": "classic_dare_004",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Do 15 push-ups right now.",
+    "tags": [
+      "physical",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_dare_005",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "Eat a spoonful of a condiment chosen by the group.",
+    "tags": [
+      "gross",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_dare_006",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Sing the chorus of your favorite song loudly.",
+    "tags": [
+      "funny",
+      "music"
+    ]
+  },
+  {
+    "id": "classic_dare_007",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "Let the group look through your phone's photo gallery for 30 seconds.",
+    "tags": [
+      "secrets",
+      "friends"
+    ]
+  },
+  {
+    "id": "classic_dare_008",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Do an impression of another player until someone guesses who it is.",
+    "tags": [
+      "acting",
+      "friends"
+    ]
+  },
+  {
+    "id": "classic_dare_009",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Wear your socks on your hands for the next three rounds.",
+    "tags": [
+      "funny",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_dare_010",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Try to juggle three items chosen by the group.",
+    "tags": [
+      "physical",
+      "funny"
+    ]
+  },
+  {
+    "id": "classic_dare_011",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "hard",
+    "prompt": "Post a random word on your social media without context.",
+    "tags": [
+      "social",
+      "funny"
+    ]
+  },
+  {
+    "id": "classic_dare_012",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Walk like a crab across the room.",
+    "tags": [
+      "physical",
+      "funny"
+    ]
+  },
+  {
+    "id": "classic_dare_013",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Tell a joke and try to make everyone laugh. If no one laughs, do a plank for 30 seconds.",
+    "tags": [
+      "acting",
+      "physical"
+    ]
+  },
+  {
+    "id": "classic_dare_014",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "easy",
+    "prompt": "Hold your breath for as long as you safely can.",
+    "tags": [
+      "physical",
+      "party"
+    ]
+  },
+  {
+    "id": "classic_dare_015",
+    "type": "dare",
+    "category": "Classic",
+    "difficulty": "medium",
+    "prompt": "Talk to a pillow as if it's your long-lost love.",
+    "tags": [
+      "acting",
+      "funny"
+    ]
+  }
+]

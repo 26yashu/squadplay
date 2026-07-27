@@ -1,0 +1,302 @@
+[
+  {
+    "id": "categories-1",
+    "text": "Animals",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-2",
+    "text": "Colors",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-3",
+    "text": "Countries",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-4",
+    "text": "Cities",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-5",
+    "text": "Food",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-6",
+    "text": "Drinks",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-7",
+    "text": "Movies",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-8",
+    "text": "Music",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-9",
+    "text": "Books",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-10",
+    "text": "Sports",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-11",
+    "text": "Hobbies",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-12",
+    "text": "Professions",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-13",
+    "text": "Emotions",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-14",
+    "text": "Weather",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-15",
+    "text": "Seasons",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-16",
+    "text": "Months",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-17",
+    "text": "Days",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-18",
+    "text": "Numbers",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-19",
+    "text": "Letters",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-20",
+    "text": "Shapes",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-21",
+    "text": "Sizes",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-22",
+    "text": "Textures",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-23",
+    "text": "Materials",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-24",
+    "text": "Elements",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-25",
+    "text": "Planets",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-26",
+    "text": "Stars",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-27",
+    "text": "Galaxies",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-28",
+    "text": "Universes",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-29",
+    "text": "Dimensions",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-30",
+    "text": "Realms",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-31",
+    "text": "Worlds",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-32",
+    "text": "Continents",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-33",
+    "text": "Oceans",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-34",
+    "text": "Seas",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-35",
+    "text": "Rivers",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-36",
+    "text": "Lakes",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-37",
+    "text": "Mountains",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-38",
+    "text": "Valleys",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-39",
+    "text": "Forests",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-40",
+    "text": "Deserts",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-41",
+    "text": "Islands",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-42",
+    "text": "Peninsulas",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-43",
+    "text": "Capes",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-44",
+    "text": "Bays",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-45",
+    "text": "Gulfs",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-46",
+    "text": "Straits",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-47",
+    "text": "Canals",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-48",
+    "text": "Fjords",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-49",
+    "text": "Glaciers",
+    "type": "category",
+    "difficulty": "medium"
+  },
+  {
+    "id": "categories-50",
+    "text": "Icebergs",
+    "type": "category",
+    "difficulty": "medium"
+  }
+]

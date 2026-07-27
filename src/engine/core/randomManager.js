@@ -1,0 +1,14 @@
+export function shuffleArray(array) {
+  if (!array || !Array.isArray(array)) return [];
+  const newArr = [...array];
+  for (let i = newArr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+  }
+  return newArr;
+}
+
+export function getRandomElement(array) {
+  if (!array || array.length === 0) return null;
+  return array[Math.floor(Math.random() * array.length)];
+}

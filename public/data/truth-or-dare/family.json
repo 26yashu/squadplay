@@ -1,0 +1,332 @@
+[
+  {
+    "id": "family_truth_001",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What is your favorite memory of a family vacation?",
+    "tags": [
+      "family",
+      "memory"
+    ]
+  },
+  {
+    "id": "family_truth_002",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "If you could change one household rule, what would it be?",
+    "tags": [
+      "family",
+      "conversation"
+    ]
+  },
+  {
+    "id": "family_truth_003",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Who is the messiest person in the house?",
+    "tags": [
+      "family",
+      "funny"
+    ]
+  },
+  {
+    "id": "family_truth_004",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "What is a secret talent you have that you've never shown us?",
+    "tags": [
+      "family",
+      "skills"
+    ]
+  },
+  {
+    "id": "family_truth_005",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "If our family had a theme song, what would it be?",
+    "tags": [
+      "family",
+      "music"
+    ]
+  },
+  {
+    "id": "family_truth_006",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What is your favorite meal that is cooked at home?",
+    "tags": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "family_truth_007",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "hard",
+    "prompt": "Have you ever accidentally broken something and hidden it?",
+    "tags": [
+      "family",
+      "secrets"
+    ]
+  },
+  {
+    "id": "family_truth_008",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "Who tells the best jokes in the family?",
+    "tags": [
+      "family",
+      "funny"
+    ]
+  },
+  {
+    "id": "family_truth_009",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What is a family tradition you really love?",
+    "tags": [
+      "family",
+      "memory"
+    ]
+  },
+  {
+    "id": "family_truth_010",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "If you could take the family anywhere in the world, where would we go?",
+    "tags": [
+      "family",
+      "travel"
+    ]
+  },
+  {
+    "id": "family_truth_011",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What is something you admire about the person sitting across from you?",
+    "tags": [
+      "family",
+      "compliment"
+    ]
+  },
+  {
+    "id": "family_truth_012",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What was your favorite toy growing up?",
+    "tags": [
+      "family",
+      "memory"
+    ]
+  },
+  {
+    "id": "family_truth_013",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Have you ever stayed up way past your bedtime reading or playing a game?",
+    "tags": [
+      "family",
+      "secrets"
+    ]
+  },
+  {
+    "id": "family_truth_014",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "If you could have any superpower, how would you use it to help around the house?",
+    "tags": [
+      "family",
+      "creative"
+    ]
+  },
+  {
+    "id": "family_truth_015",
+    "type": "truth",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "What is the funniest thing a pet of ours has ever done?",
+    "tags": [
+      "family",
+      "memory"
+    ]
+  },
+  {
+    "id": "family_dare_001",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "Give the person to your left a genuine compliment.",
+    "tags": [
+      "family",
+      "kindness"
+    ]
+  },
+  {
+    "id": "family_dare_002",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "Let someone put a sticker on your forehead.",
+    "tags": [
+      "family",
+      "funny"
+    ]
+  },
+  {
+    "id": "family_dare_003",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Do 5 cartwheels or somersaults.",
+    "tags": [
+      "family",
+      "physical"
+    ]
+  },
+  {
+    "id": "family_dare_004",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "hard",
+    "prompt": "Make up a short rap about our family.",
+    "tags": [
+      "family",
+      "creative"
+    ]
+  },
+  {
+    "id": "family_dare_005",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Speak like a robot until it is your turn again.",
+    "tags": [
+      "family",
+      "acting"
+    ]
+  },
+  {
+    "id": "family_dare_006",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "Hop on one foot across the room and back.",
+    "tags": [
+      "family",
+      "physical"
+    ]
+  },
+  {
+    "id": "family_dare_007",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Try to make the person across from you laugh without touching them.",
+    "tags": [
+      "family",
+      "challenge"
+    ]
+  },
+  {
+    "id": "family_dare_008",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "hard",
+    "prompt": "Give someone in the family a piggyback ride.",
+    "tags": [
+      "family",
+      "physical"
+    ]
+  },
+  {
+    "id": "family_dare_009",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Pantomime your favorite family activity until someone guesses it.",
+    "tags": [
+      "family",
+      "acting"
+    ]
+  },
+  {
+    "id": "family_dare_010",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "easy",
+    "prompt": "Let another family member choose a funny hat for you to wear.",
+    "tags": [
+      "family",
+      "funny"
+    ]
+  },
+  {
+    "id": "family_dare_011",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Do the chicken dance for 30 seconds.",
+    "tags": [
+      "family",
+      "dance"
+    ]
+  },
+  {
+    "id": "family_dare_012",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "hard",
+    "prompt": "Try to say the alphabet backward.",
+    "tags": [
+      "family",
+      "challenge"
+    ]
+  },
+  {
+    "id": "family_dare_013",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Pretend to be your favorite animal for a full minute.",
+    "tags": [
+      "family",
+      "acting"
+    ]
+  },
+  {
+    "id": "family_dare_014",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "hard",
+    "prompt": "Hold an ice cube in your hand until it melts entirely.",
+    "tags": [
+      "family",
+      "challenge"
+    ]
+  },
+  {
+    "id": "family_dare_015",
+    "type": "dare",
+    "category": "Family",
+    "difficulty": "medium",
+    "prompt": "Draw a family portrait in under one minute and show everyone.",
+    "tags": [
+      "family",
+      "creative"
+    ]
+  }
+]

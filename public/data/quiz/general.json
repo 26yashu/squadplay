@@ -1,0 +1,542 @@
+[
+  {
+    "id": "general_001",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which continent is the Sahara Desert primarily located on?",
+    "options": [
+      "Asia",
+      "South America",
+      "Africa",
+      "Australia"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "The Sahara spans much of North Africa and is the world's largest hot desert.",
+    "tags": [
+      "geography",
+      "deserts"
+    ]
+  },
+  {
+    "id": "general_002",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean covers more area than any other ocean on Earth.",
+    "tags": [
+      "geography",
+      "oceans"
+    ]
+  },
+  {
+    "id": "general_003",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which instrument is commonly used to measure temperature?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Compass",
+      "Scale"
+    ],
+    "correctAnswer": "Thermometer",
+    "explanation": "A thermometer is designed specifically to measure temperature.",
+    "tags": [
+      "science",
+      "measurement"
+    ]
+  },
+  {
+    "id": "general_004",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correctAnswer": "Mars",
+    "explanation": "Mars appears reddish because of iron oxide on its surface.",
+    "tags": [
+      "space",
+      "planets"
+    ]
+  },
+  {
+    "id": "general_005",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which language has the most native speakers worldwide?",
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correctAnswer": "Mandarin Chinese",
+    "explanation": "Mandarin Chinese has the highest number of native speakers globally.",
+    "tags": [
+      "languages",
+      "culture"
+    ]
+  },
+  {
+    "id": "general_006",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many days are there in a leap year?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "correctAnswer": "366",
+    "explanation": "Leap years include February 29, making a total of 366 days.",
+    "tags": [
+      "calendar",
+      "time"
+    ]
+  },
+  {
+    "id": "general_007",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which bird is often associated with delivering messages in history?",
+    "options": [
+      "Eagle",
+      "Pigeon",
+      "Crow",
+      "Falcon"
+    ],
+    "correctAnswer": "Pigeon",
+    "explanation": "Carrier pigeons were widely used to transport written messages over long distances.",
+    "tags": [
+      "animals",
+      "history"
+    ]
+  },
+  {
+    "id": "general_008",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in traditional guacamole?",
+    "options": [
+      "Cucumber",
+      "Avocado",
+      "Peas",
+      "Spinach"
+    ],
+    "correctAnswer": "Avocado",
+    "explanation": "Guacamole is traditionally made from mashed avocados with seasonings.",
+    "tags": [
+      "food",
+      "cuisine"
+    ]
+  },
+  {
+    "id": "general_009",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which shape has exactly three sides?",
+    "options": [
+      "Square",
+      "Pentagon",
+      "Triangle",
+      "Hexagon"
+    ],
+    "correctAnswer": "Triangle",
+    "explanation": "A triangle is defined as a polygon with three sides.",
+    "tags": [
+      "math",
+      "shapes"
+    ]
+  },
+  {
+    "id": "general_010",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which season comes immediately after spring in the Northern Hemisphere?",
+    "options": [
+      "Autumn",
+      "Winter",
+      "Summer",
+      "Monsoon"
+    ],
+    "correctAnswer": "Summer",
+    "explanation": "Summer follows spring in the annual seasonal cycle of the Northern Hemisphere.",
+    "tags": [
+      "seasons",
+      "nature"
+    ]
+  },
+  {
+    "id": "general_011",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which metal is represented by the chemical symbol Au?",
+    "options": [
+      "Silver",
+      "Gold",
+      "Aluminum",
+      "Copper"
+    ],
+    "correctAnswer": "Gold",
+    "explanation": "Au is the chemical symbol for gold, derived from its Latin name aurum.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "general_012",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What do bees primarily collect from flowers to make honey?",
+    "options": [
+      "Pollen",
+      "Leaves",
+      "Nectar",
+      "Seeds"
+    ],
+    "correctAnswer": "Nectar",
+    "explanation": "Bees gather nectar and convert it into honey inside the hive.",
+    "tags": [
+      "animals",
+      "nature"
+    ]
+  },
+  {
+    "id": "general_013",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which country is home to the ancient city of Petra?",
+    "options": [
+      "Jordan",
+      "Egypt",
+      "Turkey",
+      "Greece"
+    ],
+    "correctAnswer": "Jordan",
+    "explanation": "Petra is a famous archaeological site carved into rock in southern Jordan.",
+    "tags": [
+      "history",
+      "geography"
+    ]
+  },
+  {
+    "id": "general_014",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the smallest prime number?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Two is the only even number that is also prime.",
+    "tags": [
+      "math",
+      "numbers"
+    ]
+  },
+  {
+    "id": "general_015",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which organ in the human body produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correctAnswer": "Pancreas",
+    "explanation": "The pancreas releases insulin to help regulate blood sugar levels.",
+    "tags": [
+      "biology",
+      "health"
+    ]
+  },
+  {
+    "id": "general_016",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which country uses the yen as its official currency?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "correctAnswer": "Japan",
+    "explanation": "The yen is the official currency of Japan.",
+    "tags": [
+      "currencies",
+      "countries"
+    ]
+  },
+  {
+    "id": "general_017",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "correctAnswer": "Michelangelo",
+    "explanation": "Michelangelo created the renowned frescoes on the Sistine Chapel ceiling.",
+    "tags": [
+      "art",
+      "renaissance"
+    ]
+  },
+  {
+    "id": "general_018",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which gas makes up the largest portion of Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "correctAnswer": "Nitrogen",
+    "explanation": "Nitrogen accounts for about 78 percent of Earth's atmosphere.",
+    "tags": [
+      "science",
+      "atmosphere"
+    ]
+  },
+  {
+    "id": "general_019",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which city is famous for the landmark called the Colosseum?",
+    "options": [
+      "Athens",
+      "Rome",
+      "Paris",
+      "Madrid"
+    ],
+    "correctAnswer": "Rome",
+    "explanation": "The Colosseum is an iconic ancient amphitheater located in Rome.",
+    "tags": [
+      "landmarks",
+      "history"
+    ]
+  },
+  {
+    "id": "general_020",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which natural satellite orbits Earth?",
+    "options": [
+      "Europa",
+      "Titan",
+      "Moon",
+      "Phobos"
+    ],
+    "correctAnswer": "Moon",
+    "explanation": "Earth's only natural satellite is the Moon.",
+    "tags": [
+      "space",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "general_021",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which famous scientist formulated the three laws of motion?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": "Isaac Newton",
+    "explanation": "Isaac Newton introduced the three fundamental laws of motion.",
+    "tags": [
+      "science",
+      "physics"
+    ]
+  },
+  {
+    "id": "general_022",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which country has the greatest number of time zones when overseas territories are included?",
+    "options": [
+      "Russia",
+      "United States",
+      "France",
+      "Canada"
+    ],
+    "correctAnswer": "France",
+    "explanation": "France spans the most time zones because of its overseas territories.",
+    "tags": [
+      "geography",
+      "time"
+    ]
+  },
+  {
+    "id": "general_023",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which plants make their own food using sunlight?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis converts light energy into chemical energy stored in sugars.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "general_024",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which famous ship sank after striking an iceberg in 1912?",
+    "options": [
+      "Britannic",
+      "Lusitania",
+      "Titanic",
+      "Queen Mary"
+    ],
+    "correctAnswer": "Titanic",
+    "explanation": "The RMS Titanic sank during its maiden voyage in April 1912.",
+    "tags": [
+      "history",
+      "transport"
+    ]
+  },
+  {
+    "id": "general_025",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which mountain range forms much of the natural border between Europe and Asia in Russia?",
+    "options": [
+      "Andes",
+      "Alps",
+      "Ural Mountains",
+      "Carpathians"
+    ],
+    "correctAnswer": "Ural Mountains",
+    "explanation": "The Ural Mountains are widely accepted as part of the boundary between Europe and Asia.",
+    "tags": [
+      "geography",
+      "mountains"
+    ]
+  },
+  {
+    "id": "general_026",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which element has the highest electrical conductivity at room temperature?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Silver",
+      "Aluminum"
+    ],
+    "correctAnswer": "Silver",
+    "explanation": "Silver has the highest electrical conductivity of all elements at room temperature.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "general_027",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the capital city of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Bishkek",
+      "Astana",
+      "Tashkent"
+    ],
+    "correctAnswer": "Astana",
+    "explanation": "Astana is the current capital of Kazakhstan.",
+    "tags": [
+      "geography",
+      "capitals"
+    ]
+  },
+  {
+    "id": "general_028",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which layer of Earth's atmosphere contains the ozone layer?",
+    "options": [
+      "Mesosphere",
+      "Troposphere",
+      "Stratosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": "Stratosphere",
+    "explanation": "Most atmospheric ozone is concentrated within the stratosphere.",
+    "tags": [
+      "science",
+      "atmosphere"
+    ]
+  },
+  {
+    "id": "general_029",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which explorer completed the first circumnavigation of the Earth after Ferdinand Magellan's death?",
+    "options": [
+      "Juan Sebastián Elcano",
+      "James Cook",
+      "Vasco da Gama",
+      "Christopher Columbus"
+    ],
+    "correctAnswer": "Juan Sebastián Elcano",
+    "explanation": "Juan Sebastián Elcano led the expedition back to Spain, completing the first circumnavigation.",
+    "tags": [
+      "history",
+      "exploration"
+    ]
+  },
+  {
+    "id": "general_030",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which writing system is used for the modern Korean language?",
+    "options": [
+      "Kanji",
+      "Hangul",
+      "Hanzi",
+      "Katakana"
+    ],
+    "correctAnswer": "Hangul",
+    "explanation": "Hangul is the alphabet specifically created for writing the Korean language.",
+    "tags": [
+      "languages",
+      "writing"
+    ]
+  }
+]

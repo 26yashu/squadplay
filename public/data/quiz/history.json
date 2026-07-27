@@ -1,0 +1,524 @@
+[
+  {
+    "id": "history_001",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which ancient civilization built the pyramids at Giza?",
+    "options": [
+      "Romans",
+      "Ancient Egyptians",
+      "Greeks",
+      "Persians"
+    ],
+    "correctAnswer": "Ancient Egyptians",
+    "explanation": "The pyramids at Giza were constructed by the Ancient Egyptians as royal tombs.",
+    "tags": [
+      "ancient-egypt",
+      "monuments"
+    ]
+  },
+  {
+    "id": "history_002",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams",
+      "Abraham Lincoln"
+    ],
+    "correctAnswer": "George Washington",
+    "explanation": "George Washington served as the first U.S. president from 1789 to 1797.",
+    "tags": [
+      "usa",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history_003",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which wall divided Berlin until 1989?",
+    "options": [
+      "Great Wall",
+      "Berlin Wall",
+      "Hadrian's Wall",
+      "Iron Curtain"
+    ],
+    "correctAnswer": "Berlin Wall",
+    "explanation": "The Berlin Wall separated East and West Berlin during the Cold War.",
+    "tags": [
+      "cold-war",
+      "germany"
+    ]
+  },
+  {
+    "id": "history_005",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Ottoman Empire",
+      "Roman Republic",
+      "Byzantine Empire",
+      "Persian Empire"
+    ],
+    "correctAnswer": "Roman Republic",
+    "explanation": "Julius Caesar was a leader of the Roman Republic before the Roman Empire was established.",
+    "tags": [
+      "rome",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history_006",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who is credited with discovering sea routes that connected Europe and the Americas in 1492?",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "James Cook",
+      "Vasco da Gama"
+    ],
+    "correctAnswer": "Christopher Columbus",
+    "explanation": "Christopher Columbus reached the Americas during his 1492 voyage across the Atlantic.",
+    "tags": [
+      "exploration",
+      "age-of-discovery"
+    ]
+  },
+  {
+    "id": "history_007",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "The Great Wall is located in which country?",
+    "options": [
+      "Japan",
+      "China",
+      "Mongolia",
+      "South Korea"
+    ],
+    "correctAnswer": "China",
+    "explanation": "The Great Wall was built across northern China over many centuries.",
+    "tags": [
+      "china",
+      "landmarks"
+    ]
+  },
+  {
+    "id": "history_008",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which war was fought between the North and the South in the United States?",
+    "options": [
+      "World War I",
+      "American Civil War",
+      "War of 1812",
+      "Spanish-American War"
+    ],
+    "correctAnswer": "American Civil War",
+    "explanation": "The American Civil War took place from 1861 to 1865 between the Union and the Confederacy.",
+    "tags": [
+      "usa",
+      "wars"
+    ]
+  },
+  {
+    "id": "history_009",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which civilization is known for creating a vast network of roads across South America?",
+    "options": [
+      "Maya",
+      "Aztec",
+      "Inca",
+      "Phoenician"
+    ],
+    "correctAnswer": "Inca",
+    "explanation": "The Inca Empire built an extensive road system across the Andes Mountains.",
+    "tags": [
+      "south-america",
+      "inca"
+    ]
+  },
+  {
+    "id": "history_010",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who invented the movable-type printing press in Europe?",
+    "options": [
+      "Leonardo da Vinci",
+      "Johannes Gutenberg",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "correctAnswer": "Johannes Gutenberg",
+    "explanation": "Johannes Gutenberg's printing press revolutionized the spread of books and knowledge.",
+    "tags": [
+      "inventions",
+      "renaissance"
+    ]
+  },
+  {
+    "id": "history_011",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which city was buried by the eruption of Mount Vesuvius in AD 79?",
+    "options": [
+      "Athens",
+      "Pompeii",
+      "Sparta",
+      "Carthage"
+    ],
+    "correctAnswer": "Pompeii",
+    "explanation": "Pompeii was preserved beneath volcanic ash after Mount Vesuvius erupted.",
+    "tags": [
+      "rome",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "history_012",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which document begins with the words 'We the People'?",
+    "options": [
+      "Magna Carta",
+      "United States Constitution",
+      "Bill of Rights",
+      "Declaration of Independence"
+    ],
+    "correctAnswer": "United States Constitution",
+    "explanation": "The preamble of the U.S. Constitution famously begins with 'We the People.'",
+    "tags": [
+      "usa",
+      "government"
+    ]
+  },
+  {
+    "id": "history_013",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which queen ruled England during the period known as the Elizabethan Era?",
+    "options": [
+      "Queen Victoria",
+      "Queen Elizabeth I",
+      "Queen Mary I",
+      "Queen Anne"
+    ],
+    "correctAnswer": "Queen Elizabeth I",
+    "explanation": "Elizabeth I ruled England from 1558 to 1603 during a period of cultural and political growth.",
+    "tags": [
+      "england",
+      "monarchy"
+    ]
+  },
+  {
+    "id": "history_014",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which treaty officially ended World War I?",
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Utrecht",
+      "Treaty of Tordesillas"
+    ],
+    "correctAnswer": "Treaty of Versailles",
+    "explanation": "The Treaty of Versailles was signed in 1919 and formally ended the war with Germany.",
+    "tags": [
+      "world-war-i",
+      "treaties"
+    ]
+  },
+  {
+    "id": "history_015",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which empire was centered in Constantinople before the city became Istanbul?",
+    "options": [
+      "Mongol Empire",
+      "Byzantine Empire",
+      "Holy Roman Empire",
+      "Mughal Empire"
+    ],
+    "correctAnswer": "Byzantine Empire",
+    "explanation": "Constantinople served as the capital of the Byzantine Empire for over a thousand years.",
+    "tags": [
+      "byzantine",
+      "empires"
+    ]
+  },
+  {
+    "id": "history_016",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which explorer is credited with leading the first expedition to circumnavigate the Earth, although he did not complete the journey himself?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Marco Polo",
+      "James Cook"
+    ],
+    "correctAnswer": "Ferdinand Magellan",
+    "explanation": "Magellan organized the first circumnavigation expedition, which was completed by his crew after his death.",
+    "tags": [
+      "exploration",
+      "voyages"
+    ]
+  },
+  {
+    "id": "history_017",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Renaissance began in which European country?",
+    "options": [
+      "France",
+      "England",
+      "Italy",
+      "Spain"
+    ],
+    "correctAnswer": "Italy",
+    "explanation": "The Renaissance originated in Italy before spreading across Europe.",
+    "tags": [
+      "renaissance",
+      "europe"
+    ]
+  },
+  {
+    "id": "history_018",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "correctAnswer": "Augustus",
+    "explanation": "Augustus became Rome's first emperor after the end of the Roman Republic.",
+    "tags": [
+      "rome",
+      "emperors"
+    ]
+  },
+  {
+    "id": "history_019",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient city is famous for the Hanging Gardens, one of the Seven Wonders of the Ancient World?",
+    "options": [
+      "Athens",
+      "Babylon",
+      "Alexandria",
+      "Memphis"
+    ],
+    "correctAnswer": "Babylon",
+    "explanation": "The Hanging Gardens are traditionally associated with the ancient city of Babylon.",
+    "tags": [
+      "ancient-world",
+      "wonders"
+    ]
+  },
+  {
+    "id": "history_020",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which civilization developed a writing system known as cuneiform?",
+    "options": [
+      "Egyptians",
+      "Sumerians",
+      "Romans",
+      "Greeks"
+    ],
+    "correctAnswer": "Sumerians",
+    "explanation": "The Sumerians of Mesopotamia developed cuneiform, one of the earliest writing systems.",
+    "tags": [
+      "mesopotamia",
+      "writing"
+    ]
+  },
+  {
+    "id": "history_021",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who led the Indian independence movement using nonviolent civil disobedience?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "correctAnswer": "Mahatma Gandhi",
+    "explanation": "Mahatma Gandhi promoted nonviolent resistance as a central strategy for Indian independence.",
+    "tags": [
+      "india",
+      "independence"
+    ]
+  },
+  {
+    "id": "history_022",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which event marked the beginning of the French Revolution in 1789?",
+    "options": [
+      "Battle of Waterloo",
+      "Storming of the Bastille",
+      "Congress of Vienna",
+      "Reign of Terror"
+    ],
+    "correctAnswer": "Storming of the Bastille",
+    "explanation": "The storming of the Bastille became a defining symbol of the French Revolution.",
+    "tags": [
+      "france",
+      "revolutions"
+    ]
+  },
+  {
+    "id": "history_023",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which civilization built the city of Machu Picchu?",
+    "options": [
+      "Aztec",
+      "Inca",
+      "Maya",
+      "Olmec"
+    ],
+    "correctAnswer": "Inca",
+    "explanation": "Machu Picchu was constructed by the Inca civilization in the Andes Mountains.",
+    "tags": [
+      "inca",
+      "archaeology"
+    ]
+  },
+  {
+    "id": "history_024",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which conflict was fought between 1939 and 1945?",
+    "options": [
+      "World War I",
+      "Korean War",
+      "World War II",
+      "Vietnam War"
+    ],
+    "correctAnswer": "World War II",
+    "explanation": "World War II lasted from 1939 to 1945 and involved nations across multiple continents.",
+    "tags": [
+      "world-war-ii",
+      "20th-century"
+    ]
+  },
+  {
+    "id": "history_025",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which code of laws is associated with the Babylonian king Hammurabi?",
+    "options": [
+      "Justinian Code",
+      "Code of Hammurabi",
+      "Twelve Tables",
+      "Napoleonic Code"
+    ],
+    "correctAnswer": "Code of Hammurabi",
+    "explanation": "The Code of Hammurabi is one of the oldest surviving collections of written laws.",
+    "tags": [
+      "babylon",
+      "law"
+    ]
+  },
+  {
+    "id": "history_026",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which naval battle in 480 BCE saw a Greek alliance defeat a much larger Persian fleet?",
+    "options": [
+      "Battle of Marathon",
+      "Battle of Salamis",
+      "Battle of Plataea",
+      "Battle of Thermopylae"
+    ],
+    "correctAnswer": "Battle of Salamis",
+    "explanation": "The Greek victory at Salamis was a turning point during the Greco-Persian Wars.",
+    "tags": [
+      "ancient-greece",
+      "battles"
+    ]
+  },
+  {
+    "id": "history_027",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which Chinese dynasty is credited with beginning construction of the earliest sections of the Great Wall?",
+    "options": [
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Qin Dynasty",
+      "Ming Dynasty"
+    ],
+    "correctAnswer": "Qin Dynasty",
+    "explanation": "The Qin Dynasty linked and expanded defensive walls that formed the foundation of the Great Wall.",
+    "tags": [
+      "china",
+      "dynasties"
+    ]
+  },
+  {
+    "id": "history_028",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which agreement divided the non-European world between Spain and Portugal in 1494?",
+    "options": [
+      "Treaty of Utrecht",
+      "Treaty of Versailles",
+      "Treaty of Tordesillas",
+      "Treaty of Paris"
+    ],
+    "correctAnswer": "Treaty of Tordesillas",
+    "explanation": "The Treaty of Tordesillas established spheres of exploration for Spain and Portugal.",
+    "tags": [
+      "treaties",
+      "exploration"
+    ]
+  },
+  {
+    "id": "history_029",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Histories,' a foundational work on the Greco-Persian Wars?",
+    "options": [
+      "Thucydides",
+      "Plato",
+      "Herodotus",
+      "Aristotle"
+    ],
+    "correctAnswer": "Herodotus",
+    "explanation": "Herodotus is often called the 'Father of History' for his detailed historical writings.",
+    "tags": [
+      "historians",
+      "ancient-greece"
+    ]
+  },
+  {
+    "id": "history_030",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which empire reached its greatest territorial extent under Emperor Trajan?",
+    "options": [
+      "Ottoman Empire",
+      "Roman Empire",
+      "Mongol Empire",
+      "Persian Empire"
+    ],
+    "correctAnswer": "Roman Empire",
+    "explanation": "The Roman Empire expanded to its largest size during the reign of Emperor Trajan.",
+    "tags": [
+      "rome",
+      "empires"
+    ]
+  }
+]

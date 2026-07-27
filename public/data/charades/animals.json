@@ -1,0 +1,302 @@
+[
+  {
+    "id": "animals_001",
+    "word": "Elephant",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "wild",
+      "mammal"
+    ]
+  },
+  {
+    "id": "animals_002",
+    "word": "Monkey",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "wild",
+      "mammal"
+    ]
+  },
+  {
+    "id": "animals_003",
+    "word": "Dog",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "domestic",
+      "pet"
+    ]
+  },
+  {
+    "id": "animals_004",
+    "word": "Cat",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "domestic",
+      "pet"
+    ]
+  },
+  {
+    "id": "animals_005",
+    "word": "Lion",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "wild",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_006",
+    "word": "Tiger",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_007",
+    "word": "Giraffe",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "herbivore"
+    ]
+  },
+  {
+    "id": "animals_008",
+    "word": "Zebra",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "herbivore"
+    ]
+  },
+  {
+    "id": "animals_009",
+    "word": "Kangaroo",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "australia"
+    ]
+  },
+  {
+    "id": "animals_010",
+    "word": "Penguin",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "bird",
+      "ice"
+    ]
+  },
+  {
+    "id": "animals_011",
+    "word": "Dolphin",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "sea",
+      "mammal"
+    ]
+  },
+  {
+    "id": "animals_012",
+    "word": "Shark",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "sea",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_013",
+    "word": "Whale",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "sea",
+      "mammal"
+    ]
+  },
+  {
+    "id": "animals_014",
+    "word": "Octopus",
+    "category": "Animals",
+    "difficulty": "hard",
+    "tags": [
+      "sea",
+      "invertebrate"
+    ]
+  },
+  {
+    "id": "animals_015",
+    "word": "Crab",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "sea",
+      "crustacean"
+    ]
+  },
+  {
+    "id": "animals_016",
+    "word": "Frog",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "amphibian",
+      "pond"
+    ]
+  },
+  {
+    "id": "animals_017",
+    "word": "Snake",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "reptile",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_018",
+    "word": "Crocodile",
+    "category": "Animals",
+    "difficulty": "hard",
+    "tags": [
+      "reptile",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_019",
+    "word": "Turtle",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "reptile",
+      "sea"
+    ]
+  },
+  {
+    "id": "animals_020",
+    "word": "Eagle",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "bird",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_021",
+    "word": "Owl",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "bird",
+      "night"
+    ]
+  },
+  {
+    "id": "animals_022",
+    "word": "Parrot",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "bird",
+      "tropical"
+    ]
+  },
+  {
+    "id": "animals_023",
+    "word": "Flamingo",
+    "category": "Animals",
+    "difficulty": "hard",
+    "tags": [
+      "bird",
+      "tropical"
+    ]
+  },
+  {
+    "id": "animals_024",
+    "word": "Ostrich",
+    "category": "Animals",
+    "difficulty": "hard",
+    "tags": [
+      "bird",
+      "flightless"
+    ]
+  },
+  {
+    "id": "animals_025",
+    "word": "Bear",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "wild",
+      "mammal"
+    ]
+  },
+  {
+    "id": "animals_026",
+    "word": "Wolf",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_027",
+    "word": "Fox",
+    "category": "Animals",
+    "difficulty": "medium",
+    "tags": [
+      "wild",
+      "predator"
+    ]
+  },
+  {
+    "id": "animals_028",
+    "word": "Rabbit",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "domestic",
+      "wild"
+    ]
+  },
+  {
+    "id": "animals_029",
+    "word": "Horse",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "domestic",
+      "farm"
+    ]
+  },
+  {
+    "id": "animals_030",
+    "word": "Cow",
+    "category": "Animals",
+    "difficulty": "easy",
+    "tags": [
+      "domestic",
+      "farm"
+    ]
+  }
+]

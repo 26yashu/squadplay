@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ai_001",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "What does the abbreviation AI stand for?",
+    "options": [
+      "Automated Internet",
+      "Artificial Intelligence",
+      "Advanced Integration",
+      "Applied Informatics"
+    ],
+    "correctAnswer": "Artificial Intelligence",
+    "explanation": "Artificial Intelligence refers to computer systems designed to perform tasks that typically require human intelligence.",
+    "tags": [
+      "basics",
+      "terminology"
+    ]
+  },
+  {
+    "id": "ai_002",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which type of AI model is commonly used to recognize objects in images?",
+    "options": [
+      "Spreadsheet",
+      "Convolutional Neural Network",
+      "Database",
+      "Compiler"
+    ],
+    "correctAnswer": "Convolutional Neural Network",
+    "explanation": "Convolutional Neural Networks are designed to process and analyze visual data efficiently.",
+    "tags": [
+      "computer-vision",
+      "neural-networks"
+    ]
+  },
+  {
+    "id": "ai_003",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which field of AI focuses on enabling computers to understand human language?",
+    "options": [
+      "Computer Graphics",
+      "Natural Language Processing",
+      "Cybersecurity",
+      "Data Compression"
+    ],
+    "correctAnswer": "Natural Language Processing",
+    "explanation": "Natural Language Processing enables computers to interpret, generate, and analyze human language.",
+    "tags": [
+      "nlp",
+      "language"
+    ]
+  },
+  {
+    "id": "ai_004",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "What is the primary purpose of machine learning?",
+    "options": [
+      "To manually program every decision",
+      "To allow computers to learn from data",
+      "To replace computer hardware",
+      "To improve internet speed"
+    ],
+    "correctAnswer": "To allow computers to learn from data",
+    "explanation": "Machine learning enables systems to improve performance by learning patterns from data.",
+    "tags": [
+      "machine-learning",
+      "basics"
+    ]
+  },
+  {
+    "id": "ai_005",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which virtual assistant is developed by Apple?",
+    "options": [
+      "Alexa",
+      "Google Assistant",
+      "Siri",
+      "Cortana"
+    ],
+    "correctAnswer": "Siri",
+    "explanation": "Siri is Apple's built-in voice assistant available across its devices.",
+    "tags": [
+      "assistants",
+      "apple"
+    ]
+  },
+  {
+    "id": "ai_006",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of facial recognition technology?",
+    "options": [
+      "Spam filtering",
+      "Fingerprint authentication",
+      "Unlocking a phone by scanning your face",
+      "Compressing a file"
+    ],
+    "correctAnswer": "Unlocking a phone by scanning your face",
+    "explanation": "Facial recognition identifies or verifies a person using facial features.",
+    "tags": [
+      "computer-vision",
+      "applications"
+    ]
+  },
+  {
+    "id": "ai_007",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "What is a chatbot primarily designed to do?",
+    "options": [
+      "Repair hardware",
+      "Simulate conversations with users",
+      "Increase internet bandwidth",
+      "Create computer games"
+    ],
+    "correctAnswer": "Simulate conversations with users",
+    "explanation": "Chatbots are built to communicate with users through text or voice interactions.",
+    "tags": [
+      "chatbots",
+      "applications"
+    ]
+  },
+  {
+    "id": "ai_008",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which type of data is commonly used to train speech recognition systems?",
+    "options": [
+      "Audio recordings",
+      "Satellite images",
+      "Financial reports",
+      "Weather forecasts"
+    ],
+    "correctAnswer": "Audio recordings",
+    "explanation": "Speech recognition models learn from large collections of spoken audio and transcripts.",
+    "tags": [
+      "speech",
+      "training-data"
+    ]
+  },
+  {
+    "id": "ai_009",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which AI application recommends movies based on your viewing history?",
+    "options": [
+      "Recommendation system",
+      "Firewall",
+      "Spreadsheet",
+      "Compiler"
+    ],
+    "correctAnswer": "Recommendation system",
+    "explanation": "Recommendation systems analyze user preferences to suggest relevant content.",
+    "tags": [
+      "recommendations",
+      "applications"
+    ]
+  },
+  {
+    "id": "ai_010",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which company developed the AI assistant called Gemini?",
+    "options": [
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "IBM"
+    ],
+    "correctAnswer": "Google",
+    "explanation": "Google develops the Gemini family of AI models and assistant experiences.",
+    "tags": [
+      "companies",
+      "generative-ai"
+    ]
+  },
+  {
+    "id": "ai_011",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "What is the main goal of computer vision?",
+    "options": [
+      "Generate electricity",
+      "Enable computers to interpret visual information",
+      "Build databases",
+      "Manage computer memory"
+    ],
+    "correctAnswer": "Enable computers to interpret visual information",
+    "explanation": "Computer vision allows machines to analyze and understand images and videos.",
+    "tags": [
+      "computer-vision",
+      "basics"
+    ]
+  },
+  {
+    "id": "ai_012",
+    "category": "Artificial Intelligence",
+    "difficulty": "easy",
+    "question": "Which term describes AI that creates new text, images, or music?",
+    "options": [
+      "Generative AI",
+      "Embedded AI",
+      "Distributed AI",
+      "Analog AI"
+    ],
+    "correctAnswer": "Generative AI",
+    "explanation": "Generative AI produces new content by learning patterns from existing data.",
+    "tags": [
+      "generative-ai",
+      "concepts"
+    ]
+  },
+  {
+    "id": "ai_013",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "In supervised learning, what is required for every training example?",
+    "options": [
+      "A labeled output",
+      "A robot",
+      "A graphics card",
+      "An internet connection"
+    ],
+    "correctAnswer": "A labeled output",
+    "explanation": "Supervised learning relies on input data paired with known correct outputs.",
+    "tags": [
+      "machine-learning",
+      "supervised-learning"
+    ]
+  },
+  {
+    "id": "ai_014",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which evaluation metric is commonly used for binary classification models?",
+    "options": [
+      "Accuracy",
+      "Frame Rate",
+      "Bitrate",
+      "Resolution"
+    ],
+    "correctAnswer": "Accuracy",
+    "explanation": "Accuracy measures the proportion of correct predictions among all predictions.",
+    "tags": [
+      "evaluation",
+      "classification"
+    ]
+  },
+  {
+    "id": "ai_015",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "What is the primary role of a training dataset in machine learning?",
+    "options": [
+      "To store backups",
+      "To teach the model patterns from examples",
+      "To encrypt files",
+      "To improve network speed"
+    ],
+    "correctAnswer": "To teach the model patterns from examples",
+    "explanation": "Training datasets provide examples that allow models to learn relationships within data.",
+    "tags": [
+      "datasets",
+      "training"
+    ]
+  },
+  {
+    "id": "ai_016",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which type of machine learning discovers patterns in unlabeled data?",
+    "options": [
+      "Supervised learning",
+      "Reinforcement learning",
+      "Unsupervised learning",
+      "Transfer learning"
+    ],
+    "correctAnswer": "Unsupervised learning",
+    "explanation": "Unsupervised learning identifies structures and relationships without labeled target values.",
+    "tags": [
+      "machine-learning",
+      "unsupervised-learning"
+    ]
+  },
+  {
+    "id": "ai_017",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "In reinforcement learning, what is the signal that tells an agent how well it performed?",
+    "options": [
+      "Gradient",
+      "Reward",
+      "Feature",
+      "Label"
+    ],
+    "correctAnswer": "Reward",
+    "explanation": "A reward provides feedback that helps the agent learn which actions lead to better outcomes.",
+    "tags": [
+      "reinforcement-learning",
+      "agents"
+    ]
+  },
+  {
+    "id": "ai_018",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a validation dataset during model development?",
+    "options": [
+      "Train the model",
+      "Store backups",
+      "Tune model performance",
+      "Deploy the application"
+    ],
+    "correctAnswer": "Tune model performance",
+    "explanation": "A validation dataset helps select model settings and detect overfitting before final testing.",
+    "tags": [
+      "model-training",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "ai_019",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which concept describes a model performing well on training data but poorly on unseen data?",
+    "options": [
+      "Normalization",
+      "Overfitting",
+      "Clustering",
+      "Tokenization"
+    ],
+    "correctAnswer": "Overfitting",
+    "explanation": "Overfitting occurs when a model memorizes training data instead of learning general patterns.",
+    "tags": [
+      "machine-learning",
+      "overfitting"
+    ]
+  },
+  {
+    "id": "ai_020",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "What is the smallest unit of text commonly processed by large language models?",
+    "options": [
+      "Paragraph",
+      "Sentence",
+      "Token",
+      "Chapter"
+    ],
+    "correctAnswer": "Token",
+    "explanation": "Language models process text as tokens, which may represent words, subwords, or characters.",
+    "tags": [
+      "llm",
+      "nlp"
+    ]
+  },
+  {
+    "id": "ai_021",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which neural network architecture is especially effective for sequential text data?",
+    "options": [
+      "Decision Tree",
+      "Recurrent Neural Network",
+      "K-Means",
+      "Linear Regression"
+    ],
+    "correctAnswer": "Recurrent Neural Network",
+    "explanation": "Recurrent Neural Networks are designed to capture dependencies in sequential data.",
+    "tags": [
+      "neural-networks",
+      "sequence-models"
+    ]
+  },
+  {
+    "id": "ai_022",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "What is transfer learning primarily used for?",
+    "options": [
+      "Creating hardware",
+      "Reusing knowledge from a pretrained model",
+      "Increasing internet bandwidth",
+      "Compressing databases"
+    ],
+    "correctAnswer": "Reusing knowledge from a pretrained model",
+    "explanation": "Transfer learning adapts a pretrained model to a new but related task with less training data.",
+    "tags": [
+      "transfer-learning",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "ai_023",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which algorithm is commonly used for clustering data into groups?",
+    "options": [
+      "K-Means",
+      "Naive Bayes",
+      "Linear Regression",
+      "A* Search"
+    ],
+    "correctAnswer": "K-Means",
+    "explanation": "K-Means partitions data into clusters by minimizing the distance to cluster centers.",
+    "tags": [
+      "clustering",
+      "algorithms"
+    ]
+  },
+  {
+    "id": "ai_024",
+    "category": "Artificial Intelligence",
+    "difficulty": "medium",
+    "question": "Which technique helps reduce overfitting by randomly disabling neurons during training?",
+    "options": [
+      "Pooling",
+      "Normalization",
+      "Dropout",
+      "Tokenization"
+    ],
+    "correctAnswer": "Dropout",
+    "explanation": "Dropout improves generalization by randomly deactivating neurons during training.",
+    "tags": [
+      "deep-learning",
+      "regularization"
+    ]
+  },
+  {
+    "id": "ai_025",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "Which architecture introduced the self-attention mechanism that powers modern large language models?",
+    "options": [
+      "ResNet",
+      "Transformer",
+      "AlexNet",
+      "LeNet"
+    ],
+    "correctAnswer": "Transformer",
+    "explanation": "The Transformer architecture uses self-attention to efficiently model relationships across sequences.",
+    "tags": [
+      "transformers",
+      "llm"
+    ]
+  },
+  {
+    "id": "ai_026",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "In binary classification, what does precision measure?",
+    "options": [
+      "The proportion of actual positives identified",
+      "The proportion of predicted positives that are correct",
+      "The average prediction error",
+      "The total number of predictions"
+    ],
+    "correctAnswer": "The proportion of predicted positives that are correct",
+    "explanation": "Precision evaluates how many positive predictions made by the model are actually correct.",
+    "tags": [
+      "evaluation",
+      "metrics"
+    ]
+  },
+  {
+    "id": "ai_027",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "Which optimization algorithm is widely used for training deep neural networks by adapting learning rates?",
+    "options": [
+      "Bubble Sort",
+      "Adam",
+      "Breadth-First Search",
+      "K-Nearest Neighbors"
+    ],
+    "correctAnswer": "Adam",
+    "explanation": "Adam combines momentum and adaptive learning rates for efficient neural network optimization.",
+    "tags": [
+      "optimization",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "ai_028",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "What does ROC stand for in the ROC curve used to evaluate classifiers?",
+    "options": [
+      "Random Output Curve",
+      "Rate of Classification",
+      "Receiver Operating Characteristic",
+      "Relative Optimization Criterion"
+    ],
+    "correctAnswer": "Receiver Operating Characteristic",
+    "explanation": "The ROC curve plots the true positive rate against the false positive rate at different thresholds.",
+    "tags": [
+      "evaluation",
+      "classification"
+    ]
+  },
+  {
+    "id": "ai_029",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "Which activation function is most commonly used in the hidden layers of modern deep neural networks?",
+    "options": [
+      "Sigmoid",
+      "ReLU",
+      "Step Function",
+      "Linear"
+    ],
+    "correctAnswer": "ReLU",
+    "explanation": "ReLU is widely used because it is computationally efficient and helps mitigate vanishing gradients.",
+    "tags": [
+      "neural-networks",
+      "activation-functions"
+    ]
+  },
+  {
+    "id": "ai_030",
+    "category": "Artificial Intelligence",
+    "difficulty": "hard",
+    "question": "What is the primary objective of gradient descent during neural network training?",
+    "options": [
+      "Increase model size",
+      "Reduce the loss function",
+      "Generate more training data",
+      "Compress model weights"
+    ],
+    "correctAnswer": "Reduce the loss function",
+    "explanation": "Gradient descent updates model parameters iteratively to minimize prediction error.",
+    "tags": [
+      "optimization",
+      "training"
+    ]
+  }
+]

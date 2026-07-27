@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mini_001",
+    "title": "Rock Paper Scissors",
+    "description": "Play Rock Paper Scissors with the person to your right.",
+    "difficulty": "easy",
+    "tags": [
+      "game",
+      "interactive"
+    ]
+  },
+  {
+    "id": "mini_002",
+    "title": "Thumb War",
+    "description": "Challenge someone to a 1-minute thumb war.",
+    "difficulty": "easy",
+    "tags": [
+      "game",
+      "interactive"
+    ]
+  },
+  {
+    "id": "mini_003",
+    "title": "Memory Challenge",
+    "description": "Look at 5 items for 10 seconds, close your eyes, and name them.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "memory"
+    ]
+  },
+  {
+    "id": "mini_004",
+    "title": "Categories",
+    "description": "Pick a category. Go around naming things in it until someone fails.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "brain"
+    ]
+  },
+  {
+    "id": "mini_005",
+    "title": "Rhyme Game",
+    "description": "Say a word. The next person rhymes it. Go until someone fails.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "brain"
+    ]
+  },
+  {
+    "id": "mini_006",
+    "title": "Guess the Song",
+    "description": "Hum a song and the group has to guess it.",
+    "difficulty": "medium",
+    "tags": [
+      "music",
+      "acting"
+    ]
+  },
+  {
+    "id": "mini_007",
+    "title": "Charades Quickie",
+    "description": "Act out an animal. First person to guess wins.",
+    "difficulty": "easy",
+    "tags": [
+      "acting",
+      "group"
+    ]
+  },
+  {
+    "id": "mini_008",
+    "title": "Never Have I Ever",
+    "description": "Say something you've never done. Anyone who has must put a finger down.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "group"
+    ]
+  },
+  {
+    "id": "mini_009",
+    "title": "Two Truths One Lie",
+    "description": "Tell 2 truths and 1 lie. The group must guess the lie.",
+    "difficulty": "hard",
+    "tags": [
+      "social",
+      "speaking"
+    ]
+  },
+  {
+    "id": "mini_010",
+    "title": "Word Association",
+    "description": "Say a word, next person says the first word they think of. Go fast!",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "brain"
+    ]
+  },
+  {
+    "id": "mini_011",
+    "title": "Would You Rather",
+    "description": "Ask the group a difficult Would You Rather question.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "conversation"
+    ]
+  },
+  {
+    "id": "mini_012",
+    "title": "Alphabet Game",
+    "description": "Pick a topic. Go around naming things A-Z.",
+    "difficulty": "hard",
+    "tags": [
+      "group",
+      "brain"
+    ]
+  },
+  {
+    "id": "mini_013",
+    "title": "Staring Contest Tournament",
+    "description": "Challenge two people to a staring contest.",
+    "difficulty": "easy",
+    "tags": [
+      "interactive",
+      "fun"
+    ]
+  },
+  {
+    "id": "mini_014",
+    "title": "Truth or Dare Quickie",
+    "description": "Pick one person and ask them Truth or Dare.",
+    "difficulty": "medium",
+    "tags": [
+      "interactive",
+      "social"
+    ]
+  },
+  {
+    "id": "mini_015",
+    "title": "Guess the Movie",
+    "description": "Describe a movie plot terribly. The group must guess it.",
+    "difficulty": "medium",
+    "tags": [
+      "speaking",
+      "movies"
+    ]
+  },
+  {
+    "id": "mini_016",
+    "title": "The Floor is Lava",
+    "description": "Last person to get their feet off the floor loses.",
+    "difficulty": "easy",
+    "tags": [
+      "group",
+      "physical"
+    ]
+  },
+  {
+    "id": "mini_017",
+    "title": "Name That Tune",
+    "description": "Play 3 seconds of a song on your phone. First to guess wins.",
+    "difficulty": "medium",
+    "tags": [
+      "music",
+      "group"
+    ]
+  },
+  {
+    "id": "mini_018",
+    "title": "Blind Drawing",
+    "description": "Close your eyes and draw a house. The group rates it.",
+    "difficulty": "medium",
+    "tags": [
+      "creative",
+      "funny"
+    ]
+  },
+  {
+    "id": "mini_019",
+    "title": "Tongue Twister",
+    "description": "Say 'She sells seashells by the seashore' 5 times fast.",
+    "difficulty": "hard",
+    "tags": [
+      "speaking",
+      "challenge"
+    ]
+  },
+  {
+    "id": "mini_020",
+    "title": "Don't Blink",
+    "description": "First person to blink in the room loses.",
+    "difficulty": "easy",
+    "tags": [
+      "group",
+      "challenge"
+    ]
+  },
+  {
+    "id": "mini_021",
+    "title": "Statue Maker",
+    "description": "Pose the person to your left like a statue.",
+    "difficulty": "easy",
+    "tags": [
+      "interactive",
+      "funny"
+    ]
+  },
+  {
+    "id": "mini_022",
+    "title": "Mirror Game",
+    "description": "Person to your left must mirror all your movements for 30s.",
+    "difficulty": "medium",
+    "tags": [
+      "interactive",
+      "acting"
+    ]
+  },
+  {
+    "id": "mini_023",
+    "title": "Try Not To Laugh",
+    "description": "You have 30 seconds to make the person across from you laugh.",
+    "difficulty": "hard",
+    "tags": [
+      "interactive",
+      "funny"
+    ]
+  },
+  {
+    "id": "mini_024",
+    "title": "Hide and Seek",
+    "description": "Hide an object in the room. The group has 1 minute to find it.",
+    "difficulty": "hard",
+    "tags": [
+      "group",
+      "physical"
+    ]
+  },
+  {
+    "id": "mini_025",
+    "title": "Hot Potato",
+    "description": "Pass an object around while music plays. Stop the music. Whoever holds it loses.",
+    "difficulty": "easy",
+    "tags": [
+      "group",
+      "fun"
+    ]
+  },
+  {
+    "id": "mini_026",
+    "title": "Story Time",
+    "description": "Build a story one word at a time around the circle.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "creative"
+    ]
+  },
+  {
+    "id": "mini_027",
+    "title": "Whisper Challenge",
+    "description": "Whisper a phrase to someone wearing headphones. They must guess it.",
+    "difficulty": "hard",
+    "tags": [
+      "interactive",
+      "funny"
+    ]
+  },
+  {
+    "id": "mini_028",
+    "title": "Quick Sketch",
+    "description": "Draw a dog in 10 seconds. Best drawing wins.",
+    "difficulty": "medium",
+    "tags": [
+      "creative",
+      "group"
+    ]
+  },
+  {
+    "id": "mini_029",
+    "title": "Math Race",
+    "description": "Give a math problem. First to answer wins.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "group"
+    ]
+  },
+  {
+    "id": "mini_030",
+    "title": "Capital Cities",
+    "description": "Name as many capital cities as you can in 20 seconds.",
+    "difficulty": "hard",
+    "tags": [
+      "brain",
+      "challenge"
+    ]
+  }
+]

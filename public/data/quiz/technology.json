@@ -1,0 +1,542 @@
+[
+  {
+    "id": "technology_001",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processing Utility",
+      "Core Processing Unit"
+    ],
+    "correctAnswer": "Central Processing Unit",
+    "explanation": "The CPU is the primary component responsible for executing instructions in a computer.",
+    "tags": [
+      "hardware",
+      "computers"
+    ]
+  },
+  {
+    "id": "technology_002",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company developed the Windows operating system?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "correctAnswer": "Microsoft",
+    "explanation": "Microsoft introduced Windows in 1985 and continues to develop the operating system.",
+    "tags": [
+      "software",
+      "operating-systems"
+    ]
+  },
+  {
+    "id": "technology_003",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which device is primarily used to connect a home network to the internet?",
+    "options": [
+      "Router",
+      "Monitor",
+      "Scanner",
+      "Printer"
+    ],
+    "correctAnswer": "Router",
+    "explanation": "A router directs network traffic between local devices and the internet.",
+    "tags": [
+      "networking",
+      "internet"
+    ]
+  },
+  {
+    "id": "technology_004",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Unified System Bus",
+      "Universal System Bridge",
+      "Unified Serial Board"
+    ],
+    "correctAnswer": "Universal Serial Bus",
+    "explanation": "USB is a standard interface used to connect and power many electronic devices.",
+    "tags": [
+      "hardware",
+      "connectivity"
+    ]
+  },
+  {
+    "id": "technology_005",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which storage device has no moving mechanical parts?",
+    "options": [
+      "Hard Disk Drive",
+      "Solid State Drive",
+      "DVD",
+      "Blu-ray Disc"
+    ],
+    "correctAnswer": "Solid State Drive",
+    "explanation": "Solid State Drives store data on flash memory instead of spinning disks.",
+    "tags": [
+      "storage",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology_006",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which keyboard shortcut is commonly used to copy selected text on Windows?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + Z"
+    ],
+    "correctAnswer": "Ctrl + C",
+    "explanation": "Ctrl + C copies selected content to the clipboard.",
+    "tags": [
+      "productivity",
+      "shortcuts"
+    ]
+  },
+  {
+    "id": "technology_007",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the primary purpose of antivirus software?",
+    "options": [
+      "Improve internet speed",
+      "Create backups",
+      "Detect and remove malicious software",
+      "Compress files"
+    ],
+    "correctAnswer": "Detect and remove malicious software",
+    "explanation": "Antivirus software helps identify, block, and remove malware from devices.",
+    "tags": [
+      "security",
+      "software"
+    ]
+  },
+  {
+    "id": "technology_008",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company manufactures the iPhone?",
+    "options": [
+      "Samsung",
+      "Apple",
+      "Sony",
+      "Nokia"
+    ],
+    "correctAnswer": "Apple",
+    "explanation": "Apple introduced the first iPhone in 2007 and continues to produce the product line.",
+    "tags": [
+      "smartphones",
+      "companies"
+    ]
+  },
+  {
+    "id": "technology_009",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which unit is commonly used to measure internet connection speed?",
+    "options": [
+      "Megabits per second",
+      "Megabytes",
+      "Gigahertz",
+      "Pixels"
+    ],
+    "correctAnswer": "Megabits per second",
+    "explanation": "Internet speeds are typically advertised in megabits per second, abbreviated Mbps.",
+    "tags": [
+      "networking",
+      "internet"
+    ]
+  },
+  {
+    "id": "technology_010",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the purpose of a web browser?",
+    "options": [
+      "Edit photos",
+      "Access websites",
+      "Write operating systems",
+      "Create spreadsheets"
+    ],
+    "correctAnswer": "Access websites",
+    "explanation": "A web browser retrieves and displays web pages from the internet.",
+    "tags": [
+      "web",
+      "software"
+    ]
+  },
+  {
+    "id": "technology_011",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which symbol is commonly used in email addresses before the domain name?",
+    "options": [
+      "#",
+      "@",
+      "&",
+      "%"
+    ],
+    "correctAnswer": "@",
+    "explanation": "The @ symbol separates the user name from the email domain.",
+    "tags": [
+      "email",
+      "internet"
+    ]
+  },
+  {
+    "id": "technology_012",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which wireless technology is commonly used to connect headphones to a smartphone?",
+    "options": [
+      "Bluetooth",
+      "Ethernet",
+      "NFC",
+      "DSL"
+    ],
+    "correctAnswer": "Bluetooth",
+    "explanation": "Bluetooth enables short-range wireless communication between compatible devices.",
+    "tags": [
+      "wireless",
+      "connectivity"
+    ]
+  },
+  {
+    "id": "technology_013",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which protocol is primarily used to securely browse websites?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correctAnswer": "HTTPS",
+    "explanation": "HTTPS encrypts communication between a web browser and a website using TLS.",
+    "tags": [
+      "web",
+      "security"
+    ]
+  },
+  {
+    "id": "technology_014",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which component temporarily stores data and instructions that the CPU is actively using?",
+    "options": [
+      "RAM",
+      "SSD",
+      "GPU",
+      "Power Supply"
+    ],
+    "correctAnswer": "RAM",
+    "explanation": "Random Access Memory provides fast temporary storage for active programs and data.",
+    "tags": [
+      "memory",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology_015",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "In cloud computing, what does SaaS stand for?",
+    "options": [
+      "Software as a Service",
+      "Storage as a System",
+      "System as a Service",
+      "Software and Security"
+    ],
+    "correctAnswer": "Software as a Service",
+    "explanation": "SaaS delivers software applications over the internet without local installation.",
+    "tags": [
+      "cloud",
+      "software"
+    ]
+  },
+  {
+    "id": "technology_016",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which programming language is primarily used for adding interactivity to web pages?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C#"
+    ],
+    "correctAnswer": "JavaScript",
+    "explanation": "JavaScript is the standard scripting language used to create interactive web experiences.",
+    "tags": [
+      "web",
+      "programming"
+    ]
+  },
+  {
+    "id": "technology_017",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does the acronym 'IP' stand for in IP address?",
+    "options": [
+      "Internet Protocol",
+      "Internal Program",
+      "Integrated Process",
+      "Information Port"
+    ],
+    "correctAnswer": "Internet Protocol",
+    "explanation": "Internet Protocol defines how data is addressed and routed across networks.",
+    "tags": [
+      "networking",
+      "internet"
+    ]
+  },
+  {
+    "id": "technology_018",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which database language is commonly used to query relational databases?",
+    "options": [
+      "HTML",
+      "CSS",
+      "SQL",
+      "XML"
+    ],
+    "correctAnswer": "SQL",
+    "explanation": "Structured Query Language (SQL) is designed for storing and retrieving data in relational databases.",
+    "tags": [
+      "databases",
+      "sql"
+    ]
+  },
+  {
+    "id": "technology_019",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a firewall?",
+    "options": [
+      "Increase processor speed",
+      "Filter network traffic",
+      "Improve screen resolution",
+      "Compress files"
+    ],
+    "correctAnswer": "Filter network traffic",
+    "explanation": "A firewall monitors and filters incoming and outgoing network connections based on security rules.",
+    "tags": [
+      "security",
+      "networking"
+    ]
+  },
+  {
+    "id": "technology_020",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which company developed the Android operating system?",
+    "options": [
+      "Apple",
+      "Google",
+      "Intel",
+      "Adobe"
+    ],
+    "correctAnswer": "Google",
+    "explanation": "Google maintains Android and oversees its ongoing development.",
+    "tags": [
+      "mobile",
+      "operating-systems"
+    ]
+  },
+  {
+    "id": "technology_021",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which file format is commonly used for lossless image compression?",
+    "options": [
+      "JPEG",
+      "PNG",
+      "MP3",
+      "AVI"
+    ],
+    "correctAnswer": "PNG",
+    "explanation": "PNG preserves image quality through lossless compression.",
+    "tags": [
+      "images",
+      "file-formats"
+    ]
+  },
+  {
+    "id": "technology_022",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Verified Public Node",
+      "Virtual Program Network",
+      "Visual Protected Network"
+    ],
+    "correctAnswer": "Virtual Private Network",
+    "explanation": "A VPN creates an encrypted connection between a device and a remote network.",
+    "tags": [
+      "security",
+      "networking"
+    ]
+  },
+  {
+    "id": "technology_023",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which technology enables contactless payments with compatible smartphones?",
+    "options": [
+      "DSL",
+      "NFC",
+      "VGA",
+      "SATA"
+    ],
+    "correctAnswer": "NFC",
+    "explanation": "Near Field Communication allows devices to exchange data over very short distances.",
+    "tags": [
+      "mobile",
+      "wireless"
+    ]
+  },
+  {
+    "id": "technology_024",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the primary role of DNS on the internet?",
+    "options": [
+      "Encrypt emails",
+      "Translate domain names into IP addresses",
+      "Store website images",
+      "Increase download speed"
+    ],
+    "correctAnswer": "Translate domain names into IP addresses",
+    "explanation": "The Domain Name System converts human-readable website names into numerical IP addresses.",
+    "tags": [
+      "internet",
+      "dns"
+    ]
+  },
+  {
+    "id": "technology_025",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which hashing algorithm produces a 256-bit digest and is part of the SHA-2 family?",
+    "options": [
+      "MD5",
+      "SHA-1",
+      "SHA-256",
+      "CRC32"
+    ],
+    "correctAnswer": "SHA-256",
+    "explanation": "SHA-256 generates a 256-bit cryptographic hash and is widely used for data integrity.",
+    "tags": [
+      "cryptography",
+      "security"
+    ]
+  },
+  {
+    "id": "technology_026",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which networking device forwards packets between different networks using IP addresses?",
+    "options": [
+      "Switch",
+      "Hub",
+      "Router",
+      "Repeater"
+    ],
+    "correctAnswer": "Router",
+    "explanation": "Routers examine IP addresses to determine the best path for forwarding packets.",
+    "tags": [
+      "networking",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology_027",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which RAID level provides disk striping with distributed parity?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctAnswer": "RAID 5",
+    "explanation": "RAID 5 combines striping with distributed parity to improve performance and fault tolerance.",
+    "tags": [
+      "storage",
+      "servers"
+    ]
+  },
+  {
+    "id": "technology_028",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which protocol is commonly used to automatically assign IP addresses on local networks?",
+    "options": [
+      "SMTP",
+      "DHCP",
+      "POP3",
+      "SNMP"
+    ],
+    "correctAnswer": "DHCP",
+    "explanation": "Dynamic Host Configuration Protocol automatically assigns IP configuration to devices.",
+    "tags": [
+      "networking",
+      "protocols"
+    ]
+  },
+  {
+    "id": "technology_029",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "In object-oriented programming, what principle allows one interface to represent different underlying implementations?",
+    "options": [
+      "Inheritance",
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction"
+    ],
+    "correctAnswer": "Polymorphism",
+    "explanation": "Polymorphism enables the same interface or method call to behave differently for different object types.",
+    "tags": [
+      "programming",
+      "oop"
+    ]
+  },
+  {
+    "id": "technology_030",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which consensus mechanism is primarily used by Bitcoin to validate transactions?",
+    "options": [
+      "Proof of Stake",
+      "Delegated Proof of Stake",
+      "Proof of Work",
+      "Proof of Authority"
+    ],
+    "correctAnswer": "Proof of Work",
+    "explanation": "Bitcoin relies on Proof of Work, where miners solve computational puzzles to secure the blockchain.",
+    "tags": [
+      "blockchain",
+      "cryptocurrency"
+    ]
+  }
+]

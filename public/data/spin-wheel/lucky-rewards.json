@@ -1,0 +1,302 @@
+[
+  {
+    "id": "lucky_001",
+    "title": "Skip Your Turn",
+    "description": "You are safe! Skip this turn.",
+    "difficulty": "easy",
+    "tags": [
+      "luck",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_002",
+    "title": "Extra Points",
+    "description": "Instantly gain 50 extra points.",
+    "difficulty": "easy",
+    "tags": [
+      "points",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_003",
+    "title": "Spin Again",
+    "description": "You get a free extra spin.",
+    "difficulty": "easy",
+    "tags": [
+      "luck",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_004",
+    "title": "Choose Another Player",
+    "description": "Pick someone else to take your punishment or task.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_005",
+    "title": "Steal Points",
+    "description": "Steal 20 points from the player in first place.",
+    "difficulty": "medium",
+    "tags": [
+      "points",
+      "power"
+    ]
+  },
+  {
+    "id": "lucky_006",
+    "title": "Double Points",
+    "description": "Points for your next action are doubled.",
+    "difficulty": "hard",
+    "tags": [
+      "points",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_007",
+    "title": "Immunity",
+    "description": "You cannot receive a punishment for the next 2 rounds.",
+    "difficulty": "hard",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_008",
+    "title": "Reverse",
+    "description": "Change the turn order direction.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "gameplay"
+    ]
+  },
+  {
+    "id": "lucky_009",
+    "title": "Give a Dare",
+    "description": "You get to invent a dare for any player.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "creative"
+    ]
+  },
+  {
+    "id": "lucky_010",
+    "title": "Veto Power",
+    "description": "You can cancel one rule or punishment later in the game.",
+    "difficulty": "hard",
+    "tags": [
+      "power",
+      "defense"
+    ]
+  },
+  {
+    "id": "lucky_011",
+    "title": "Free Pass",
+    "description": "Keep this card to skip any future turn.",
+    "difficulty": "hard",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_012",
+    "title": "Point Shower",
+    "description": "Everyone gets 10 points, but you get 30.",
+    "difficulty": "easy",
+    "tags": [
+      "points",
+      "social"
+    ]
+  },
+  {
+    "id": "lucky_013",
+    "title": "Make a Rule",
+    "description": "Create a rule everyone must follow. You are exempt.",
+    "difficulty": "hard",
+    "tags": [
+      "power",
+      "rules"
+    ]
+  },
+  {
+    "id": "lucky_014",
+    "title": "Truth Immunity",
+    "description": "You never have to answer a truth question for the rest of the game.",
+    "difficulty": "hard",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_015",
+    "title": "Dare Immunity",
+    "description": "You never have to do a physical dare for the rest of the game.",
+    "difficulty": "hard",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_016",
+    "title": "The Decider",
+    "description": "You settle all disputes for the rest of the game.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "social"
+    ]
+  },
+  {
+    "id": "lucky_017",
+    "title": "DJ Privilege",
+    "description": "You have absolute control over the music playlist.",
+    "difficulty": "easy",
+    "tags": [
+      "power",
+      "music"
+    ]
+  },
+  {
+    "id": "lucky_018",
+    "title": "VIP Seating",
+    "description": "You can demand anyone's seat and they must move.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "movement"
+    ]
+  },
+  {
+    "id": "lucky_019",
+    "title": "Snack King",
+    "description": "Someone must bring you a snack of your choice.",
+    "difficulty": "easy",
+    "tags": [
+      "reward",
+      "food"
+    ]
+  },
+  {
+    "id": "lucky_020",
+    "title": "Skip the Loser",
+    "description": "The person in last place loses their next turn.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "punishment"
+    ]
+  },
+  {
+    "id": "lucky_021",
+    "title": "Protect a Friend",
+    "description": "Give immunity to another player for one round.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "defense"
+    ]
+  },
+  {
+    "id": "lucky_022",
+    "title": "Point Swap",
+    "description": "Swap your score with the person to your left.",
+    "difficulty": "hard",
+    "tags": [
+      "power",
+      "points"
+    ]
+  },
+  {
+    "id": "lucky_023",
+    "title": "Multiplier",
+    "description": "All points earned this round are tripled.",
+    "difficulty": "hard",
+    "tags": [
+      "points",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_024",
+    "title": "Free Drink",
+    "description": "Someone must fetch you a beverage.",
+    "difficulty": "easy",
+    "tags": [
+      "reward",
+      "drinks"
+    ]
+  },
+  {
+    "id": "lucky_025",
+    "title": "Silent Treatment Immunity",
+    "description": "You can talk even if a rule says otherwise.",
+    "difficulty": "medium",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_026",
+    "title": "Task Master",
+    "description": "Assign any mini-game to two players of your choice.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "gameplay"
+    ]
+  },
+  {
+    "id": "lucky_027",
+    "title": "The Royal Treatment",
+    "description": "Everyone must refer to you as 'Your Majesty' for 3 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "reward",
+      "funny"
+    ]
+  },
+  {
+    "id": "lucky_028",
+    "title": "Instant Win",
+    "description": "Instantly win this specific mini-game or round.",
+    "difficulty": "hard",
+    "tags": [
+      "points",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_029",
+    "title": "Shield",
+    "description": "Block the next negative effect aimed at you.",
+    "difficulty": "medium",
+    "tags": [
+      "defense",
+      "reward"
+    ]
+  },
+  {
+    "id": "lucky_030",
+    "title": "Bankrupt",
+    "description": "Reduce the first place player's score by half.",
+    "difficulty": "hard",
+    "tags": [
+      "power",
+      "points"
+    ]
+  }
+]

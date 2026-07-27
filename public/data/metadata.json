@@ -1,0 +1,33 @@
+{
+  "lastGenerated": "2026-07-25T15:52:29.747Z",
+  "datasets": {
+    "quiz.json": {
+      "totalEntries": 3449,
+      "easy": 1330,
+      "medium": 1280,
+      "hard": 980,
+      "duplicatesRemoved": 141
+    },
+    "truth-or-dare.json": {
+      "totalEntries": 3894,
+      "easy": 1281,
+      "medium": 1352,
+      "hard": 1367,
+      "duplicatesRemoved": 106
+    },
+    "charades.json": {
+      "totalEntries": 4080,
+      "easy": 206,
+      "medium": 2884,
+      "hard": 1030,
+      "duplicatesRemoved": 40
+    },
+    "spin-wheel.json": {
+      "totalEntries": 880,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0,
+      "duplicatesRemoved": 0
+    }
+  }
+}

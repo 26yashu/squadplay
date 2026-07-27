@@ -1,0 +1,542 @@
+[
+  {
+    "id": "movies_001",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which 2022 Telugu film became a global hit with the song 'Naatu Naatu'?",
+    "options": [
+      "Pushpa: The Rise",
+      "Salaar",
+      "RRR",
+      "Ala Vaikunthapurramuloo"
+    ],
+    "correctAnswer": "RRR",
+    "explanation": "RRR gained worldwide recognition, and 'Naatu Naatu' won the Academy Award for Best Original Song.",
+    "tags": [
+      "telugu",
+      "songs"
+    ]
+  },
+  {
+    "id": "movies_002",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who directed the blockbuster Telugu film 'Baahubali: The Beginning'?",
+    "options": [
+      "Trivikram Srinivas",
+      "S. S. Rajamouli",
+      "Sukumar",
+      "Koratala Siva"
+    ],
+    "correctAnswer": "S. S. Rajamouli",
+    "explanation": "S. S. Rajamouli directed both films in the Baahubali series.",
+    "tags": [
+      "telugu",
+      "directors"
+    ]
+  },
+  {
+    "id": "movies_003",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which actor played the lead role in the Tamil film 'Vikram' (2022)?",
+    "options": [
+      "Suriya",
+      "Vijay",
+      "Kamal Haasan",
+      "Ajith Kumar"
+    ],
+    "correctAnswer": "Kamal Haasan",
+    "explanation": "Kamal Haasan starred as the title character in the action thriller Vikram.",
+    "tags": [
+      "tamil",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_004",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Hindi film features the iconic characters Jai and Veeru?",
+    "options": [
+      "Deewaar",
+      "Sholay",
+      "Don",
+      "Amar Akbar Anthony"
+    ],
+    "correctAnswer": "Sholay",
+    "explanation": "Jai and Veeru are the legendary protagonists of the classic film Sholay.",
+    "tags": [
+      "hindi",
+      "classics"
+    ]
+  },
+  {
+    "id": "movies_005",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Kannada film won the National Film Award for Best Feature Film in 1998?",
+    "options": [
+      "Mungaru Male",
+      "Bettada Hoovu",
+      "Thaayi Saheba",
+      "Kantara"
+    ],
+    "correctAnswer": "Thaayi Saheba",
+    "explanation": "Thaayi Saheba received the National Film Award for Best Feature Film.",
+    "tags": [
+      "kannada",
+      "awards"
+    ]
+  },
+  {
+    "id": "movies_006",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Malayalam film won the Academy Award nomination for India's official entry to the Oscars in 2024?",
+    "options": [
+      "Aadujeevitham",
+      "2018",
+      "Minnal Murali",
+      "Drishyam"
+    ],
+    "correctAnswer": "2018",
+    "explanation": "2018 was selected as India's official entry for the Best International Feature Film category.",
+    "tags": [
+      "malayalam",
+      "awards"
+    ]
+  },
+  {
+    "id": "movies_007",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which actor is popularly known as 'Thalapathy'?",
+    "options": [
+      "Ajith Kumar",
+      "Vijay",
+      "Suriya",
+      "Dhanush"
+    ],
+    "correctAnswer": "Vijay",
+    "explanation": "Vijay is widely known by the title 'Thalapathy' among fans.",
+    "tags": [
+      "tamil",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_008",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "In which language was the original film 'Drishyam' first released?",
+    "options": [
+      "Tamil",
+      "Hindi",
+      "Malayalam",
+      "Telugu"
+    ],
+    "correctAnswer": "Malayalam",
+    "explanation": "Drishyam was originally made in Malayalam before being remade in several languages.",
+    "tags": [
+      "malayalam",
+      "thriller"
+    ]
+  },
+  {
+    "id": "movies_009",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Telugu actor is popularly called the 'Mega Star'?",
+    "options": [
+      "Mahesh Babu",
+      "Nagarjuna",
+      "Chiranjeevi",
+      "Pawan Kalyan"
+    ],
+    "correctAnswer": "Chiranjeevi",
+    "explanation": "Chiranjeevi is widely recognized by the title 'Mega Star' in Telugu cinema.",
+    "tags": [
+      "telugu",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_010",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Hindi sports drama is based on the life of cricketer Mahendra Singh Dhoni?",
+    "options": [
+      "83",
+      "Jersey",
+      "M.S. Dhoni: The Untold Story",
+      "Kai Po Che!"
+    ],
+    "correctAnswer": "M.S. Dhoni: The Untold Story",
+    "explanation": "The film portrays the life and cricket career of M.S. Dhoni.",
+    "tags": [
+      "hindi",
+      "biography"
+    ]
+  },
+  {
+    "id": "movies_011",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Kannada film introduced the fictional place of Kolar Gold Fields (KGF) to a global audience?",
+    "options": [
+      "Kantara",
+      "KGF: Chapter 1",
+      "777 Charlie",
+      "James"
+    ],
+    "correctAnswer": "KGF: Chapter 1",
+    "explanation": "KGF: Chapter 1 popularized the story centered around the Kolar Gold Fields.",
+    "tags": [
+      "kannada",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_012",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which Malayalam superhero film stars Tovino Thomas as the lead character?",
+    "options": [
+      "ARM",
+      "Minnal Murali",
+      "Lucifer",
+      "Bheeshma Parvam"
+    ],
+    "correctAnswer": "Minnal Murali",
+    "explanation": "Minnal Murali is a Malayalam superhero film starring Tovino Thomas.",
+    "tags": [
+      "malayalam",
+      "superhero"
+    ]
+  },
+  {
+    "id": "movies_013",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which director made the Telugu fantasy film 'Eega'?",
+    "options": [
+      "Sukumar",
+      "S. S. Rajamouli",
+      "Puri Jagannadh",
+      "Krish Jagarlamudi"
+    ],
+    "correctAnswer": "S. S. Rajamouli",
+    "explanation": "Rajamouli directed Eega, a fantasy film featuring a housefly as the protagonist.",
+    "tags": [
+      "telugu",
+      "directors"
+    ]
+  },
+  {
+    "id": "movies_014",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Tamil filmmaker directed the critically acclaimed film 'Jai Bhim'?",
+    "options": [
+      "Lokesh Kanagaraj",
+      "T. J. Gnanavel",
+      "Mani Ratnam",
+      "Nelson Dilipkumar"
+    ],
+    "correctAnswer": "T. J. Gnanavel",
+    "explanation": "T. J. Gnanavel wrote and directed Jai Bhim.",
+    "tags": [
+      "tamil",
+      "directors"
+    ]
+  },
+  {
+    "id": "movies_015",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Hindi film won the Academy Award for Best Original Song with 'Jai Ho'?",
+    "options": [
+      "Lagaan",
+      "Slumdog Millionaire",
+      "Rang De Basanti",
+      "Taare Zameen Par"
+    ],
+    "correctAnswer": "Slumdog Millionaire",
+    "explanation": "A. R. Rahman's 'Jai Ho' from Slumdog Millionaire won the Academy Award for Best Original Song.",
+    "tags": [
+      "hindi",
+      "awards"
+    ]
+  },
+  {
+    "id": "movies_016",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Kannada film starring Rishab Shetty is centered around the traditional Bhoota Kola ritual?",
+    "options": [
+      "777 Charlie",
+      "Kantara",
+      "Ugramm",
+      "Yuvarathnaa"
+    ],
+    "correctAnswer": "Kantara",
+    "explanation": "Kantara blends folklore with the traditional Bhoota Kola ritual of coastal Karnataka.",
+    "tags": [
+      "kannada",
+      "folklore"
+    ]
+  },
+  {
+    "id": "movies_017",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Who directed the Malayalam crime drama 'Drishyam'?",
+    "options": [
+      "Jeethu Joseph",
+      "Lijo Jose Pellissery",
+      "Priyadarshan",
+      "Amal Neerad"
+    ],
+    "correctAnswer": "Jeethu Joseph",
+    "explanation": "Jeethu Joseph wrote and directed the original Malayalam film Drishyam.",
+    "tags": [
+      "malayalam",
+      "directors"
+    ]
+  },
+  {
+    "id": "movies_018",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Telugu actor portrayed Komaram Bheem in the film 'RRR'?",
+    "options": [
+      "Ram Charan",
+      "Jr. NTR",
+      "Prabhas",
+      "Allu Arjun"
+    ],
+    "correctAnswer": "Jr. NTR",
+    "explanation": "Jr. NTR played the fictionalized version of freedom fighter Komaram Bheem in RRR.",
+    "tags": [
+      "telugu",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_019",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which actor played Rocky in the 'KGF' film series?",
+    "options": [
+      "Darshan",
+      "Yash",
+      "Sudeep",
+      "Rakshit Shetty"
+    ],
+    "correctAnswer": "Yash",
+    "explanation": "Yash gained nationwide recognition for portraying Rocky in the KGF franchise.",
+    "tags": [
+      "kannada",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_020",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Tamil film marked the first collaboration between director Lokesh Kanagaraj and actor Vijay?",
+    "options": [
+      "Leo",
+      "Master",
+      "Beast",
+      "Bigil"
+    ],
+    "correctAnswer": "Master",
+    "explanation": "Master was the first film directed by Lokesh Kanagaraj starring Vijay.",
+    "tags": [
+      "tamil",
+      "directors"
+    ]
+  },
+  {
+    "id": "movies_021",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Hindi film features the fictional Rancho character played by Aamir Khan?",
+    "options": [
+      "PK",
+      "3 Idiots",
+      "Dangal",
+      "Ghajini"
+    ],
+    "correctAnswer": "3 Idiots",
+    "explanation": "Aamir Khan portrayed Rancho in the acclaimed comedy-drama 3 Idiots.",
+    "tags": [
+      "hindi",
+      "characters"
+    ]
+  },
+  {
+    "id": "movies_022",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Malayalam actor played Georgekutty in the original 'Drishyam' films?",
+    "options": [
+      "Mammootty",
+      "Fahadh Faasil",
+      "Prithviraj Sukumaran",
+      "Mohanlal"
+    ],
+    "correctAnswer": "Mohanlal",
+    "explanation": "Mohanlal portrayed Georgekutty in both Malayalam Drishyam films.",
+    "tags": [
+      "malayalam",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_023",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which Telugu film starring Allu Arjun features the character Pushpa Raj?",
+    "options": [
+      "Ala Vaikunthapurramuloo",
+      "Pushpa: The Rise",
+      "Race Gurram",
+      "Sarrainodu"
+    ],
+    "correctAnswer": "Pushpa: The Rise",
+    "explanation": "Allu Arjun played Pushpa Raj in the blockbuster action drama Pushpa: The Rise.",
+    "tags": [
+      "telugu",
+      "characters"
+    ]
+  },
+  {
+    "id": "movies_024",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Which legendary music composer is known for composing for Telugu, Tamil, Hindi, Kannada, and Malayalam films and won two Academy Awards?",
+    "options": [
+      "Ilaiyaraaja",
+      "M. M. Keeravani",
+      "A. R. Rahman",
+      "Devi Sri Prasad"
+    ],
+    "correctAnswer": "A. R. Rahman",
+    "explanation": "A. R. Rahman has composed across multiple Indian film industries and won two Academy Awards.",
+    "tags": [
+      "music",
+      "awards"
+    ]
+  },
+  {
+    "id": "movies_025",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which Malayalam film directed by Lijo Jose Pellissery was selected as India's official entry for the Academy Awards for films released in 2023?",
+    "options": [
+      "Ayyappanum Koshiyum",
+      "Jallikattu",
+      "Nanpakal Nerathu Mayakkam",
+      "Churuli"
+    ],
+    "correctAnswer": "Jallikattu",
+    "explanation": "Jallikattu was selected as India's official submission for the Best International Feature Film category for the 2021 Oscars.",
+    "tags": [
+      "malayalam",
+      "awards"
+    ]
+  },
+  {
+    "id": "movies_026",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which director created the Lokesh Cinematic Universe (LCU)?",
+    "options": [
+      "Mani Ratnam",
+      "Lokesh Kanagaraj",
+      "Atlee",
+      "Shankar"
+    ],
+    "correctAnswer": "Lokesh Kanagaraj",
+    "explanation": "Lokesh Kanagaraj established the interconnected Lokesh Cinematic Universe with films including Kaithi, Vikram, and Leo.",
+    "tags": [
+      "tamil",
+      "cinematic-universe"
+    ]
+  },
+  {
+    "id": "movies_027",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which Telugu actor portrayed the historical character Alluri Sitarama Raju in 'RRR'?",
+    "options": [
+      "Jr. NTR",
+      "Nani",
+      "Ram Charan",
+      "Prabhas"
+    ],
+    "correctAnswer": "Ram Charan",
+    "explanation": "Ram Charan played a fictionalized version of Alluri Sitarama Raju in RRR.",
+    "tags": [
+      "telugu",
+      "historical"
+    ]
+  },
+  {
+    "id": "movies_028",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which Kannada actor starred as the lead in the National Award-winning film 'Bell Bottom' (2019)?",
+    "options": [
+      "Rakshit Shetty",
+      "Rishab Shetty",
+      "Dhananjaya",
+      "Rishab Shetty"
+    ],
+    "correctAnswer": "Rishab Shetty",
+    "explanation": "Rishab Shetty played the lead role in Bell Bottom, a critically acclaimed Kannada detective film.",
+    "tags": [
+      "kannada",
+      "actors"
+    ]
+  },
+  {
+    "id": "movies_029",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which Hindi epic sports film tells the story of India's victory in the 1983 Cricket World Cup?",
+    "options": [
+      "83",
+      "Lagaan",
+      "Jersey",
+      "MS Dhoni: The Untold Story"
+    ],
+    "correctAnswer": "83",
+    "explanation": "83 dramatizes India's historic triumph at the 1983 Cricket World Cup.",
+    "tags": [
+      "hindi",
+      "sports"
+    ]
+  },
+  {
+    "id": "movies_030",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which Malayalam filmmaker directed the internationally acclaimed film 'Ee.Ma.Yau.'?",
+    "options": [
+      "Jeethu Joseph",
+      "Amal Neerad",
+      "Lijo Jose Pellissery",
+      "Priyadarshan"
+    ],
+    "correctAnswer": "Lijo Jose Pellissery",
+    "explanation": "Lijo Jose Pellissery directed Ee.Ma.Yau., which received widespread international critical acclaim.",
+    "tags": [
+      "malayalam",
+      "directors"
+    ]
+  }
+]

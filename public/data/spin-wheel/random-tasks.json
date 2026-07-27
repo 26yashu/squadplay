@@ -1,0 +1,302 @@
+[
+  {
+    "id": "task_001",
+    "title": "Swap Seats",
+    "description": "Swap seats with the person sitting directly opposite you.",
+    "difficulty": "easy",
+    "tags": [
+      "random",
+      "movement"
+    ]
+  },
+  {
+    "id": "task_002",
+    "title": "High Five Everyone",
+    "description": "Get up and give everyone in the room a high five.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "movement"
+    ]
+  },
+  {
+    "id": "task_003",
+    "title": "Spin Again",
+    "description": "You must immediately spin the wheel again.",
+    "difficulty": "easy",
+    "tags": [
+      "luck",
+      "random"
+    ]
+  },
+  {
+    "id": "task_004",
+    "title": "Change the Music",
+    "description": "You get to choose the next song playing in the background.",
+    "difficulty": "easy",
+    "tags": [
+      "music",
+      "reward"
+    ]
+  },
+  {
+    "id": "task_005",
+    "title": "Give a Toast",
+    "description": "Stand up and give a 30-second toast to the group.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "speaking"
+    ]
+  },
+  {
+    "id": "task_006",
+    "title": "Create a Rule",
+    "description": "Make up a new rule for the game that everyone must follow.",
+    "difficulty": "hard",
+    "tags": [
+      "creative",
+      "power"
+    ]
+  },
+  {
+    "id": "task_007",
+    "title": "Cancel a Rule",
+    "description": "You can remove one custom rule currently in play.",
+    "difficulty": "medium",
+    "tags": [
+      "power",
+      "reward"
+    ]
+  },
+  {
+    "id": "task_008",
+    "title": "Group Selfie",
+    "description": "Organize a group selfie right now.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "fun"
+    ]
+  },
+  {
+    "id": "task_009",
+    "title": "Left Hand Handshake",
+    "description": "Shake everyone's hand using only your left hand.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "movement"
+    ]
+  },
+  {
+    "id": "task_010",
+    "title": "Switch Drinks",
+    "description": "Swap your beverage with someone else (if safe).",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "random"
+    ]
+  },
+  {
+    "id": "task_011",
+    "title": "Play DJ",
+    "description": "Change the song to something completely unexpected.",
+    "difficulty": "easy",
+    "tags": [
+      "music",
+      "random"
+    ]
+  },
+  {
+    "id": "task_012",
+    "title": "Mute the TV",
+    "description": "If the TV is on, you must mute it for one round.",
+    "difficulty": "easy",
+    "tags": [
+      "environment",
+      "random"
+    ]
+  },
+  {
+    "id": "task_013",
+    "title": "Pick a Number",
+    "description": "Have someone pick a number 1-10. If you guess it, they spin.",
+    "difficulty": "medium",
+    "tags": [
+      "interactive",
+      "random"
+    ]
+  },
+  {
+    "id": "task_014",
+    "title": "Truth Question",
+    "description": "Ask any player a Truth question. They must answer.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "interactive"
+    ]
+  },
+  {
+    "id": "task_015",
+    "title": "Dare Someone",
+    "description": "Give a small dare to the person to your left.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "interactive"
+    ]
+  },
+  {
+    "id": "task_016",
+    "title": "Reverse Direction",
+    "description": "The turn order reverses immediately.",
+    "difficulty": "easy",
+    "tags": [
+      "gameplay",
+      "power"
+    ]
+  },
+  {
+    "id": "task_017",
+    "title": "Double Turn",
+    "description": "You get to take a second turn immediately after this one.",
+    "difficulty": "easy",
+    "tags": [
+      "gameplay",
+      "reward"
+    ]
+  },
+  {
+    "id": "task_018",
+    "title": "Lose a Turn",
+    "description": "Skip your next turn completely.",
+    "difficulty": "medium",
+    "tags": [
+      "gameplay",
+      "punishment"
+    ]
+  },
+  {
+    "id": "task_019",
+    "title": "Pass the Buck",
+    "description": "Choose someone else to spin the wheel for you.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "random"
+    ]
+  },
+  {
+    "id": "task_020",
+    "title": "Everyone Stands",
+    "description": "Everyone must stand up. Last person to stand does 5 squats.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "physical"
+    ]
+  },
+  {
+    "id": "task_021",
+    "title": "Everyone Sits",
+    "description": "Everyone must sit on the floor. Last one down loses 10 points.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "physical"
+    ]
+  },
+  {
+    "id": "task_022",
+    "title": "Count to 10",
+    "description": "The group must count to 10. If two people say a number at the same time, restart.",
+    "difficulty": "hard",
+    "tags": [
+      "group",
+      "interactive"
+    ]
+  },
+  {
+    "id": "task_023",
+    "title": "Nickname Time",
+    "description": "Give everyone a new nickname they must use for 3 rounds.",
+    "difficulty": "medium",
+    "tags": [
+      "creative",
+      "funny"
+    ]
+  },
+  {
+    "id": "task_024",
+    "title": "Simon Says",
+    "description": "Play a quick 30-second round of Simon Says.",
+    "difficulty": "easy",
+    "tags": [
+      "group",
+      "game"
+    ]
+  },
+  {
+    "id": "task_025",
+    "title": "Thumbs Up",
+    "description": "Keep your thumbs up for the next full round.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "funny"
+    ]
+  },
+  {
+    "id": "task_026",
+    "title": "No Electronics",
+    "description": "Everyone must put their phones face down on the table.",
+    "difficulty": "medium",
+    "tags": [
+      "group",
+      "rules"
+    ]
+  },
+  {
+    "id": "task_027",
+    "title": "Switch Shirts",
+    "description": "Swap a jacket or sweater with someone in the room.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "funny"
+    ]
+  },
+  {
+    "id": "task_028",
+    "title": "Share a Secret",
+    "description": "Share a mild secret with the group.",
+    "difficulty": "medium",
+    "tags": [
+      "social",
+      "speaking"
+    ]
+  },
+  {
+    "id": "task_029",
+    "title": "Stretch Break",
+    "description": "Lead the group in a 30-second stretch.",
+    "difficulty": "easy",
+    "tags": [
+      "group",
+      "physical"
+    ]
+  },
+  {
+    "id": "task_030",
+    "title": "Ghost Story",
+    "description": "Tell a two-sentence scary story.",
+    "difficulty": "easy",
+    "tags": [
+      "creative",
+      "speaking"
+    ]
+  }
+]

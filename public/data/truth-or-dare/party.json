@@ -1,0 +1,332 @@
+[
+  {
+    "id": "party_truth_001",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Who in this room would survive the longest in a zombie apocalypse?",
+    "tags": [
+      "party",
+      "friends"
+    ]
+  },
+  {
+    "id": "party_truth_002",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "What is the craziest party you have ever attended?",
+    "tags": [
+      "party",
+      "story"
+    ]
+  },
+  {
+    "id": "party_truth_003",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Have you ever forgotten someone's name immediately after meeting them?",
+    "tags": [
+      "party",
+      "relatable"
+    ]
+  },
+  {
+    "id": "party_truth_004",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "What is your ultimate karaoke song?",
+    "tags": [
+      "party",
+      "music"
+    ]
+  },
+  {
+    "id": "party_truth_005",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "If you had to be handcuffed to someone here for 24 hours, who would you choose?",
+    "tags": [
+      "party",
+      "friends"
+    ]
+  },
+  {
+    "id": "party_truth_006",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "What is your best party trick?",
+    "tags": [
+      "party",
+      "skills"
+    ]
+  },
+  {
+    "id": "party_truth_007",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Who is the best dressed person in the room right now?",
+    "tags": [
+      "party",
+      "compliment"
+    ]
+  },
+  {
+    "id": "party_truth_008",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "What is the most spontaneous thing you've ever done with friends?",
+    "tags": [
+      "party",
+      "story"
+    ]
+  },
+  {
+    "id": "party_truth_009",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "If we started a band right now, what would our name be?",
+    "tags": [
+      "party",
+      "creative"
+    ]
+  },
+  {
+    "id": "party_truth_010",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Have you ever crashed an event you weren't invited to?",
+    "tags": [
+      "party",
+      "secrets"
+    ]
+  },
+  {
+    "id": "party_truth_011",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Who in the group is most likely to become a millionaire?",
+    "tags": [
+      "party",
+      "friends"
+    ]
+  },
+  {
+    "id": "party_truth_012",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "What is a controversial opinion you hold about a popular movie or show?",
+    "tags": [
+      "party",
+      "conversation"
+    ]
+  },
+  {
+    "id": "party_truth_013",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "If you could only listen to one album for the rest of your life, what is it?",
+    "tags": [
+      "party",
+      "music"
+    ]
+  },
+  {
+    "id": "party_truth_014",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "What is the wildest excuse you've used to skip work or school?",
+    "tags": [
+      "party",
+      "secrets"
+    ]
+  },
+  {
+    "id": "party_truth_015",
+    "type": "truth",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "If this group were stranded on an island, who would take charge?",
+    "tags": [
+      "party",
+      "friends"
+    ]
+  },
+  {
+    "id": "party_dare_001",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Take a selfie with the person to your right and make it your profile picture for a day.",
+    "tags": [
+      "party",
+      "social"
+    ]
+  },
+  {
+    "id": "party_dare_002",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Let the group choose a song and you have to lip-sync it perfectly.",
+    "tags": [
+      "party",
+      "acting"
+    ]
+  },
+  {
+    "id": "party_dare_003",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Trade a piece of clothing with another player.",
+    "tags": [
+      "party",
+      "fashion"
+    ]
+  },
+  {
+    "id": "party_dare_004",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Do 10 jumping jacks while shouting out your favorite foods.",
+    "tags": [
+      "party",
+      "physical"
+    ]
+  },
+  {
+    "id": "party_dare_005",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Let someone in the group text a contact in your phone (within reason).",
+    "tags": [
+      "party",
+      "secrets"
+    ]
+  },
+  {
+    "id": "party_dare_006",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "High five everyone in the room as aggressively as possible.",
+    "tags": [
+      "party",
+      "physical"
+    ]
+  },
+  {
+    "id": "party_dare_007",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Create a 15-second TikTok-style dance and perform it.",
+    "tags": [
+      "party",
+      "dance"
+    ]
+  },
+  {
+    "id": "party_dare_008",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Act like a news reporter broadcasting live from the party.",
+    "tags": [
+      "party",
+      "acting"
+    ]
+  },
+  {
+    "id": "party_dare_009",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Let the person to your left draw a mustache on you using a safe marker or makeup.",
+    "tags": [
+      "party",
+      "funny"
+    ]
+  },
+  {
+    "id": "party_dare_010",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Do your best impersonation of a famous celebrity.",
+    "tags": [
+      "party",
+      "acting"
+    ]
+  },
+  {
+    "id": "party_dare_011",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Propose to a piece of furniture in the room.",
+    "tags": [
+      "party",
+      "funny"
+    ]
+  },
+  {
+    "id": "party_dare_012",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Play air guitar like you are at a rock concert for 30 seconds.",
+    "tags": [
+      "party",
+      "music"
+    ]
+  },
+  {
+    "id": "party_dare_013",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "medium",
+    "prompt": "Try to sell a random object in the room to the group like a salesperson.",
+    "tags": [
+      "party",
+      "acting"
+    ]
+  },
+  {
+    "id": "party_dare_014",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "hard",
+    "prompt": "Let another player blindfold you and feed you a safe snack. You must guess what it is.",
+    "tags": [
+      "party",
+      "food"
+    ]
+  },
+  {
+    "id": "party_dare_015",
+    "type": "dare",
+    "category": "Party",
+    "difficulty": "easy",
+    "prompt": "Start a conga line around the room and make everyone join.",
+    "tags": [
+      "party",
+      "physical"
+    ]
+  }
+]

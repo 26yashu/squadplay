@@ -1,0 +1,302 @@
+[
+  {
+    "id": "sports_001",
+    "word": "Football",
+    "category": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_002",
+    "word": "Basketball",
+    "category": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_003",
+    "word": "Baseball",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_004",
+    "word": "Soccer",
+    "category": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_005",
+    "word": "Tennis",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_006",
+    "word": "Volleyball",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_007",
+    "word": "Golf",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_008",
+    "word": "Cricket",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_009",
+    "word": "Rugby",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_010",
+    "word": "American Football",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "team",
+      "ball"
+    ]
+  },
+  {
+    "id": "sports_011",
+    "word": "Hockey",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "team",
+      "ice"
+    ]
+  },
+  {
+    "id": "sports_012",
+    "word": "Ice Skating",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "ice"
+    ]
+  },
+  {
+    "id": "sports_013",
+    "word": "Skiing",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "snow"
+    ]
+  },
+  {
+    "id": "sports_014",
+    "word": "Snowboarding",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "snow"
+    ]
+  },
+  {
+    "id": "sports_015",
+    "word": "Surfing",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "water"
+    ]
+  },
+  {
+    "id": "sports_016",
+    "word": "Swimming",
+    "category": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "individual",
+      "water"
+    ]
+  },
+  {
+    "id": "sports_017",
+    "word": "Boxing",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "combat"
+    ]
+  },
+  {
+    "id": "sports_018",
+    "word": "Wrestling",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "combat"
+    ]
+  },
+  {
+    "id": "sports_019",
+    "word": "Karate",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "martial-arts"
+    ]
+  },
+  {
+    "id": "sports_020",
+    "word": "Judo",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "martial-arts"
+    ]
+  },
+  {
+    "id": "sports_021",
+    "word": "Gymnastics",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "athletics"
+    ]
+  },
+  {
+    "id": "sports_022",
+    "word": "Cycling",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "racing"
+    ]
+  },
+  {
+    "id": "sports_023",
+    "word": "Running",
+    "category": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "individual",
+      "athletics"
+    ]
+  },
+  {
+    "id": "sports_024",
+    "word": "Marathon",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "athletics"
+    ]
+  },
+  {
+    "id": "sports_025",
+    "word": "Archery",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "target"
+    ]
+  },
+  {
+    "id": "sports_026",
+    "word": "Bowling",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "target"
+    ]
+  },
+  {
+    "id": "sports_027",
+    "word": "Billiards",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "table"
+    ]
+  },
+  {
+    "id": "sports_028",
+    "word": "Table Tennis",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "table"
+    ]
+  },
+  {
+    "id": "sports_029",
+    "word": "Badminton",
+    "category": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "individual",
+      "racket"
+    ]
+  },
+  {
+    "id": "sports_030",
+    "word": "Weightlifting",
+    "category": "Sports",
+    "difficulty": "hard",
+    "tags": [
+      "individual",
+      "strength"
+    ]
+  }
+]

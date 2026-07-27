@@ -1,0 +1,302 @@
+[
+  {
+    "id": "movies_001",
+    "word": "Harry Potter",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "fantasy",
+      "popular"
+    ]
+  },
+  {
+    "id": "movies_002",
+    "word": "Star Wars",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "sci-fi",
+      "franchise"
+    ]
+  },
+  {
+    "id": "movies_003",
+    "word": "The Matrix",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "sci-fi",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_004",
+    "word": "Jurassic Park",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "sci-fi",
+      "adventure"
+    ]
+  },
+  {
+    "id": "movies_005",
+    "word": "Titanic",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "romance",
+      "drama"
+    ]
+  },
+  {
+    "id": "movies_006",
+    "word": "Spider-Man",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "superhero",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_007",
+    "word": "The Lion King",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "animation",
+      "disney"
+    ]
+  },
+  {
+    "id": "movies_008",
+    "word": "Frozen",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "animation",
+      "disney"
+    ]
+  },
+  {
+    "id": "movies_009",
+    "word": "Batman",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "superhero",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_010",
+    "word": "The Avengers",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "superhero",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_011",
+    "word": "Pirates of the Caribbean",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "adventure",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "movies_012",
+    "word": "Indiana Jones",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "adventure",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_013",
+    "word": "E.T. the Extra-Terrestrial",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "sci-fi",
+      "classic"
+    ]
+  },
+  {
+    "id": "movies_014",
+    "word": "Jaws",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "thriller",
+      "classic"
+    ]
+  },
+  {
+    "id": "movies_015",
+    "word": "Toy Story",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "animation",
+      "pixar"
+    ]
+  },
+  {
+    "id": "movies_016",
+    "word": "Finding Nemo",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "animation",
+      "pixar"
+    ]
+  },
+  {
+    "id": "movies_017",
+    "word": "Shrek",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "animation",
+      "comedy"
+    ]
+  },
+  {
+    "id": "movies_018",
+    "word": "The Terminator",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "sci-fi",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_019",
+    "word": "Rocky",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "sports",
+      "drama"
+    ]
+  },
+  {
+    "id": "movies_020",
+    "word": "Ghostbusters",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "comedy",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "movies_021",
+    "word": "Back to the Future",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "sci-fi",
+      "comedy"
+    ]
+  },
+  {
+    "id": "movies_022",
+    "word": "Avatar",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "sci-fi",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "movies_023",
+    "word": "The Lord of the Rings",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "fantasy",
+      "adventure"
+    ]
+  },
+  {
+    "id": "movies_024",
+    "word": "Forrest Gump",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "drama",
+      "classic"
+    ]
+  },
+  {
+    "id": "movies_025",
+    "word": "Inception",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "sci-fi",
+      "thriller"
+    ]
+  },
+  {
+    "id": "movies_026",
+    "word": "The Godfather",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "drama",
+      "classic"
+    ]
+  },
+  {
+    "id": "movies_027",
+    "word": "Wonder Woman",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "superhero",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_028",
+    "word": "Superman",
+    "category": "Movies",
+    "difficulty": "easy",
+    "tags": [
+      "superhero",
+      "action"
+    ]
+  },
+  {
+    "id": "movies_029",
+    "word": "James Bond",
+    "category": "Movies",
+    "difficulty": "medium",
+    "tags": [
+      "action",
+      "spy"
+    ]
+  },
+  {
+    "id": "movies_030",
+    "word": "Willy Wonka",
+    "category": "Movies",
+    "difficulty": "hard",
+    "tags": [
+      "fantasy",
+      "family"
+    ]
+  }
+]

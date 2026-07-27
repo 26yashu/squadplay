@@ -1,0 +1,542 @@
+[
+  {
+    "id": "food_001",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which fruit is traditionally used to make guacamole?",
+    "options": [
+      "Mango",
+      "Avocado",
+      "Papaya",
+      "Kiwi"
+    ],
+    "correctAnswer": "Avocado",
+    "explanation": "Guacamole is a Mexican dip primarily made from mashed avocados.",
+    "tags": [
+      "fruits",
+      "mexican"
+    ]
+  },
+  {
+    "id": "food_002",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which grain is the main ingredient in sushi?",
+    "options": [
+      "Barley",
+      "Rice",
+      "Quinoa",
+      "Millet"
+    ],
+    "correctAnswer": "Rice",
+    "explanation": "Sushi is traditionally prepared using seasoned vinegared rice.",
+    "tags": [
+      "japanese",
+      "grains"
+    ]
+  },
+  {
+    "id": "food_003",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which dairy product is commonly used as the base for butter?",
+    "options": [
+      "Cream",
+      "Yogurt",
+      "Milk Powder",
+      "Cheese"
+    ],
+    "correctAnswer": "Cream",
+    "explanation": "Butter is made by churning cream until the butterfat separates.",
+    "tags": [
+      "dairy",
+      "ingredients"
+    ]
+  },
+  {
+    "id": "food_004",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which spice gives turmeric its bright yellow color?",
+    "options": [
+      "Curcumin",
+      "Capsaicin",
+      "Piperine",
+      "Safranal"
+    ],
+    "correctAnswer": "Curcumin",
+    "explanation": "Curcumin is the natural pigment responsible for turmeric's yellow color.",
+    "tags": [
+      "spices",
+      "nutrition"
+    ]
+  },
+  {
+    "id": "food_005",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which vitamin is especially abundant in oranges?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswer": "Vitamin C",
+    "explanation": "Oranges are well known for being an excellent source of vitamin C.",
+    "tags": [
+      "nutrition",
+      "fruits"
+    ]
+  },
+  {
+    "id": "food_006",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which nut is commonly used to make marzipan?",
+    "options": [
+      "Cashew",
+      "Almond",
+      "Walnut",
+      "Pecan"
+    ],
+    "correctAnswer": "Almond",
+    "explanation": "Marzipan is traditionally made from finely ground almonds and sugar.",
+    "tags": [
+      "desserts",
+      "nuts"
+    ]
+  },
+  {
+    "id": "food_007",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What is the primary ingredient in hummus?",
+    "options": [
+      "Lentils",
+      "Chickpeas",
+      "Kidney Beans",
+      "Green Peas"
+    ],
+    "correctAnswer": "Chickpeas",
+    "explanation": "Hummus is mainly prepared from cooked chickpeas blended with tahini and seasonings.",
+    "tags": [
+      "middle-eastern",
+      "legumes"
+    ]
+  },
+  {
+    "id": "food_008",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which fruit is dried to produce raisins?",
+    "options": [
+      "Dates",
+      "Grapes",
+      "Plums",
+      "Figs"
+    ],
+    "correctAnswer": "Grapes",
+    "explanation": "Raisins are simply dried grapes.",
+    "tags": [
+      "fruits",
+      "dried-foods"
+    ]
+  },
+  {
+    "id": "food_009",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which ingredient is the main source of protein in traditional tofu?",
+    "options": [
+      "Peanuts",
+      "Soybeans",
+      "Lentils",
+      "Oats"
+    ],
+    "correctAnswer": "Soybeans",
+    "explanation": "Tofu is produced by curdling soy milk made from soybeans.",
+    "tags": [
+      "soy",
+      "protein"
+    ]
+  },
+  {
+    "id": "food_010",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which herb is the primary ingredient in classic pesto?",
+    "options": [
+      "Parsley",
+      "Basil",
+      "Mint",
+      "Cilantro"
+    ],
+    "correctAnswer": "Basil",
+    "explanation": "Traditional pesto is made using fresh basil leaves, pine nuts, cheese, garlic, and olive oil.",
+    "tags": [
+      "herbs",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_011",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which food is made by fermenting cabbage?",
+    "options": [
+      "Kimchi",
+      "Paneer",
+      "Tempeh",
+      "Miso"
+    ],
+    "correctAnswer": "Kimchi",
+    "explanation": "Kimchi is a traditional Korean dish made from fermented vegetables, commonly cabbage.",
+    "tags": [
+      "fermentation",
+      "korean"
+    ]
+  },
+  {
+    "id": "food_012",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which sweet substance is naturally produced by honey bees?",
+    "options": [
+      "Molasses",
+      "Honey",
+      "Maple Syrup",
+      "Agave Nectar"
+    ],
+    "correctAnswer": "Honey",
+    "explanation": "Honey bees produce honey by collecting and processing flower nectar.",
+    "tags": [
+      "bees",
+      "sweeteners"
+    ]
+  },
+  {
+    "id": "food_013",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which Italian cheese is traditionally used in tiramisu?",
+    "options": [
+      "Ricotta",
+      "Mascarpone",
+      "Parmesan",
+      "Mozzarella"
+    ],
+    "correctAnswer": "Mascarpone",
+    "explanation": "Mascarpone gives tiramisu its rich and creamy texture.",
+    "tags": [
+      "desserts",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_014",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which cooking method uses dry heat with hot air circulating around food?",
+    "options": [
+      "Boiling",
+      "Steaming",
+      "Roasting",
+      "Poaching"
+    ],
+    "correctAnswer": "Roasting",
+    "explanation": "Roasting cooks food using dry heat that surrounds it with hot air.",
+    "tags": [
+      "cooking",
+      "methods"
+    ]
+  },
+  {
+    "id": "food_015",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which grain is traditionally used to make risotto?",
+    "options": [
+      "Basmati",
+      "Arborio",
+      "Jasmine",
+      "Wild Rice"
+    ],
+    "correctAnswer": "Arborio",
+    "explanation": "Arborio rice has a high starch content that creates risotto's creamy consistency.",
+    "tags": [
+      "italian",
+      "rice"
+    ]
+  },
+  {
+    "id": "food_016",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which spice is obtained from the dried stigma of a flower?",
+    "options": [
+      "Cardamom",
+      "Saffron",
+      "Cinnamon",
+      "Nutmeg"
+    ],
+    "correctAnswer": "Saffron",
+    "explanation": "Saffron comes from the dried stigmas of the Crocus sativus flower.",
+    "tags": [
+      "spices",
+      "ingredients"
+    ]
+  },
+  {
+    "id": "food_017",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which country is widely recognized as the birthplace of pizza?",
+    "options": [
+      "France",
+      "Italy",
+      "Greece",
+      "Spain"
+    ],
+    "correctAnswer": "Italy",
+    "explanation": "Modern pizza originated in Naples, Italy.",
+    "tags": [
+      "italian",
+      "cuisine"
+    ]
+  },
+  {
+    "id": "food_018",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the primary ingredient used to make traditional miso paste?",
+    "options": [
+      "Soybeans",
+      "Rice",
+      "Barley",
+      "Lentils"
+    ],
+    "correctAnswer": "Soybeans",
+    "explanation": "Traditional miso is produced by fermenting soybeans with salt and koji.",
+    "tags": [
+      "japanese",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food_019",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which cooking technique quickly cooks food in a small amount of very hot oil while stirring constantly?",
+    "options": [
+      "Braising",
+      "Poaching",
+      "Stir-frying",
+      "Smoking"
+    ],
+    "correctAnswer": "Stir-frying",
+    "explanation": "Stir-frying cooks food rapidly over high heat with continuous movement.",
+    "tags": [
+      "cooking",
+      "methods"
+    ]
+  },
+  {
+    "id": "food_020",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which fruit is the main ingredient in traditional apple cider?",
+    "options": [
+      "Pear",
+      "Apple",
+      "Peach",
+      "Plum"
+    ],
+    "correctAnswer": "Apple",
+    "explanation": "Apple cider is made by pressing fresh apples to extract their juice.",
+    "tags": [
+      "beverages",
+      "fruits"
+    ]
+  },
+  {
+    "id": "food_021",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which cheese is traditionally crumbled over a Greek salad?",
+    "options": [
+      "Cheddar",
+      "Feta",
+      "Brie",
+      "Gouda"
+    ],
+    "correctAnswer": "Feta",
+    "explanation": "Feta cheese is a classic ingredient in authentic Greek salad.",
+    "tags": [
+      "cheese",
+      "greek"
+    ]
+  },
+  {
+    "id": "food_022",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which type of pasta is shaped like small rice grains?",
+    "options": [
+      "Fusilli",
+      "Orzo",
+      "Penne",
+      "Rigatoni"
+    ],
+    "correctAnswer": "Orzo",
+    "explanation": "Orzo is a small pasta that resembles grains of rice.",
+    "tags": [
+      "pasta",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_023",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which nut is commonly used to make praline?",
+    "options": [
+      "Hazelnut",
+      "Pecan",
+      "Almond",
+      "Peanut"
+    ],
+    "correctAnswer": "Pecan",
+    "explanation": "Many traditional American pralines are made with pecans, sugar, and butter.",
+    "tags": [
+      "desserts",
+      "nuts"
+    ]
+  },
+  {
+    "id": "food_024",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which beverage is produced by roasting and brewing coffee beans?",
+    "options": [
+      "Tea",
+      "Coffee",
+      "Cocoa",
+      "Cider"
+    ],
+    "correctAnswer": "Coffee",
+    "explanation": "Coffee is brewed from roasted and ground coffee beans.",
+    "tags": [
+      "beverages",
+      "coffee"
+    ]
+  },
+  {
+    "id": "food_025",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Which French cooking term refers to vegetables cut into thin matchstick-sized strips?",
+    "options": [
+      "Julienne",
+      "Brunoise",
+      "Chiffonade",
+      "Paysanne"
+    ],
+    "correctAnswer": "Julienne",
+    "explanation": "Julienne is a knife cut that creates thin, uniform matchstick-shaped pieces.",
+    "tags": [
+      "cooking",
+      "knife-skills"
+    ]
+  },
+  {
+    "id": "food_026",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Parmigiano Reggiano cheese is traditionally produced in which country?",
+    "options": [
+      "France",
+      "Italy",
+      "Switzerland",
+      "Spain"
+    ],
+    "correctAnswer": "Italy",
+    "explanation": "Parmigiano Reggiano is a protected cheese produced in specific regions of Italy.",
+    "tags": [
+      "cheese",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_027",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Which grain is traditionally used to prepare the North African dish couscous?",
+    "options": [
+      "Millet",
+      "Semolina",
+      "Barley",
+      "Oats"
+    ],
+    "correctAnswer": "Semolina",
+    "explanation": "Traditional couscous is made from steamed granules of semolina wheat.",
+    "tags": [
+      "grains",
+      "african"
+    ]
+  },
+  {
+    "id": "food_028",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Which emulsifying ingredient is commonly used to stabilize homemade mayonnaise?",
+    "options": [
+      "Egg Yolk",
+      "Butter",
+      "Cream",
+      "Milk"
+    ],
+    "correctAnswer": "Egg Yolk",
+    "explanation": "Egg yolk contains lecithin, a natural emulsifier that binds oil and water.",
+    "tags": [
+      "cooking",
+      "science"
+    ]
+  },
+  {
+    "id": "food_029",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Which Japanese seasoning is made by fermenting soybeans, wheat, salt, and koji?",
+    "options": [
+      "Mirin",
+      "Soy Sauce",
+      "Rice Vinegar",
+      "Ponzu"
+    ],
+    "correctAnswer": "Soy Sauce",
+    "explanation": "Traditional soy sauce is brewed through the fermentation of soybeans and wheat.",
+    "tags": [
+      "japanese",
+      "condiments"
+    ]
+  },
+  {
+    "id": "food_030",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Which cooking method seals food in an airtight bag before cooking it in precisely controlled water?",
+    "options": [
+      "Grilling",
+      "Sous Vide",
+      "Broiling",
+      "Deep Frying"
+    ],
+    "correctAnswer": "Sous Vide",
+    "explanation": "Sous vide uses vacuum-sealed bags and temperature-controlled water for precise cooking.",
+    "tags": [
+      "cooking",
+      "techniques"
+    ]
+  }
+]

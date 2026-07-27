@@ -1,0 +1,302 @@
+[
+  {
+    "id": "challenge_001",
+    "title": "Sing a Song",
+    "description": "Sing your favorite song for 20 seconds.",
+    "difficulty": "easy",
+    "tags": [
+      "party",
+      "music"
+    ]
+  },
+  {
+    "id": "challenge_002",
+    "title": "Dance Off",
+    "description": "Do your best dance move for the group.",
+    "difficulty": "easy",
+    "tags": [
+      "party",
+      "dance"
+    ]
+  },
+  {
+    "id": "challenge_003",
+    "title": "Tell a Joke",
+    "description": "Tell a joke. If nobody laughs, spin again.",
+    "difficulty": "medium",
+    "tags": [
+      "fun",
+      "acting"
+    ]
+  },
+  {
+    "id": "challenge_004",
+    "title": "Act Like a Cat",
+    "description": "Crawl on the floor and meow for 15 seconds.",
+    "difficulty": "medium",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "challenge_005",
+    "title": "Staring Contest",
+    "description": "Have a staring contest with the person to your left.",
+    "difficulty": "easy",
+    "tags": [
+      "challenge",
+      "interactive"
+    ]
+  },
+  {
+    "id": "challenge_006",
+    "title": "Rap Battle",
+    "description": "Make up a 10-second rap about the person across from you.",
+    "difficulty": "hard",
+    "tags": [
+      "music",
+      "creative"
+    ]
+  },
+  {
+    "id": "challenge_007",
+    "title": "Yoga Pose",
+    "description": "Hold a yoga tree pose for 30 seconds without falling.",
+    "difficulty": "medium",
+    "tags": [
+      "physical",
+      "balance"
+    ]
+  },
+  {
+    "id": "challenge_008",
+    "title": "Beatbox",
+    "description": "Give us your best 10-second beatbox performance.",
+    "difficulty": "hard",
+    "tags": [
+      "music",
+      "fun"
+    ]
+  },
+  {
+    "id": "challenge_009",
+    "title": "Alphabet Backwards",
+    "description": "Recite the alphabet backward as fast as you can.",
+    "difficulty": "hard",
+    "tags": [
+      "brain",
+      "challenge"
+    ]
+  },
+  {
+    "id": "challenge_010",
+    "title": "Impersonation",
+    "description": "Impersonate a famous celebrity until someone guesses them.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "fun"
+    ]
+  },
+  {
+    "id": "challenge_011",
+    "title": "Thumb Wrestling",
+    "description": "Win a thumb war against the player of your choice.",
+    "difficulty": "medium",
+    "tags": [
+      "interactive",
+      "physical"
+    ]
+  },
+  {
+    "id": "challenge_012",
+    "title": "Hold Your Breath",
+    "description": "Hold your breath for 20 seconds.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "challenge"
+    ]
+  },
+  {
+    "id": "challenge_013",
+    "title": "Spelling Bee",
+    "description": "Spell a difficult word chosen by the group.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "challenge"
+    ]
+  },
+  {
+    "id": "challenge_014",
+    "title": "Juggling Act",
+    "description": "Try to juggle 3 small items for 5 seconds.",
+    "difficulty": "hard",
+    "tags": [
+      "physical",
+      "skill"
+    ]
+  },
+  {
+    "id": "challenge_015",
+    "title": "No Blinking",
+    "description": "Keep your eyes completely open for 30 seconds.",
+    "difficulty": "medium",
+    "tags": [
+      "challenge",
+      "fun"
+    ]
+  },
+  {
+    "id": "challenge_016",
+    "title": "Foreign Language",
+    "description": "Speak only in a fake made-up language for one minute.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "funny"
+    ]
+  },
+  {
+    "id": "challenge_017",
+    "title": "Animal Noises",
+    "description": "Make 5 different animal noises in a row.",
+    "difficulty": "easy",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "challenge_018",
+    "title": "Arm Wrestling",
+    "description": "Arm wrestle the person on your right.",
+    "difficulty": "hard",
+    "tags": [
+      "physical",
+      "interactive"
+    ]
+  },
+  {
+    "id": "challenge_019",
+    "title": "Poetry Reading",
+    "description": "Recite a poem dramatically. You can make it up.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "creative"
+    ]
+  },
+  {
+    "id": "challenge_020",
+    "title": "Human Pretzel",
+    "description": "Cross your arms and legs and hop 5 times.",
+    "difficulty": "easy",
+    "tags": [
+      "physical",
+      "silly"
+    ]
+  },
+  {
+    "id": "challenge_021",
+    "title": "Storyteller",
+    "description": "Start a story with one sentence and go around the circle.",
+    "difficulty": "easy",
+    "tags": [
+      "interactive",
+      "creative"
+    ]
+  },
+  {
+    "id": "challenge_022",
+    "title": "Movie Quotes",
+    "description": "Recite a famous movie quote using a funny accent.",
+    "difficulty": "medium",
+    "tags": [
+      "acting",
+      "fun"
+    ]
+  },
+  {
+    "id": "challenge_023",
+    "title": "Name 5",
+    "description": "Name 5 countries in exactly 5 seconds.",
+    "difficulty": "medium",
+    "tags": [
+      "brain",
+      "quick"
+    ]
+  },
+  {
+    "id": "challenge_024",
+    "title": "Statue",
+    "description": "Freeze completely like a statue for 30 seconds.",
+    "difficulty": "easy",
+    "tags": [
+      "challenge",
+      "physical"
+    ]
+  },
+  {
+    "id": "challenge_025",
+    "title": "Pantomime",
+    "description": "Pantomime making a sandwich without using words.",
+    "difficulty": "easy",
+    "tags": [
+      "acting",
+      "fun"
+    ]
+  },
+  {
+    "id": "challenge_026",
+    "title": "The Floor is Lava",
+    "description": "Keep your feet off the floor for the next minute.",
+    "difficulty": "medium",
+    "tags": [
+      "physical",
+      "party"
+    ]
+  },
+  {
+    "id": "challenge_027",
+    "title": "Quick Math",
+    "description": "Answer a math question provided by the group.",
+    "difficulty": "hard",
+    "tags": [
+      "brain",
+      "challenge"
+    ]
+  },
+  {
+    "id": "challenge_028",
+    "title": "Secret Handshake",
+    "description": "Invent a complex handshake with the person to your left.",
+    "difficulty": "medium",
+    "tags": [
+      "interactive",
+      "creative"
+    ]
+  },
+  {
+    "id": "challenge_029",
+    "title": "Compliment Time",
+    "description": "Give a genuine compliment to every player in the room.",
+    "difficulty": "easy",
+    "tags": [
+      "social",
+      "friendly"
+    ]
+  },
+  {
+    "id": "challenge_030",
+    "title": "Sell Me This Pen",
+    "description": "Try to sell a random object to the group in 30 seconds.",
+    "difficulty": "hard",
+    "tags": [
+      "acting",
+      "creative"
+    ]
+  }
+]

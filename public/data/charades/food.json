@@ -1,0 +1,302 @@
+[
+  {
+    "id": "food_001",
+    "word": "Pizza",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "meals",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_002",
+    "word": "Hamburger",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "meals",
+      "fast-food"
+    ]
+  },
+  {
+    "id": "food_003",
+    "word": "Hot Dog",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "meals",
+      "fast-food"
+    ]
+  },
+  {
+    "id": "food_004",
+    "word": "Spaghetti",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "meals",
+      "italian"
+    ]
+  },
+  {
+    "id": "food_005",
+    "word": "Taco",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "meals",
+      "mexican"
+    ]
+  },
+  {
+    "id": "food_006",
+    "word": "Sushi",
+    "category": "Food",
+    "difficulty": "hard",
+    "tags": [
+      "meals",
+      "japanese"
+    ]
+  },
+  {
+    "id": "food_007",
+    "word": "Salad",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "meals",
+      "healthy"
+    ]
+  },
+  {
+    "id": "food_008",
+    "word": "Soup",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "meals",
+      "hot"
+    ]
+  },
+  {
+    "id": "food_009",
+    "word": "Sandwich",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "meals",
+      "lunch"
+    ]
+  },
+  {
+    "id": "food_010",
+    "word": "Ice Cream",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "desserts",
+      "cold"
+    ]
+  },
+  {
+    "id": "food_011",
+    "word": "Cake",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "desserts",
+      "baked"
+    ]
+  },
+  {
+    "id": "food_012",
+    "word": "Cookie",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "desserts",
+      "baked"
+    ]
+  },
+  {
+    "id": "food_013",
+    "word": "Chocolate",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "desserts",
+      "sweet"
+    ]
+  },
+  {
+    "id": "food_014",
+    "word": "Donut",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "desserts",
+      "sweet"
+    ]
+  },
+  {
+    "id": "food_015",
+    "word": "Pancake",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "meals",
+      "breakfast"
+    ]
+  },
+  {
+    "id": "food_016",
+    "word": "Waffle",
+    "category": "Food",
+    "difficulty": "hard",
+    "tags": [
+      "meals",
+      "breakfast"
+    ]
+  },
+  {
+    "id": "food_017",
+    "word": "Coffee",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "drinks",
+      "hot"
+    ]
+  },
+  {
+    "id": "food_018",
+    "word": "Tea",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "drinks",
+      "hot"
+    ]
+  },
+  {
+    "id": "food_019",
+    "word": "Milk",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "drinks",
+      "cold"
+    ]
+  },
+  {
+    "id": "food_020",
+    "word": "Juice",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "drinks",
+      "cold"
+    ]
+  },
+  {
+    "id": "food_021",
+    "word": "Apple",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "fruits",
+      "healthy"
+    ]
+  },
+  {
+    "id": "food_022",
+    "word": "Banana",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "fruits",
+      "healthy"
+    ]
+  },
+  {
+    "id": "food_023",
+    "word": "Orange",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "fruits",
+      "healthy"
+    ]
+  },
+  {
+    "id": "food_024",
+    "word": "Grapes",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "fruits",
+      "healthy"
+    ]
+  },
+  {
+    "id": "food_025",
+    "word": "Watermelon",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "fruits",
+      "summer"
+    ]
+  },
+  {
+    "id": "food_026",
+    "word": "Strawberry",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "fruits",
+      "berry"
+    ]
+  },
+  {
+    "id": "food_027",
+    "word": "Pineapple",
+    "category": "Food",
+    "difficulty": "hard",
+    "tags": [
+      "fruits",
+      "tropical"
+    ]
+  },
+  {
+    "id": "food_028",
+    "word": "Cheese",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "dairy",
+      "snack"
+    ]
+  },
+  {
+    "id": "food_029",
+    "word": "Popcorn",
+    "category": "Food",
+    "difficulty": "medium",
+    "tags": [
+      "snack",
+      "movies"
+    ]
+  },
+  {
+    "id": "food_030",
+    "word": "French Fries",
+    "category": "Food",
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "fast-food"
+    ]
+  }
+]

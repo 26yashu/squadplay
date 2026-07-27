@@ -1,0 +1,352 @@
+[
+  {
+    "id": "classicTruth-1",
+    "type": "truth",
+    "text": "What is your biggest fear?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-2",
+    "type": "truth",
+    "text": "What is your biggest secret?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-3",
+    "type": "truth",
+    "text": "Who is your crush?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-4",
+    "type": "truth",
+    "text": "What is your most embarrassing moment?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-5",
+    "type": "truth",
+    "text": "What is your biggest regret?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-6",
+    "type": "truth",
+    "text": "What is your proudest moment?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-7",
+    "type": "truth",
+    "text": "What is your dream job?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-8",
+    "type": "truth",
+    "text": "What is your favorite movie?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-9",
+    "type": "truth",
+    "text": "What is your favorite song?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-10",
+    "type": "truth",
+    "text": "What is your favorite book?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-11",
+    "type": "truth",
+    "text": "What is your favorite food?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-12",
+    "type": "truth",
+    "text": "What is your favorite drink?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-13",
+    "type": "truth",
+    "text": "What is your favorite color?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-14",
+    "type": "truth",
+    "text": "What is your favorite animal?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-15",
+    "type": "truth",
+    "text": "What is your favorite place?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-16",
+    "type": "truth",
+    "text": "What is your favorite memory?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-17",
+    "type": "truth",
+    "text": "What is your favorite thing to do?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-18",
+    "type": "truth",
+    "text": "What is your favorite holiday?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-19",
+    "type": "truth",
+    "text": "What is your favorite season?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-20",
+    "type": "truth",
+    "text": "What is your favorite weather?",
+    "category": "classicTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicTruth-21",
+    "type": "truth",
+    "text": "What is your favorite sport?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-22",
+    "type": "truth",
+    "text": "What is your favorite hobby?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-23",
+    "type": "truth",
+    "text": "What is your favorite subject?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-24",
+    "type": "truth",
+    "text": "What is your favorite teacher?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-25",
+    "type": "truth",
+    "text": "What is your favorite class?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-26",
+    "type": "truth",
+    "text": "What is your favorite school?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-27",
+    "type": "truth",
+    "text": "What is your favorite friend?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-28",
+    "type": "truth",
+    "text": "What is your favorite family member?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-29",
+    "type": "truth",
+    "text": "What is your favorite pet?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-30",
+    "type": "truth",
+    "text": "What is your favorite toy?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-31",
+    "type": "truth",
+    "text": "What is your favorite game?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-32",
+    "type": "truth",
+    "text": "What is your favorite app?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-33",
+    "type": "truth",
+    "text": "What is your favorite website?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-34",
+    "type": "truth",
+    "text": "What is your favorite store?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-35",
+    "type": "truth",
+    "text": "What is your favorite restaurant?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-36",
+    "type": "truth",
+    "text": "What is your favorite brand?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-37",
+    "type": "truth",
+    "text": "What is your favorite actor?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-38",
+    "type": "truth",
+    "text": "What is your favorite singer?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-39",
+    "type": "truth",
+    "text": "What is your favorite band?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-40",
+    "type": "truth",
+    "text": "What is your favorite song?",
+    "category": "classicTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicTruth-41",
+    "type": "truth",
+    "text": "What is your favorite album?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-42",
+    "type": "truth",
+    "text": "What is your favorite genre?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-43",
+    "type": "truth",
+    "text": "What is your favorite instrument?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-44",
+    "type": "truth",
+    "text": "What is your favorite concert?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-45",
+    "type": "truth",
+    "text": "What is your favorite festival?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-46",
+    "type": "truth",
+    "text": "What is your favorite event?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-47",
+    "type": "truth",
+    "text": "What is your favorite party?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-48",
+    "type": "truth",
+    "text": "What is your favorite memory?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-49",
+    "type": "truth",
+    "text": "What is your favorite dream?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicTruth-50",
+    "type": "truth",
+    "text": "What is your favorite nightmare?",
+    "category": "classicTruth",
+    "difficulty": "hard"
+  }
+]

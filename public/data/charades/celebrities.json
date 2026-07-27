@@ -1,0 +1,302 @@
+[
+  {
+    "id": "celebrities_001",
+    "word": "Michael Jackson",
+    "category": "Celebrities",
+    "difficulty": "easy",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_002",
+    "word": "Elvis Presley",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_003",
+    "word": "Madonna",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_004",
+    "word": "Beyonce",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_005",
+    "word": "Taylor Swift",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_006",
+    "word": "Justin Bieber",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_007",
+    "word": "Adele",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "singers",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_008",
+    "word": "Leonardo DiCaprio",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "movies"
+    ]
+  },
+  {
+    "id": "celebrities_009",
+    "word": "Tom Cruise",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "movies"
+    ]
+  },
+  {
+    "id": "celebrities_010",
+    "word": "Brad Pitt",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "actors",
+      "movies"
+    ]
+  },
+  {
+    "id": "celebrities_011",
+    "word": "Johnny Depp",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "movies"
+    ]
+  },
+  {
+    "id": "celebrities_012",
+    "word": "Will Smith",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "movies"
+    ]
+  },
+  {
+    "id": "celebrities_013",
+    "word": "Dwayne 'The Rock' Johnson",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_014",
+    "word": "Marilyn Monroe",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "actors",
+      "historical"
+    ]
+  },
+  {
+    "id": "celebrities_015",
+    "word": "Charlie Chaplin",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "actors",
+      "historical"
+    ]
+  },
+  {
+    "id": "celebrities_016",
+    "word": "Oprah Winfrey",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "tv",
+      "celebrity"
+    ]
+  },
+  {
+    "id": "celebrities_017",
+    "word": "Albert Einstein",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "historical",
+      "science"
+    ]
+  },
+  {
+    "id": "celebrities_018",
+    "word": "Abraham Lincoln",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "historical",
+      "politics"
+    ]
+  },
+  {
+    "id": "celebrities_019",
+    "word": "Cristiano Ronaldo",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_020",
+    "word": "Lionel Messi",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_021",
+    "word": "Michael Jordan",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_022",
+    "word": "LeBron James",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_023",
+    "word": "Serena Williams",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_024",
+    "word": "Usain Bolt",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "athletes",
+      "sports"
+    ]
+  },
+  {
+    "id": "celebrities_025",
+    "word": "Muhammad Ali",
+    "category": "Celebrities",
+    "difficulty": "medium",
+    "tags": [
+      "athletes",
+      "historical"
+    ]
+  },
+  {
+    "id": "celebrities_026",
+    "word": "Gordon Ramsay",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "tv",
+      "food"
+    ]
+  },
+  {
+    "id": "celebrities_027",
+    "word": "Simon Cowell",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "tv",
+      "music"
+    ]
+  },
+  {
+    "id": "celebrities_028",
+    "word": "MrBeast",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "internet",
+      "celebrity"
+    ]
+  },
+  {
+    "id": "celebrities_029",
+    "word": "Elon Musk",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "business",
+      "celebrity"
+    ]
+  },
+  {
+    "id": "celebrities_030",
+    "word": "Bill Gates",
+    "category": "Celebrities",
+    "difficulty": "hard",
+    "tags": [
+      "business",
+      "celebrity"
+    ]
+  }
+]

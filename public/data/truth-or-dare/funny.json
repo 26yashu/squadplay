@@ -1,0 +1,332 @@
+[
+  {
+    "id": "funny_truth_001",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "What is the silliest reason you've ever cried?",
+    "tags": [
+      "funny",
+      "personal"
+    ]
+  },
+  {
+    "id": "funny_truth_002",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "What is the weirdest thing you've ever googled?",
+    "tags": [
+      "funny",
+      "secrets"
+    ]
+  },
+  {
+    "id": "funny_truth_003",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "If animals could talk, which species would be the rudest?",
+    "tags": [
+      "funny",
+      "conversation"
+    ]
+  },
+  {
+    "id": "funny_truth_004",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "hard",
+    "prompt": "What is the most awkward text you have ever accidentally sent?",
+    "tags": [
+      "funny",
+      "secrets"
+    ]
+  },
+  {
+    "id": "funny_truth_005",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Have you ever tripped and fallen in public and tried to play it off?",
+    "tags": [
+      "funny",
+      "embarrassing"
+    ]
+  },
+  {
+    "id": "funny_truth_006",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "What is the worst outfit you ever thought looked cool?",
+    "tags": [
+      "funny",
+      "fashion"
+    ]
+  },
+  {
+    "id": "funny_truth_007",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "If you had to smell like one food for the rest of your life, what would it be?",
+    "tags": [
+      "funny",
+      "icebreaker"
+    ]
+  },
+  {
+    "id": "funny_truth_008",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "What is the most ridiculous lie you ever believed as a child?",
+    "tags": [
+      "funny",
+      "memory"
+    ]
+  },
+  {
+    "id": "funny_truth_009",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Have you ever laughed at something entirely inappropriate?",
+    "tags": [
+      "funny",
+      "secrets"
+    ]
+  },
+  {
+    "id": "funny_truth_010",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "What is the worst nickname you've ever been given?",
+    "tags": [
+      "funny",
+      "friends"
+    ]
+  },
+  {
+    "id": "funny_truth_011",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "If you were a ghost, how would you haunt people?",
+    "tags": [
+      "funny",
+      "creative"
+    ]
+  },
+  {
+    "id": "funny_truth_012",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "What is the most useless talent you possess?",
+    "tags": [
+      "funny",
+      "personal"
+    ]
+  },
+  {
+    "id": "funny_truth_013",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Have you ever snorted while laughing at a completely quiet moment?",
+    "tags": [
+      "funny",
+      "embarrassing"
+    ]
+  },
+  {
+    "id": "funny_truth_014",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "What is a food combination you enjoy that everyone else finds disgusting?",
+    "tags": [
+      "funny",
+      "food"
+    ]
+  },
+  {
+    "id": "funny_truth_015",
+    "type": "truth",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "What is your most epic fail in the kitchen?",
+    "tags": [
+      "funny",
+      "story"
+    ]
+  },
+  {
+    "id": "funny_dare_001",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Try to lick your own elbow.",
+    "tags": [
+      "funny",
+      "physical"
+    ]
+  },
+  {
+    "id": "funny_dare_002",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Pretend you are a T-Rex chasing its prey for 30 seconds.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "funny_dare_003",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "hard",
+    "prompt": "Talk without closing your mouth until your next turn.",
+    "tags": [
+      "funny",
+      "challenge"
+    ]
+  },
+  {
+    "id": "funny_dare_004",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Give a dramatic reading of a random text message on your phone.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "funny_dare_005",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Do your best evil villain laugh.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "funny_dare_006",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Try to balance a spoon on your nose for 10 seconds.",
+    "tags": [
+      "funny",
+      "challenge"
+    ]
+  },
+  {
+    "id": "funny_dare_007",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Act like a monkey until someone gives you a high five.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "funny_dare_008",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "hard",
+    "prompt": "Let another player style your hair however they want.",
+    "tags": [
+      "funny",
+      "trust"
+    ]
+  },
+  {
+    "id": "funny_dare_009",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Sing everything you say until your next turn.",
+    "tags": [
+      "funny",
+      "music"
+    ]
+  },
+  {
+    "id": "funny_dare_010",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Pretend you are an alien observing human behavior for the first time.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  },
+  {
+    "id": "funny_dare_011",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Do a runway walk across the room.",
+    "tags": [
+      "funny",
+      "party"
+    ]
+  },
+  {
+    "id": "funny_dare_012",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "hard",
+    "prompt": "Attempt to breakdance for 20 seconds.",
+    "tags": [
+      "funny",
+      "physical"
+    ]
+  },
+  {
+    "id": "funny_dare_013",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "hard",
+    "prompt": "Speak strictly in rhymes for the next three rounds.",
+    "tags": [
+      "funny",
+      "challenge"
+    ]
+  },
+  {
+    "id": "funny_dare_014",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "easy",
+    "prompt": "Yell out the first random word that comes to mind.",
+    "tags": [
+      "funny",
+      "icebreaker"
+    ]
+  },
+  {
+    "id": "funny_dare_015",
+    "type": "dare",
+    "category": "Funny",
+    "difficulty": "medium",
+    "prompt": "Pretend you are underwater and move in slow motion for one minute.",
+    "tags": [
+      "funny",
+      "acting"
+    ]
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "funnyTruth-1",
+    "type": "truth",
+    "text": "Have you ever picked your nose and eaten it?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-2",
+    "type": "truth",
+    "text": "Have you ever peed in the pool?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-3",
+    "type": "truth",
+    "text": "Have you ever farted in public and blamed it on someone else?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-4",
+    "type": "truth",
+    "text": "Have you ever laughed so hard you peed your pants?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-5",
+    "type": "truth",
+    "text": "Have you ever tripped and fallen in public?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-6",
+    "type": "truth",
+    "text": "Have you ever walked into a glass door?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-7",
+    "type": "truth",
+    "text": "Have you ever forgotten someone's name right after meeting them?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-8",
+    "type": "truth",
+    "text": "Have you ever accidentally sent a text to the wrong person?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-9",
+    "type": "truth",
+    "text": "Have you ever worn your underwear inside out?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-10",
+    "type": "truth",
+    "text": "Have you ever gone a week without showering?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-11",
+    "type": "truth",
+    "text": "Have you ever lied about your age?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-12",
+    "type": "truth",
+    "text": "Have you ever cheated on a test?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-13",
+    "type": "truth",
+    "text": "Have you ever stolen something?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-14",
+    "type": "truth",
+    "text": "Have you ever broken the law?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-15",
+    "type": "truth",
+    "text": "Have you ever been arrested?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-16",
+    "type": "truth",
+    "text": "Have you ever been in a fight?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-17",
+    "type": "truth",
+    "text": "Have you ever been suspended from school?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-18",
+    "type": "truth",
+    "text": "Have you ever been fired from a job?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-19",
+    "type": "truth",
+    "text": "Have you ever been dumped?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-20",
+    "type": "truth",
+    "text": "Have you ever dumped someone?",
+    "category": "funnyTruth",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyTruth-21",
+    "type": "truth",
+    "text": "Have you ever been cheated on?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-22",
+    "type": "truth",
+    "text": "Have you ever cheated on someone?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-23",
+    "type": "truth",
+    "text": "Have you ever had a crush on a teacher?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-24",
+    "type": "truth",
+    "text": "Have you ever had a crush on a friend's sibling?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-25",
+    "type": "truth",
+    "text": "Have you ever had a crush on a sibling's friend?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-26",
+    "type": "truth",
+    "text": "Have you ever had a crush on a boss?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-27",
+    "type": "truth",
+    "text": "Have you ever had a crush on a co-worker?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-28",
+    "type": "truth",
+    "text": "Have you ever had a crush on a stranger?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-29",
+    "type": "truth",
+    "text": "Have you ever had a crush on a celebrity?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-30",
+    "type": "truth",
+    "text": "Have you ever had a crush on a fictional character?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-31",
+    "type": "truth",
+    "text": "Have you ever had a crush on an animal?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-32",
+    "type": "truth",
+    "text": "Have you ever had a crush on an object?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-33",
+    "type": "truth",
+    "text": "Have you ever had a crush on a concept?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-34",
+    "type": "truth",
+    "text": "Have you ever had a crush on an idea?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-35",
+    "type": "truth",
+    "text": "Have you ever had a crush on a feeling?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-36",
+    "type": "truth",
+    "text": "Have you ever had a crush on a thought?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-37",
+    "type": "truth",
+    "text": "Have you ever had a crush on a memory?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-38",
+    "type": "truth",
+    "text": "Have you ever had a crush on a dream?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-39",
+    "type": "truth",
+    "text": "Have you ever had a crush on a nightmare?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-40",
+    "type": "truth",
+    "text": "Have you ever had a crush on a hallucination?",
+    "category": "funnyTruth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyTruth-41",
+    "type": "truth",
+    "text": "Have you ever had a crush on a delusion?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-42",
+    "type": "truth",
+    "text": "Have you ever had a crush on a fantasy?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-43",
+    "type": "truth",
+    "text": "Have you ever had a crush on an illusion?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-44",
+    "type": "truth",
+    "text": "Have you ever had a crush on a mirage?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-45",
+    "type": "truth",
+    "text": "Have you ever had a crush on a phantom?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-46",
+    "type": "truth",
+    "text": "Have you ever had a crush on a ghost?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-47",
+    "type": "truth",
+    "text": "Have you ever had a crush on a spirit?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-48",
+    "type": "truth",
+    "text": "Have you ever had a crush on a demon?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-49",
+    "type": "truth",
+    "text": "Have you ever had a crush on an angel?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyTruth-50",
+    "type": "truth",
+    "text": "Have you ever had a crush on a god?",
+    "category": "funnyTruth",
+    "difficulty": "hard"
+  }
+]

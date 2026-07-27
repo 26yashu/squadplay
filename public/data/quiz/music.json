@@ -1,0 +1,542 @@
+[
+  {
+    "id": "music_001",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which instrument has 88 keys on a standard keyboard?",
+    "options": [
+      "Organ",
+      "Piano",
+      "Accordion",
+      "Harpsichord"
+    ],
+    "correctAnswer": "Piano",
+    "explanation": "A standard piano keyboard consists of 88 black and white keys.",
+    "tags": [
+      "instruments",
+      "keyboard"
+    ]
+  },
+  {
+    "id": "music_002",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "How many strings does a standard guitar typically have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "The standard acoustic and electric guitar is built with six strings.",
+    "tags": [
+      "guitar",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_003",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which symbol raises a musical note by one semitone?",
+    "options": [
+      "Flat",
+      "Natural",
+      "Sharp",
+      "Rest"
+    ],
+    "correctAnswer": "Sharp",
+    "explanation": "A sharp symbol increases the pitch of a note by one semitone.",
+    "tags": [
+      "notation",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_004",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which family of instruments includes the violin, viola, cello, and double bass?",
+    "options": [
+      "Brass",
+      "Percussion",
+      "Strings",
+      "Woodwinds"
+    ],
+    "correctAnswer": "Strings",
+    "explanation": "These instruments produce sound from vibrating strings.",
+    "tags": [
+      "instruments",
+      "orchestra"
+    ]
+  },
+  {
+    "id": "music_005",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which clef is most commonly used for higher-pitched instruments and voices?",
+    "options": [
+      "Bass Clef",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
+    ],
+    "correctAnswer": "Treble Clef",
+    "explanation": "The treble clef is the most common clef for higher musical ranges.",
+    "tags": [
+      "notation",
+      "clefs"
+    ]
+  },
+  {
+    "id": "music_006",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which instrument is commonly known as the 'king of instruments'?",
+    "options": [
+      "Piano",
+      "Pipe Organ",
+      "Trumpet",
+      "Violin"
+    ],
+    "correctAnswer": "Pipe Organ",
+    "explanation": "The pipe organ earned this nickname because of its size and wide range of sounds.",
+    "tags": [
+      "organ",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_007",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which musical term indicates that a passage should be played loudly?",
+    "options": [
+      "Piano",
+      "Forte",
+      "Legato",
+      "Adagio"
+    ],
+    "correctAnswer": "Forte",
+    "explanation": "Forte is the standard musical marking for loud dynamics.",
+    "tags": [
+      "dynamics",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_008",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which instrument is played using drumsticks?",
+    "options": [
+      "Flute",
+      "Clarinet",
+      "Drum Set",
+      "Violin"
+    ],
+    "correctAnswer": "Drum Set",
+    "explanation": "A drum set is typically played with sticks, brushes, or mallets.",
+    "tags": [
+      "percussion",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_009",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "What is the term for the speed of a piece of music?",
+    "options": [
+      "Pitch",
+      "Tempo",
+      "Harmony",
+      "Rhythm"
+    ],
+    "correctAnswer": "Tempo",
+    "explanation": "Tempo describes how fast or slow a musical piece is performed.",
+    "tags": [
+      "tempo",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_010",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which instrument is associated with 88 pedals?",
+    "options": [
+      "Harp",
+      "Pipe Organ",
+      "Accordion",
+      "Piano"
+    ],
+    "correctAnswer": "Harp",
+    "explanation": "A concert harp typically has seven pedals that alter the pitch of all strings in each note class.",
+    "tags": [
+      "harp",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_011",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which vocal range is generally the highest among adult male singers?",
+    "options": [
+      "Bass",
+      "Baritone",
+      "Tenor",
+      "Alto"
+    ],
+    "correctAnswer": "Tenor",
+    "explanation": "Tenor is the highest common adult male vocal range.",
+    "tags": [
+      "vocals",
+      "voice"
+    ]
+  },
+  {
+    "id": "music_012",
+    "category": "Music",
+    "difficulty": "easy",
+    "question": "Which note value equals two half notes?",
+    "options": [
+      "Whole Note",
+      "Quarter Note",
+      "Eighth Note",
+      "Sixteenth Note"
+    ],
+    "correctAnswer": "Whole Note",
+    "explanation": "A whole note has the same duration as two half notes in standard notation.",
+    "tags": [
+      "notation",
+      "rhythm"
+    ]
+  },
+  {
+    "id": "music_013",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which composer wrote the famous 'Moonlight Sonata'?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "explanation": "Beethoven composed the Piano Sonata No. 14, popularly known as the 'Moonlight Sonata.'",
+    "tags": [
+      "classical",
+      "composers"
+    ]
+  },
+  {
+    "id": "music_014",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which instrument uses a reed to produce sound?",
+    "options": [
+      "Trumpet",
+      "Clarinet",
+      "Violin",
+      "Trombone"
+    ],
+    "correctAnswer": "Clarinet",
+    "explanation": "The clarinet produces sound using a single reed attached to its mouthpiece.",
+    "tags": [
+      "woodwinds",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_015",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "What is the name of a group of three notes played together?",
+    "options": [
+      "Scale",
+      "Chord",
+      "Octave",
+      "Interval"
+    ],
+    "correctAnswer": "Chord",
+    "explanation": "A chord consists of multiple notes played simultaneously, typically three or more.",
+    "tags": [
+      "harmony",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_016",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which Italian musical term indicates a piece should be played very fast?",
+    "options": [
+      "Largo",
+      "Andante",
+      "Presto",
+      "Moderato"
+    ],
+    "correctAnswer": "Presto",
+    "explanation": "Presto is a tempo marking that instructs musicians to play at a very fast speed.",
+    "tags": [
+      "tempo",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_017",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which instrument is typically responsible for the lowest-pitched string section in an orchestra?",
+    "options": [
+      "Viola",
+      "Violin",
+      "Cello",
+      "Double Bass"
+    ],
+    "correctAnswer": "Double Bass",
+    "explanation": "The double bass provides the deepest tones in the orchestral string family.",
+    "tags": [
+      "orchestra",
+      "strings"
+    ]
+  },
+  {
+    "id": "music_018",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "What is the interval between two notes with the same name but different pitches?",
+    "options": [
+      "Fifth",
+      "Third",
+      "Octave",
+      "Second"
+    ],
+    "correctAnswer": "Octave",
+    "explanation": "An octave spans eight note names and doubles or halves the frequency of a pitch.",
+    "tags": [
+      "intervals",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_019",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which family of instruments includes the oboe and bassoon?",
+    "options": [
+      "Brass",
+      "Woodwinds",
+      "Strings",
+      "Percussion"
+    ],
+    "correctAnswer": "Woodwinds",
+    "explanation": "Both the oboe and bassoon are double-reed woodwind instruments.",
+    "tags": [
+      "woodwinds",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_020",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "What does the musical marking 'crescendo' instruct performers to do?",
+    "options": [
+      "Slow down",
+      "Repeat the section",
+      "Gradually get louder",
+      "Play more softly"
+    ],
+    "correctAnswer": "Gradually get louder",
+    "explanation": "A crescendo indicates a gradual increase in volume.",
+    "tags": [
+      "dynamics",
+      "notation"
+    ]
+  },
+  {
+    "id": "music_021",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which famous composer became profoundly deaf later in life but continued composing?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Frédéric Chopin",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "explanation": "Beethoven composed many of his greatest works after significant hearing loss.",
+    "tags": [
+      "classical",
+      "composers"
+    ]
+  },
+  {
+    "id": "music_022",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which brass instrument has the highest typical pitch range?",
+    "options": [
+      "Tuba",
+      "French Horn",
+      "Trombone",
+      "Trumpet"
+    ],
+    "correctAnswer": "Trumpet",
+    "explanation": "The trumpet generally plays the highest range among standard brass instruments.",
+    "tags": [
+      "brass",
+      "instruments"
+    ]
+  },
+  {
+    "id": "music_023",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "Which time signature is commonly known as 'common time'?",
+    "options": [
+      "3/4",
+      "6/8",
+      "4/4",
+      "2/2"
+    ],
+    "correctAnswer": "4/4",
+    "explanation": "The 4/4 time signature is traditionally referred to as common time.",
+    "tags": [
+      "rhythm",
+      "notation"
+    ]
+  },
+  {
+    "id": "music_024",
+    "category": "Music",
+    "difficulty": "medium",
+    "question": "What is the name of the device used to keep a steady musical beat while practicing?",
+    "options": [
+      "Tuner",
+      "Amplifier",
+      "Metronome",
+      "Equalizer"
+    ],
+    "correctAnswer": "Metronome",
+    "explanation": "A metronome produces regular beats to help musicians maintain consistent tempo.",
+    "tags": [
+      "practice",
+      "tempo"
+    ]
+  },
+  {
+    "id": "music_025",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "Which Baroque composer composed 'The Four Seasons'?",
+    "options": [
+      "George Frideric Handel",
+      "Antonio Vivaldi",
+      "Johann Pachelbel",
+      "Henry Purcell"
+    ],
+    "correctAnswer": "Antonio Vivaldi",
+    "explanation": "Antonio Vivaldi's 'The Four Seasons' is one of the most celebrated violin concerto collections.",
+    "tags": [
+      "baroque",
+      "composers"
+    ]
+  },
+  {
+    "id": "music_026",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "Which mode uses the same notes as a major scale but begins on its sixth degree?",
+    "options": [
+      "Ionian",
+      "Mixolydian",
+      "Aeolian",
+      "Dorian"
+    ],
+    "correctAnswer": "Aeolian",
+    "explanation": "The Aeolian mode corresponds to the natural minor scale derived from the sixth degree of a major scale.",
+    "tags": [
+      "modes",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_027",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "Which musical texture consists of a single melodic line without harmonic accompaniment?",
+    "options": [
+      "Polyphonic",
+      "Homophonic",
+      "Monophonic",
+      "Heterophonic"
+    ],
+    "correctAnswer": "Monophonic",
+    "explanation": "Monophonic texture contains only one melodic line with no accompanying harmony.",
+    "tags": [
+      "texture",
+      "theory"
+    ]
+  },
+  {
+    "id": "music_028",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "Which composer completed the opera cycle 'The Ring of the Nibelung'?",
+    "options": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini",
+      "Richard Strauss"
+    ],
+    "correctAnswer": "Richard Wagner",
+    "explanation": "Richard Wagner created the four-opera cycle known as 'The Ring of the Nibelung.'",
+    "tags": [
+      "opera",
+      "composers"
+    ]
+  },
+  {
+    "id": "music_029",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "What is the standard concert pitch frequency for the note A above middle C (A4)?",
+    "options": [
+      "432 Hz",
+      "440 Hz",
+      "442 Hz",
+      "445 Hz"
+    ],
+    "correctAnswer": "440 Hz",
+    "explanation": "A4 at 440 Hz is the internationally accepted standard concert pitch.",
+    "tags": [
+      "pitch",
+      "acoustics"
+    ]
+  },
+  {
+    "id": "music_030",
+    "category": "Music",
+    "difficulty": "hard",
+    "question": "In a fugue, what is the name of the main theme introduced at the beginning?",
+    "options": [
+      "Episode",
+      "Counterpoint",
+      "Subject",
+      "Cadence"
+    ],
+    "correctAnswer": "Subject",
+    "explanation": "The subject is the principal melodic idea that forms the foundation of a fugue.",
+    "tags": [
+      "fugue",
+      "composition"
+    ]
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "nature_001",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which is the largest mammal on Earth?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Whale Shark"
+    ],
+    "correctAnswer": "Blue Whale",
+    "explanation": "The blue whale is the largest animal known to have ever lived on Earth.",
+    "tags": [
+      "animals",
+      "mammals"
+    ]
+  },
+  {
+    "id": "nature_002",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Pollination"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis converts sunlight, water, and carbon dioxide into food for plants.",
+    "tags": [
+      "plants",
+      "biology"
+    ]
+  },
+  {
+    "id": "nature_003",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which bird is famous for its ability to mimic human speech?",
+    "options": [
+      "Ostrich",
+      "Parrot",
+      "Penguin",
+      "Flamingo"
+    ],
+    "correctAnswer": "Parrot",
+    "explanation": "Many parrot species can imitate sounds and human speech remarkably well.",
+    "tags": [
+      "birds",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "nature_004",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which is the tallest type of grass in the world?",
+    "options": [
+      "Sugarcane",
+      "Bamboo",
+      "Wheat",
+      "Rice"
+    ],
+    "correctAnswer": "Bamboo",
+    "explanation": "Bamboo is a fast-growing grass that includes the tallest grass species.",
+    "tags": [
+      "plants",
+      "grass"
+    ]
+  },
+  {
+    "id": "nature_005",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": [
+      "Tiger",
+      "Leopard",
+      "Lion",
+      "Jaguar"
+    ],
+    "correctAnswer": "Lion",
+    "explanation": "The lion has long been known by the traditional title 'King of the Jungle.'",
+    "tags": [
+      "animals",
+      "big-cats"
+    ]
+  },
+  {
+    "id": "nature_006",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which layer of Earth contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": "Stratosphere",
+    "explanation": "Most of Earth's ozone is concentrated in the stratosphere.",
+    "tags": [
+      "atmosphere",
+      "earth"
+    ]
+  },
+  {
+    "id": "nature_007",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which tree is well known for producing acorns?",
+    "options": [
+      "Pine",
+      "Maple",
+      "Oak",
+      "Birch"
+    ],
+    "correctAnswer": "Oak",
+    "explanation": "Oak trees produce acorns, which are their seeds.",
+    "tags": [
+      "trees",
+      "plants"
+    ]
+  },
+  {
+    "id": "nature_008",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which animal is the largest living reptile?",
+    "options": [
+      "Komodo Dragon",
+      "Saltwater Crocodile",
+      "Green Anaconda",
+      "Leatherback Turtle"
+    ],
+    "correctAnswer": "Saltwater Crocodile",
+    "explanation": "The saltwater crocodile is the world's largest living reptile.",
+    "tags": [
+      "reptiles",
+      "animals"
+    ]
+  },
+  {
+    "id": "nature_009",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Carbon Dioxide",
+    "explanation": "Plants use carbon dioxide along with water and sunlight to produce glucose.",
+    "tags": [
+      "plants",
+      "atmosphere"
+    ]
+  },
+  {
+    "id": "nature_010",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which mammal is capable of true powered flight?",
+    "options": [
+      "Flying Squirrel",
+      "Bat",
+      "Sugar Glider",
+      "Colugo"
+    ],
+    "correctAnswer": "Bat",
+    "explanation": "Bats are the only mammals capable of sustained powered flight.",
+    "tags": [
+      "mammals",
+      "flight"
+    ]
+  },
+  {
+    "id": "nature_011",
+    "category": "Nature",
+    "difficulty": "easy",
+    "question": "Which ocean animal has eight arms?",
+    "options": [
+      "Squid",
+      "Octopus",
+      "Starfish",
+      "Jellyfish"
+    ],
+    "correctAnswer": "Octopus",
+    "explanation": "An octopus has eight flexible arms lined with suckers.",
+    "tags": [
+      "marine-life",
+      "animals"
+    ]
+  },
+  {
+    "id": "nature_013",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which biome is characterized by permanently frozen subsoil known as permafrost?",
+    "options": [
+      "Savanna",
+      "Tundra",
+      "Temperate Forest",
+      "Grassland"
+    ],
+    "correctAnswer": "Tundra",
+    "explanation": "Permafrost is a defining feature of the tundra biome.",
+    "tags": [
+      "biomes",
+      "climate"
+    ]
+  },
+  {
+    "id": "nature_014",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which pollinator is responsible for pollinating many flowering plants and food crops?",
+    "options": [
+      "Dragonfly",
+      "Honey Bee",
+      "Grasshopper",
+      "Ladybug"
+    ],
+    "correctAnswer": "Honey Bee",
+    "explanation": "Honey bees play a vital role in pollinating numerous wild and cultivated plants.",
+    "tags": [
+      "pollination",
+      "insects"
+    ]
+  },
+  {
+    "id": "nature_015",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which layer of a rainforest receives the greatest amount of sunlight?",
+    "options": [
+      "Forest Floor",
+      "Canopy",
+      "Emergent Layer",
+      "Understory"
+    ],
+    "correctAnswer": "Emergent Layer",
+    "explanation": "The emergent layer rises above the canopy and receives the most direct sunlight.",
+    "tags": [
+      "rainforest",
+      "ecosystems"
+    ]
+  },
+  {
+    "id": "nature_016",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which type of cloud is most commonly associated with thunderstorms?",
+    "options": [
+      "Cirrus",
+      "Stratus",
+      "Cumulonimbus",
+      "Altocumulus"
+    ],
+    "correctAnswer": "Cumulonimbus",
+    "explanation": "Cumulonimbus clouds are towering storm clouds that produce thunder, lightning, and heavy rain.",
+    "tags": [
+      "weather",
+      "clouds"
+    ]
+  },
+  {
+    "id": "nature_017",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "What is the primary source of energy for nearly all ecosystems on Earth?",
+    "options": [
+      "The Moon",
+      "Volcanoes",
+      "The Sun",
+      "Wind"
+    ],
+    "correctAnswer": "The Sun",
+    "explanation": "Sunlight powers photosynthesis, forming the foundation of most food chains.",
+    "tags": [
+      "ecosystems",
+      "energy"
+    ]
+  },
+  {
+    "id": "nature_018",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which animal is the largest species of shark?",
+    "options": [
+      "Great White Shark",
+      "Hammerhead Shark",
+      "Whale Shark",
+      "Tiger Shark"
+    ],
+    "correctAnswer": "Whale Shark",
+    "explanation": "The whale shark is the world's largest fish and is a gentle filter feeder.",
+    "tags": [
+      "marine-life",
+      "sharks"
+    ]
+  },
+  {
+    "id": "nature_019",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which process changes liquid water into water vapor?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Precipitation"
+    ],
+    "correctAnswer": "Evaporation",
+    "explanation": "Evaporation occurs when liquid water absorbs heat and becomes water vapor.",
+    "tags": [
+      "water-cycle",
+      "weather"
+    ]
+  },
+  {
+    "id": "nature_020",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which continent has the greatest diversity of marsupial species?",
+    "options": [
+      "South America",
+      "Africa",
+      "Australia",
+      "Asia"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Australia is home to most of the world's marsupials, including kangaroos and koalas.",
+    "tags": [
+      "marsupials",
+      "continents"
+    ]
+  },
+  {
+    "id": "nature_021",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which ecosystem is dominated by grasses with few scattered trees?",
+    "options": [
+      "Taiga",
+      "Savanna",
+      "Tundra",
+      "Mangrove"
+    ],
+    "correctAnswer": "Savanna",
+    "explanation": "Savannas are tropical grasslands characterized by scattered trees and seasonal rainfall.",
+    "tags": [
+      "biomes",
+      "grasslands"
+    ]
+  },
+  {
+    "id": "nature_022",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which animal is known for building large dams across rivers and streams?",
+    "options": [
+      "Otter",
+      "Beaver",
+      "Muskrat",
+      "Capybara"
+    ],
+    "correctAnswer": "Beaver",
+    "explanation": "Beavers build dams using branches and mud to create ponds for shelter.",
+    "tags": [
+      "animals",
+      "ecosystems"
+    ]
+  },
+  {
+    "id": "nature_023",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which natural process breaks rocks into smaller pieces without moving them?",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Sedimentation"
+    ],
+    "correctAnswer": "Weathering",
+    "explanation": "Weathering breaks down rocks in place through physical, chemical, or biological processes.",
+    "tags": [
+      "geology",
+      "landforms"
+    ]
+  },
+  {
+    "id": "nature_024",
+    "category": "Nature",
+    "difficulty": "medium",
+    "question": "Which tree is famous for storing large amounts of water in its trunk?",
+    "options": [
+      "Oak",
+      "Baobab",
+      "Pine",
+      "Maple"
+    ],
+    "correctAnswer": "Baobab",
+    "explanation": "Baobab trees have thick trunks that can store significant amounts of water.",
+    "tags": [
+      "trees",
+      "adaptations"
+    ]
+  },
+  {
+    "id": "nature_025",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "Which biome stores the largest amount of carbon globally?",
+    "options": [
+      "Tropical Rainforest",
+      "Coral Reef",
+      "Boreal Forest",
+      "Desert"
+    ],
+    "correctAnswer": "Boreal Forest",
+    "explanation": "Boreal forests and their soils store enormous amounts of Earth's terrestrial carbon.",
+    "tags": [
+      "climate",
+      "biomes"
+    ]
+  },
+  {
+    "id": "nature_026",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "What is the scientific term for animals that are active primarily at dawn and dusk?",
+    "options": [
+      "Nocturnal",
+      "Diurnal",
+      "Crepuscular",
+      "Arboreal"
+    ],
+    "correctAnswer": "Crepuscular",
+    "explanation": "Crepuscular animals are most active during twilight periods at sunrise and sunset.",
+    "tags": [
+      "animals",
+      "behavior"
+    ]
+  },
+  {
+    "id": "nature_027",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "Which layer of Earth's atmosphere contains most meteors as they burn up?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "correctAnswer": "Mesosphere",
+    "explanation": "Most meteors burn up due to friction with air molecules in the mesosphere.",
+    "tags": [
+      "atmosphere",
+      "space"
+    ]
+  },
+  {
+    "id": "nature_028",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "Which coral reef system is the largest on Earth?",
+    "options": [
+      "Belize Barrier Reef",
+      "New Caledonian Barrier Reef",
+      "Great Barrier Reef",
+      "Red Sea Coral Reef"
+    ],
+    "correctAnswer": "Great Barrier Reef",
+    "explanation": "Australia's Great Barrier Reef is the world's largest coral reef system.",
+    "tags": [
+      "marine-life",
+      "coral-reefs"
+    ]
+  },
+  {
+    "id": "nature_029",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "Which geological process is primarily responsible for creating fold mountains such as the Himalayas?",
+    "options": [
+      "Volcanic Eruption",
+      "Glacial Erosion",
+      "Plate Collision",
+      "River Deposition"
+    ],
+    "correctAnswer": "Plate Collision",
+    "explanation": "Fold mountains form when tectonic plates collide and compress Earth's crust.",
+    "tags": [
+      "geology",
+      "mountains"
+    ]
+  },
+  {
+    "id": "nature_030",
+    "category": "Nature",
+    "difficulty": "hard",
+    "question": "Which rainforest is considered the most biodiverse terrestrial ecosystem on Earth?",
+    "options": [
+      "Congo Rainforest",
+      "Daintree Rainforest",
+      "Amazon Rainforest",
+      "Sundarbans"
+    ],
+    "correctAnswer": "Amazon Rainforest",
+    "explanation": "The Amazon Rainforest contains an extraordinary diversity of plants, animals, and microorganisms.",
+    "tags": [
+      "rainforests",
+      "biodiversity"
+    ]
+  }
+]

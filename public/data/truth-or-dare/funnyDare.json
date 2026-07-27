@@ -1,0 +1,352 @@
+[
+  {
+    "id": "funnyDare-1",
+    "type": "dare",
+    "text": "Act like a chicken for 1 minute.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-2",
+    "type": "dare",
+    "text": "Talk like a pirate for 1 minute.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-3",
+    "type": "dare",
+    "text": "Walk like a crab for 1 minute.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-4",
+    "type": "dare",
+    "text": "Eat a spoonful of hot sauce.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-5",
+    "type": "dare",
+    "text": "Drink a raw egg.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-6",
+    "type": "dare",
+    "text": "Eat a bug.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-7",
+    "type": "dare",
+    "text": "Smell someone's feet.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-8",
+    "type": "dare",
+    "text": "Lick someone's elbow.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-9",
+    "type": "dare",
+    "text": "Kiss someone's belly button.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-10",
+    "type": "dare",
+    "text": "Bite someone's ear.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-11",
+    "type": "dare",
+    "text": "Let someone draw on your face with a marker.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-12",
+    "type": "dare",
+    "text": "Let someone cut your hair.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-13",
+    "type": "dare",
+    "text": "Let someone shave your head.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-14",
+    "type": "dare",
+    "text": "Let someone wax your eyebrows.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-15",
+    "type": "dare",
+    "text": "Let someone pierce your nose.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-16",
+    "type": "dare",
+    "text": "Let someone tattoo your arm.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-17",
+    "type": "dare",
+    "text": "Let someone brand your chest.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-18",
+    "type": "dare",
+    "text": "Let someone scar your back.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-19",
+    "type": "dare",
+    "text": "Let someone burn your leg.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-20",
+    "type": "dare",
+    "text": "Let someone freeze your foot.",
+    "category": "funnyDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "funnyDare-21",
+    "type": "dare",
+    "text": "Let someone crush your hand.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-22",
+    "type": "dare",
+    "text": "Let someone break your finger.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-23",
+    "type": "dare",
+    "text": "Let someone snap your neck.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-24",
+    "type": "dare",
+    "text": "Let someone rip your heart out.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-25",
+    "type": "dare",
+    "text": "Let someone eat your brain.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-26",
+    "type": "dare",
+    "text": "Let someone drink your blood.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-27",
+    "type": "dare",
+    "text": "Let someone wear your skin.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-28",
+    "type": "dare",
+    "text": "Let someone steal your soul.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-29",
+    "type": "dare",
+    "text": "Let someone take your life.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-30",
+    "type": "dare",
+    "text": "Let someone destroy your world.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-31",
+    "type": "dare",
+    "text": "Let someone ruin your universe.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-32",
+    "type": "dare",
+    "text": "Let someone end your existence.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-33",
+    "type": "dare",
+    "text": "Let someone erase your reality.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-34",
+    "type": "dare",
+    "text": "Let someone unmake your being.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-35",
+    "type": "dare",
+    "text": "Let someone unthink your thoughts.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-36",
+    "type": "dare",
+    "text": "Let someone unfeel your feelings.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-37",
+    "type": "dare",
+    "text": "Let someone unremember your memories.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-38",
+    "type": "dare",
+    "text": "Let someone undream your dreams.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-39",
+    "type": "dare",
+    "text": "Let someone unlive your life.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-40",
+    "type": "dare",
+    "text": "Let someone undie your death.",
+    "category": "funnyDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "funnyDare-41",
+    "type": "dare",
+    "text": "Let someone unbirth your birth.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-42",
+    "type": "dare",
+    "text": "Let someone uncreate your creation.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-43",
+    "type": "dare",
+    "text": "Let someone unexist your existence.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-44",
+    "type": "dare",
+    "text": "Let someone unbe your being.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-45",
+    "type": "dare",
+    "text": "Let someone undo your doing.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-46",
+    "type": "dare",
+    "text": "Let someone unhave your having.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-47",
+    "type": "dare",
+    "text": "Let someone unknow your knowing.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-48",
+    "type": "dare",
+    "text": "Let someone unsee your seeing.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-49",
+    "type": "dare",
+    "text": "Let someone unhear your hearing.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "funnyDare-50",
+    "type": "dare",
+    "text": "Let someone unspeak your speaking.",
+    "category": "funnyDare",
+    "difficulty": "hard"
+  }
+]

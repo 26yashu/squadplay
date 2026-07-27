@@ -1,0 +1,302 @@
+[
+  {
+    "id": "random-1",
+    "word": "Apple",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-2",
+    "word": "Banana",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-3",
+    "word": "Orange",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-4",
+    "word": "Strawberry",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-5",
+    "word": "Grape",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-6",
+    "word": "Watermelon",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-7",
+    "word": "Pineapple",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-8",
+    "word": "Mango",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-9",
+    "word": "Peach",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-10",
+    "word": "Pear",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-11",
+    "word": "Plum",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-12",
+    "word": "Cherry",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-13",
+    "word": "Lemon",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-14",
+    "word": "Lime",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-15",
+    "word": "Coconut",
+    "category": "random",
+    "difficulty": "easy"
+  },
+  {
+    "id": "random-16",
+    "word": "Kiwi",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-17",
+    "word": "Papaya",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-18",
+    "word": "Avocado",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-19",
+    "word": "Tomato",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-20",
+    "word": "Potato",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-21",
+    "word": "Carrot",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-22",
+    "word": "Onion",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-23",
+    "word": "Garlic",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-24",
+    "word": "Broccoli",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-25",
+    "word": "Cauliflower",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-26",
+    "word": "Cabbage",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-27",
+    "word": "Lettuce",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-28",
+    "word": "Spinach",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-29",
+    "word": "Celery",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-30",
+    "word": "Cucumber",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-31",
+    "word": "Zucchini",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-32",
+    "word": "Squash",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-33",
+    "word": "Pumpkin",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-34",
+    "word": "Eggplant",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-35",
+    "word": "Pepper",
+    "category": "random",
+    "difficulty": "medium"
+  },
+  {
+    "id": "random-36",
+    "word": "Chili",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-37",
+    "word": "Corn",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-38",
+    "word": "Peas",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-39",
+    "word": "Beans",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-40",
+    "word": "Lentils",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-41",
+    "word": "Chickpeas",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-42",
+    "word": "Rice",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-43",
+    "word": "Wheat",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-44",
+    "word": "Oats",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-45",
+    "word": "Barley",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-46",
+    "word": "Rye",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-47",
+    "word": "Quinoa",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-48",
+    "word": "Millet",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-49",
+    "word": "Sorghum",
+    "category": "random",
+    "difficulty": "hard"
+  },
+  {
+    "id": "random-50",
+    "word": "Buckwheat",
+    "category": "random",
+    "difficulty": "hard"
+  }
+]

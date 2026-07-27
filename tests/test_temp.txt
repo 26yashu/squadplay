@@ -1,0 +1,253 @@
+import { render, waitFor, screen } from '@testing-library/react';
+import { CharadesPage } from '../src/games/charades/views/CharadesPage';
+import { PlayerSessionContext } from '../src/context/PlayerSessionContext';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { vi } from 'vitest';
+
+describe('CharadesPage Audit', () => {
+  it('should reach round_start without hanging', async () => {
+    global.fetch = vi.fn(() =>
+      Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve([
+          { id: '1', word: 'A', difficulty: 'easy' },
+          { id: '2', word: 'B', difficulty: 'easy' }
+        ])
+      })
+    );
+    
+    const mockPlayers = [{ id: 'p1', name: 'Alice', colorClass: 'text-red-500' }];
+    const mockSession = { teams: 'ffa', rounds: 3, timer: 60 };
+    
+    render(
+      <PlayerSessionContext.Provider value={{ players: mockPlayers, session: mockSession }}>
+        <MemoryRouter>
+          <Routes>
+            <Route path="*" element={<CharadesPage />} />
+          </Routes>
+        </MemoryRouter>
+      </PlayerSessionContext.Provider>
+    );
+
+    await waitFor(() => {
+      expect(screen.queryByText(/Ready!/i)).toBeTruthy();
+    }, { timeout: 3000 });
+    
+    expect(screen.getByText(/Alice/i)).toBeTruthy();
+  });
+});
+import { render, waitFor, screen } from '@testing-library/react';
+import { RapidFirePage } from '../src/games/rapid-fire/views/RapidFirePage';
+import { PlayerSessionContext } from '../src/context/PlayerSessionContext';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { vi } from 'vitest';
+
+describe('RapidFirePage Audit', () => {
+  it('should transition from loading to playing', async () => {
+    global.fetch = vi.fn(() =>
+      Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve([{ id: '1', question: 'A', correctAnswer: 'A', options: ['A', 'B', 'C', 'D'], difficulty: 'easy' }])
+      })
+    );
+    
+    const mockPlayers = [{ id: 'p1', name: 'Alice', colorClass: 'text-red-500' }];
+    const mockSession = { mode: 'individual', timer: 10 };
+    
+    render(
+      <PlayerSessionContext.Provider value={{ players: mockPlayers, session: mockSession }}>
+        <MemoryRouter>
+          <Routes>
+            <Route path="*" element={<RapidFirePage />} />
+          </Routes>
+        </MemoryRouter>
+      </PlayerSessionContext.Provider>
+    );
+
+    await waitFor(() => {
+      expect(screen.queryByText(/Content Unavailable/i)).not.toBeTruthy();
+    }, { timeout: 3000 });
+    
+    // Check if it reached "Rapid Fire" header
+    expect(screen.getByText('Rapid Fire')).toBeTruthy();
+  });
+});
+import { render } from '@testing-library/react';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { SetupContainer } from '../src/setup/components/SetupContainer';
+import { SetupErrorBoundary } from '../src/setup/components/SetupErrorBoundary';
+import { gameRegistry } from '../src/registry/gameRegistry';
+import { PlayerSessionProvider } from '../src/context/PlayerSessionContext';
+
+describe('Setup Flow Audit', () => {
+  for (const game of gameRegistry) {
+    if (!game.available) continue;
+    
+    it(`should render SetupContainer for ${game.id} without crashing`, () => {
+      let caughtError = null;
+      try {
+        render(
+          <PlayerSessionProvider>
+            <MemoryRouter initialEntries={[`/setup/${game.id}`]}>
+              <SetupErrorBoundary>
+                <Routes>
+                  <Route path="/setup/:gameId" element={<SetupContainer />} />
+                </Routes>
+              </SetupErrorBoundary>
+            </MemoryRouter>
+          </PlayerSessionProvider>
+        );
+      } catch (e) {
+        caughtError = e;
+        console.error(`Crash in ${game.id}:`, e);
+      }
+      expect(caughtError).toBeNull();
+    });
+  }
+});
+import { render, waitFor, screen, fireEvent, act } from '@testing-library/react';
+import { SpinWheelPage } from '../src/games/spin-wheel/views/SpinWheelPage';
+import { PlayerSessionContext } from '../src/context/PlayerSessionContext';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { vi } from 'vitest';
+
+describe('SpinWheel Audit', () => {
+  it('should not crash or disappear after first spin', async () => {
+    global.fetch = vi.fn(() =>
+      Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve([
+          { id: '1', text: 'Action 1' },
+          { id: '2', text: 'Action 2' },
+          { id: '3', text: 'Action 3' }
+        ])
+      })
+    );
+    
+    const mockPlayers = [
+      { id: 'p1', name: 'Alice', colorClass: 'text-red-500' },
+      { id: 'p2', name: 'Bob', colorClass: 'text-blue-500' }
+    ];
+    const mockSession = { wheelType: 'player', rounds: 3 };
+    
+    vi.useFakeTimers();
+
+    const { container } = render(
+      <PlayerSessionContext.Provider value={{ players: mockPlayers, session: mockSession }}>
+        <MemoryRouter>
+          <Routes>
+            <Route path="*" element={<SpinWheelPage />} />
+          </Routes>
+        </MemoryRouter>
+      </PlayerSessionContext.Provider>
+    );
+
+    // Verify canvas renders
+    await waitFor(() => {
+      expect(container.querySelector('canvas')).toBeTruthy();
+    });
+    
+    // Spin the wheel
+    const spinBtn = screen.getByRole('button', { name: /spin/i });
+    fireEvent.click(spinBtn);
+    
+    // Fast-forward animation
+    act(() => {
+      vi.advanceTimersByTime(5000); // duration is 5000ms
+    });
+    
+    // Winner card should appear
+    await waitFor(() => {
+      expect(screen.getByText(/Winner!/i)).toBeTruthy();
+    });
+    
+    // Click Next
+    const nextBtn = screen.getByRole('button', { name: /next/i });
+    fireEvent.click(nextBtn);
+    
+    // Verify canvas is still there
+    expect(container.querySelector('canvas')).toBeTruthy();
+    
+    vi.useRealTimers();
+  });
+});
+import { render, screen, fireEvent } from '@testing-library/react';
+import { TicTacToePage } from '../src/games/tic-tac-toe/views/TicTacToePage';
+import { PlayerSessionContext } from '../src/context/PlayerSessionContext';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { vi } from 'vitest';
+
+describe('TicTacToe Audit', () => {
+  it('should detect a winner', async () => {
+    const mockPlayers = [
+      { id: 'p1', name: 'Alice', colorClass: 'text-red-500' },
+      { id: 'p2', name: 'Bob', colorClass: 'text-blue-500' }
+    ];
+    const mockSession = { boardSize: 3, winningLength: 3 };
+    
+    render(
+      <PlayerSessionContext.Provider value={{ players: mockPlayers, session: mockSession }}>
+        <MemoryRouter>
+          <Routes>
+            <Route path="*" element={<TicTacToePage />} />
+          </Routes>
+        </MemoryRouter>
+      </PlayerSessionContext.Provider>
+    );
+
+    const cells = await screen.findAllByRole('button');
+    const getEmptyCell = () => cells.find(b => b.textContent === '' && !b.disabled);
+    
+    // Alice (X) plays 0
+    fireEvent.click(cells[0]); // 0
+    // Bob (O) plays 3
+    fireEvent.click(cells[3]); // 3
+    // Alice (X) plays 1
+    fireEvent.click(cells[1]); // 1
+    // Bob (O) plays 4
+    fireEvent.click(cells[4]); // 4
+    // Alice (X) plays 2 -> WIN!
+    fireEvent.click(cells[2]); // 2
+    
+    // WinnerModal should appear
+    expect(await screen.findByText(/Winner!/i)).toBeTruthy();
+  });
+});
+import { render, waitFor, screen } from '@testing-library/react';
+import { TruthOrDarePage } from '../src/games/truth-or-dare/views/TruthOrDarePage';
+import { PlayerSessionContext } from '../src/context/PlayerSessionContext';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import { vi } from 'vitest';
+
+describe('TruthOrDarePage Audit', () => {
+  it('should load prompts without error', async () => {
+    global.fetch = vi.fn(() =>
+      Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve([
+          { id: '1', type: 'truth', prompt: 'A', difficulty: 'medium' },
+          { id: '2', type: 'dare', prompt: 'B', difficulty: 'medium' }
+        ])
+      })
+    );
+    
+    const mockPlayers = [{ id: 'p1', name: 'Alice', colorClass: 'text-red-500' }];
+    const mockSession = { mode: 'party', difficulty: 'medium' };
+    
+    render(
+      <PlayerSessionContext.Provider value={{ players: mockPlayers, session: mockSession }}>
+        <MemoryRouter>
+          <Routes>
+            <Route path="*" element={<TruthOrDarePage />} />
+          </Routes>
+        </MemoryRouter>
+      </PlayerSessionContext.Provider>
+    );
+
+    await waitFor(() => {
+      expect(screen.queryByText(/Content Unavailable/i)).not.toBeTruthy();
+    }, { timeout: 3000 });
+    
+    expect(screen.getByText(/Alice/i)).toBeTruthy();
+  });
+});

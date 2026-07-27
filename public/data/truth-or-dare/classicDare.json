@@ -1,0 +1,352 @@
+[
+  {
+    "id": "classicDare-1",
+    "type": "dare",
+    "text": "Kiss the person to your left.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-2",
+    "type": "dare",
+    "text": "Hug the person to your right.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-3",
+    "type": "dare",
+    "text": "Slap the person across from you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-4",
+    "type": "dare",
+    "text": "Punch the person next to you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-5",
+    "type": "dare",
+    "text": "Kick the person behind you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-6",
+    "type": "dare",
+    "text": "Bite the person in front of you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-7",
+    "type": "dare",
+    "text": "Lick the person next to you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-8",
+    "type": "dare",
+    "text": "Spit on the person next to you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-9",
+    "type": "dare",
+    "text": "Scream as loud as you can.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-10",
+    "type": "dare",
+    "text": "Whisper a secret to the person next to you.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-11",
+    "type": "dare",
+    "text": "Sing a song.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-12",
+    "type": "dare",
+    "text": "Dance for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-13",
+    "type": "dare",
+    "text": "Tell a joke.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-14",
+    "type": "dare",
+    "text": "Tell a story.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-15",
+    "type": "dare",
+    "text": "Tell a lie.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-16",
+    "type": "dare",
+    "text": "Tell the truth.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-17",
+    "type": "dare",
+    "text": "Do 10 pushups.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-18",
+    "type": "dare",
+    "text": "Do 20 jumping jacks.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-19",
+    "type": "dare",
+    "text": "Do 15 squats.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-20",
+    "type": "dare",
+    "text": "Do 10 sit-ups.",
+    "category": "classicDare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "classicDare-21",
+    "type": "dare",
+    "text": "Do a cartwheel.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-22",
+    "type": "dare",
+    "text": "Do a handstand.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-23",
+    "type": "dare",
+    "text": "Do a somersault.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-24",
+    "type": "dare",
+    "text": "Do a backflip.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-25",
+    "type": "dare",
+    "text": "Do a frontflip.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-26",
+    "type": "dare",
+    "text": "Do a split.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-27",
+    "type": "dare",
+    "text": "Do a bridge.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-28",
+    "type": "dare",
+    "text": "Do a headstand.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-29",
+    "type": "dare",
+    "text": "Do a wall sit for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-30",
+    "type": "dare",
+    "text": "Hold a plank for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-31",
+    "type": "dare",
+    "text": "Run around the room 5 times.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-32",
+    "type": "dare",
+    "text": "Jump up and down 20 times.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-33",
+    "type": "dare",
+    "text": "Spin around 10 times.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-34",
+    "type": "dare",
+    "text": "Walk backwards for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-35",
+    "type": "dare",
+    "text": "Crawl on the floor for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-36",
+    "type": "dare",
+    "text": "Hop on one foot for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-37",
+    "type": "dare",
+    "text": "Stand on one foot for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-38",
+    "type": "dare",
+    "text": "Close your eyes for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-39",
+    "type": "dare",
+    "text": "Hold your breath for 30 seconds.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-40",
+    "type": "dare",
+    "text": "Don't blink for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "classicDare-41",
+    "type": "dare",
+    "text": "Don't laugh for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-42",
+    "type": "dare",
+    "text": "Don't talk for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-43",
+    "type": "dare",
+    "text": "Don't move for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-44",
+    "type": "dare",
+    "text": "Don't breathe for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-45",
+    "type": "dare",
+    "text": "Don't think for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-46",
+    "type": "dare",
+    "text": "Don't feel for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-47",
+    "type": "dare",
+    "text": "Don't exist for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-48",
+    "type": "dare",
+    "text": "Don't be for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-49",
+    "type": "dare",
+    "text": "Don't do for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  },
+  {
+    "id": "classicDare-50",
+    "type": "dare",
+    "text": "Don't have for 1 minute.",
+    "category": "classicDare",
+    "difficulty": "hard"
+  }
+]
