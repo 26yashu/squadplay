@@ -1,134 +1,380 @@
-<div align="center">
-  <img src="public/icons/icon-512x512.png" alt="SquadPlay Logo" width="120" />
-  <h1>SquadPlay</h1>
-  <p><strong>The Ultimate Offline-First Local Multiplayer Party Game Hub</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/react-v19.2.7-blue.svg?style=flat-square&logo=react" alt="React" />
-    <img src="https://img.shields.io/badge/vite-v8.1.1-646CFF.svg?style=flat-square&logo=vite" alt="Vite" />
-    <img src="https://img.shields.io/badge/tailwindcss-v4.3.3-38B2AC.svg?style=flat-square&logo=tailwind-css" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/framer--motion-v12.42-purple.svg?style=flat-square&logo=framer" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/PWA-Ready-success.svg?style=flat-square&logo=pwa" alt="PWA" />
+# 🎮 SquadPlay
+
+<p align="center">
+  <h3 align="center">The Ultimate Offline Party Gaming Platform</h3>
+  <p align="center">
+    Play • Compete • Level Up • Have Fun
   </p>
-</div>
+
+  <p align="center">
+    <a href="https://squadplay-gray.vercel.app/"><strong>🌐 Live Demo</strong></a>
+    ·
+    <a href="https://github.com/26yashu/squadplay">⭐ Star Repo</a>
+    ·
+    <a href="https://github.com/26yashu/squadplay/issues">🐛 Report Bug</a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-19-blue?logo=react&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Vite-7-purple?logo=vite&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
+  </p>
+</p>
 
 ---
 
-**SquadPlay** is a beautifully crafted, portfolio-ready web application that transforms any screen into a vibrant hub for local multiplayer party games. Designed with a mobile-first philosophy, premium glassmorphism aesthetics, and comprehensive offline support via PWA technology, it allows groups of friends to gather around a single device for endless entertainment—no internet connection required.
+# ✨ About SquadPlay
 
-## 🚀 Features
+**SquadPlay** is a modern, premium offline multiplayer gaming platform built using **React + Vite**.
 
-- **6 Unique Game Engines**: 
-  - 🧠 **Quiz Battle**: Competitive trivia with dynamic score multipliers.
-  - ⚡ **Rapid Fire**: High-stakes, time-pressured streak building.
-  - 🎭 **Charades**: Classic acting game with specialized word packs.
-  - 🎡 **Spin Wheel**: Physics-based random player selection.
-  - 😈 **Truth or Dare**: Icebreakers with automated turn rotations.
-  - ⭕ **Tic Tac Toe**: Strategic board game with automatic win-detection.
-- **Progressive Web App (PWA)**: Installable on iOS/Android/Desktop with full offline capabilities and caching.
-- **Robust Persistence**: Self-healing `LocalStorage` engine guarantees data integrity even when corrupted.
-- **Gamification**: Built-in XP leveling system, stat tracking, and unlockable achievements.
-- **Premium UI/UX**: Fluid animations powered by Framer Motion, dynamic color mapping, and a neon-infused dark mode design.
+Designed with a console-inspired UI, SquadPlay lets friends and families enjoy exciting party games without requiring an internet connection or backend server.
 
-## 📸 Screenshots
+The application features player profiles, XP progression, leaderboards, achievements, local match history, beautiful animations, and a premium mobile-first experience.
 
-*(Replace with actual paths when deployed)*
-| Home & Leaderboard | Game Setup Flow | Gameplay Screen |
-| :---: | :---: | :---: |
-| ![Home](/docs/assets/home.jpg) | ![Setup](/docs/assets/setup.jpg) | ![Gameplay](/docs/assets/gameplay.jpg) |
+---
 
-## 🏗️ Architecture
+# 🚀 Live Demo
 
-SquadPlay is built using a highly modular, strictly decoupled architecture pattern.
+### 🌐 https://squadplay-gray.vercel.app/
 
-- **[Architecture Overview](docs/Architecture.md)**: Explore the decoupled event-driven system and core components.
-- **[Game Engine Architecture](docs/GameEngine.md)**: Discover how the scalable `GameManager` base class handles state machines, lifecycle hooks, and abstract game logic.
-- **[Storage & Persistence](docs/Storage.md)**: Learn about our robust `BaseStorage` class featuring JSON corruption recovery and versioned migrations.
+---
 
-## 📂 Folder Structure
+# 📸 Screenshots
 
-```text
-squadplay/
-├── public/                 # Static assets, PWA icons, offline manifests
+## 🏠 Home
+
+![Home](docs/screenshots/home.png)
+
+---
+
+## 🎮 Games Library
+
+![Games](docs/screenshots/games.png)
+
+---
+
+## 👤 Profile
+
+![Profile](docs/screenshots/profile.png)
+
+---
+
+## 🏆 Leaderboard
+
+![Leaderboard](docs/screenshots/leaderboard.png)
+
+---
+
+## ⚙️ Settings
+
+![Settings](docs/screenshots/settings.png)
+
+---
+
+## 👥 Player Setup
+
+![Player Setup](docs/screenshots/player-setup.png)
+
+---
+
+# 🎮 Available Games
+
+| Game | Players | Status |
+|-------|----------|---------|
+| 🧠 Quiz Battle | 1–4 | ✅ |
+| ⚡ Rapid Fire | 1–4 | ✅ |
+| 🎭 Charades | 2–4 | ✅ |
+| 😈 Truth or Dare | 2–4 | ✅ |
+| ❌⭕ Tic Tac Toe | 2 | ✅ |
+| 🎡 Spin Wheel | 1–4 | ✅ |
+| 🎲 Ludo | 2–4 | ✅ |
+
+---
+
+# ✨ Features
+
+## 🎮 Multiplayer Party Games
+
+- Quiz Battle
+- Rapid Fire
+- Charades
+- Truth or Dare
+- Ludo
+- Tic Tac Toe
+- Spin Wheel
+
+---
+
+## 👤 Player System
+
+- Multiple Player Profiles
+- Avatar Selection
+- Color Customization
+- XP Progression
+- Player Levels
+- Gold Ranking System
+
+---
+
+## 🏆 Progression
+
+- XP Rewards
+- Match History
+- Achievements
+- Daily Streaks
+- Statistics
+- Win Rate Tracking
+- Global Leaderboard
+
+---
+
+## 🎨 Premium UI
+
+- Glassmorphism Design
+- Mobile First Layout
+- Responsive Design
+- Smooth Animations
+- Framer Motion
+- Premium Cards
+- Floating Navigation
+- Dark Theme
+
+---
+
+## ⚡ Performance
+
+- Fully Offline
+- No Backend Required
+- Lightning Fast
+- Local Storage Persistence
+- Instant Loading
+- Optimized React Components
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- React 19
+- Vite
+- JavaScript (ES6+)
+
+## Styling
+
+- Tailwind CSS
+- CSS Variables
+- Glassmorphism
+
+## Animation
+
+- Framer Motion
+
+## Icons
+
+- Lucide React
+
+## Storage
+
+- Browser LocalStorage
+
+## Routing
+
+- React Router
+
+---
+
+# 📂 Project Structure
+
+```
+SquadPlay
+│
+├── public/
 ├── src/
-│   ├── achievements/       # Unlock logic and gamification
-│   ├── components/         # Reusable React components (UI, Layout, Navigation)
-│   ├── engine/             # Core engines (Data Loaders, XP, Stats, EventBus)
-│   ├── games/              # Individual game logic & UI implementations
-│   ├── hooks/              # Custom React hooks (Game Session, Players)
-│   ├── layouts/            # Page layouts and error boundaries
-│   ├── pages/              # Primary route entrypoints (Home, Profile, etc.)
-│   ├── registry/           # Centralized configuration mapping for games
-│   ├── router/             # React Router with React.lazy + Suspense integration
-│   ├── setup/              # Multi-step onboarding and game configuration logic
-│   ├── storage/            # Self-healing LocalStorage wrappers
-│   ├── theme/              # Centralized styling and dynamic color generation
-│   ├── utils/              # Helper functions
-│   ├── App.jsx             # Root React application
-│   └── index.css           # Tailwind v4 configuration and global CSS tokens
-├── tests/                  # Vitest + React Testing Library suites
-├── docs/                   # Extended project documentation
-└── vite.config.js          # Vite & PWA plugin configurations
+│
+├── components/
+├── pages/
+├── games/
+│   ├── quiz/
+│   ├── rapid-fire/
+│   ├── ludo/
+│   ├── charades/
+│   ├── truth-or-dare/
+│   ├── tic-tac-toe/
+│   └── spin-wheel/
+│
+├── setup/
+├── engine/
+├── hooks/
+├── contexts/
+├── router/
+│
+├── docs/
+│   └── screenshots/
+│
+├── package.json
+└── README.md
 ```
 
-## 🛠️ Installation & Development
+---
 
-To run this project locally, ensure you have **Node.js 18+** installed.
+# 🚀 Getting Started
+
+## Clone Repository
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/squadplay.git
+git clone https://github.com/26yashu/squadplay.git
+
 cd squadplay
+```
 
-# 2. Install dependencies
+---
+
+## Install Dependencies
+
+```bash
 npm install
+```
 
-# 3. Start the development server
+---
+
+## Run Development Server
+
+```bash
 npm run dev
 ```
 
-For executing the test suite (Vitest + React Testing Library):
+Open
 
-```bash
-npm run test
 ```
-
-## 🌐 Deployment
-
-SquadPlay is compiled using Vite and can be deployed to any static host (Vercel, Netlify, GitHub Pages).
-
-See the **[Deployment Guide](docs/Deployment.md)** for detailed instructions on configuring the PWA Service Worker for production.
-
-## 🔧 Technologies
-
-- **Core**: React 19, React Router v7, Vite v8
-- **Styling**: TailwindCSS v4, Vanilla CSS variables
-- **Animations**: Framer Motion
-- **Testing**: Vitest, React Testing Library, jsdom
-- **Quality**: oxlint (linting), V8 Coverage
-- **Icons**: Lucide React
-
-## 🛣️ Roadmap
-
-- [x] Initial 6 core mini-games
-- [x] Profile, History, and XP persistence
-- [x] PWA offline caching and Install Prompts
-- [x] Comprehensive test suites (Vitest)
-- [x] Lazy loading & code-splitting
-- [ ] Multiplayer Sync via WebSockets or WebRTC (Future)
-- [ ] Cloud sync for Player Profiles
-- [ ] Downloadable expansion packs for Trivia and Charades
-
-## 🤝 Contributing
-
-We welcome contributions! Please review our **[Contributing Guidelines](CONTRIBUTING.md)** before submitting pull requests. 
-
-## 📝 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+http://localhost:5173
+```
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ for game nights everywhere.</p>
-</div>
+## Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+# 🌟 Highlights
+
+✅ Offline Multiplayer
+
+✅ Premium UI/UX
+
+✅ Glassmorphism Design
+
+✅ XP & Rank System
+
+✅ Local Match History
+
+✅ Achievements
+
+✅ Responsive Mobile Design
+
+✅ Beautiful Animations
+
+✅ React + Vite Architecture
+
+---
+
+# 📈 Future Roadmap
+
+- Online Multiplayer
+- Firebase Authentication
+- Cloud Save
+- Friends System
+- Voice Chat
+- Daily Challenges
+- Tournament Mode
+- AI Opponents
+- Multiplayer Rooms
+- PWA Support
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+
+2. Create your feature branch
+
+```bash
+git checkout -b feature/amazing-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add amazing feature"
+```
+
+4. Push to the branch
+
+```bash
+git push origin feature/amazing-feature
+```
+
+5. Open a Pull Request
+
+---
+
+# 👨‍💻 Developer
+
+## **Yashu**
+
+Final Year B.Tech CSE (AI & ML)
+
+📍 India
+
+### Connect
+
+- GitHub: https://github.com/26yashu
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the LICENSE file for details.
+
+---
+
+# ⭐ Support
+
+If you enjoyed this project,
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🐛 Report Issues
+
+💙 Share it with your friends
+
+---
+
+<p align="center">
+
+### 🎮 Play. Compete. Level Up.
+
+**Made with ❤️ using React, Vite & Framer Motion**
+
+</p>
