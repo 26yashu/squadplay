@@ -1,43 +1,117 @@
+<div align="center">
+
 # 🎮 SquadPlay
 
+### The Ultimate Offline Party Gaming Platform
+
+*A premium offline multiplayer gaming experience built with React, Vite & Framer Motion.*
+
 <p align="center">
-  <h3 align="center">The Ultimate Offline Party Gaming Platform</h3>
-  <p align="center">
-    Play • Compete • Level Up • Have Fun
-  </p>
 
-  <p align="center">
-    <a href="https://squadplay-gray.vercel.app/"><strong>🌐 Live Demo</strong></a>
-    ·
-    <a href="https://github.com/26yashu/squadplay">⭐ Star Repo</a>
-    ·
-    <a href="https://github.com/26yashu/squadplay/issues">🐛 Report Bug</a>
-  </p>
+<a href="https://squadplay-gray.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-7C5CFF?style=for-the-badge">
+</a>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-19-blue?logo=react&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Vite-7-purple?logo=vite&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
-  </p>
+<a href="https://github.com/26yashu/squadplay/stargazers">
+<img src="https://img.shields.io/github/stars/26yashu/squadplay?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Framer_Motion-black?logo=framer&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
+
+</p>
+
+</div>
+
+---
+
+# 🌐 Live Demo
+
+## https://squadplay-gray.vercel.app/
+
+---
+
+# 📱 Preview
+
+<p align="center">
+<img src="docs/home.png" width="280">
 </p>
 
 ---
 
-# ✨ About SquadPlay
+# ✨ About
 
-**SquadPlay** is a modern, premium offline multiplayer gaming platform built using **React + Vite**.
+SquadPlay is a **modern offline multiplayer party gaming platform** designed for friends and families to enjoy fun games together on a single device.
 
-Designed with a console-inspired UI, SquadPlay lets friends and families enjoy exciting party games without requiring an internet connection or backend server.
+Inspired by modern gaming ecosystems such as **PlayStation**, **Xbox**, **Discord**, and **Supercell**, SquadPlay combines beautiful UI, smooth animations, player progression, achievements, and premium mobile-first design into one application.
 
-The application features player profiles, XP progression, leaderboards, achievements, local match history, beautiful animations, and a premium mobile-first experience.
+Unlike traditional multiplayer games, SquadPlay works **completely offline** using Local Storage, making it fast, lightweight, and accessible anywhere.
 
 ---
 
-# 🚀 Live Demo
+# 🚀 Features
 
-### 🌐 https://squadplay-gray.vercel.app/
+## 🎮 Party Games
+
+- 🧠 Quiz Battle
+- ⚡ Rapid Fire
+- 🎭 Charades
+- 😈 Truth or Dare
+- ❌ Tic Tac Toe
+- 🎡 Spin Wheel
+- 🎲 Ludo
+
+---
+
+## 👤 Player Profiles
+
+- Multiple Players
+- Avatar Selection
+- Color Customization
+- XP Progression
+- Rank System
+- Match History
+
+---
+
+## 🏆 Progression
+
+- XP Rewards
+- Gold Ranking
+- Statistics
+- Daily Streak
+- Accuracy Tracking
+- Leaderboards
+- Achievement Ready
+
+---
+
+## 🎨 Premium UI/UX
+
+- Glassmorphism
+- Dark Theme
+- Floating Navigation
+- Responsive Design
+- Console-inspired UI
+- Smooth Micro-interactions
+- Framer Motion Animations
+
+---
+
+## ⚡ Performance
+
+- Fully Offline
+- Zero Backend
+- Local Storage Persistence
+- Fast Loading
+- Optimized React Components
 
 ---
 
@@ -45,203 +119,156 @@ The application features player profiles, XP progression, leaderboards, achievem
 
 ## 🏠 Home
 
-![Home](docs/home.png)
+<p align="center">
+<img src="docs/home.png" width="300">
+</p>
 
 ---
 
 ## 🎮 Games Library
 
-![Profile](docs/profile.png)
+<p align="center">
+<img src="docs/games.png" width="300">
+</p>
 
 ---
 
-## 👤 Profile
+## 👤 Player Profile
 
-![Profile](docs/screenshots/profile.png)
+<p align="center">
+<img src="docs/profile.png" width="300">
+</p>
 
 ---
 
 ## 🏆 Leaderboard
 
-![Leaderboard](docs/leaderboard.png)
+<p align="center">
+<img src="docs/leaderboard.png" width="300">
+</p>
 
 ---
 
 ## ⚙️ Settings
 
-
-![Settings](docs/settings.png)
+<p align="center">
+<img src="docs/settings.png" width="300">
+</p>
 
 ---
 
 ## 👥 Player Setup
 
-![Player Setup](docs/player-setup.png)
+<p align="center">
+<img src="docs/player-setup.png" width="300">
+</p>
 
 ---
 
-# 🎮 Available Games
+# 🎲 Games Included
 
 | Game | Players | Status |
-|-------|----------|---------|
-| 🧠 Quiz Battle | 1–4 | ✅ |
-| ⚡ Rapid Fire | 1–4 | ✅ |
-| 🎭 Charades | 2–4 | ✅ |
-| 😈 Truth or Dare | 2–4 | ✅ |
-| ❌⭕ Tic Tac Toe | 2 | ✅ |
-| 🎡 Spin Wheel | 1–4 | ✅ |
-| 🎲 Ludo | 2–4 | ✅ |
+|-------|----------|--------|
+| Quiz Battle | 1–4 | ✅ |
+| Rapid Fire | 1–4 | ✅ |
+| Truth or Dare | 2–4 | ✅ |
+| Charades | 2–4 | ✅ |
+| Tic Tac Toe | 2 | ✅ |
+| Spin Wheel | 1–4 | ✅ |
+| Ludo | 2–4 | ✅ |
 
 ---
 
-# ✨ Features
-
-## 🎮 Multiplayer Party Games
-
-- Quiz Battle
-- Rapid Fire
-- Charades
-- Truth or Dare
-- Ludo
-- Tic Tac Toe
-- Spin Wheel
-
----
-
-## 👤 Player System
-
-- Multiple Player Profiles
-- Avatar Selection
-- Color Customization
-- XP Progression
-- Player Levels
-- Gold Ranking System
-
----
-
-## 🏆 Progression
-
-- XP Rewards
-- Match History
-- Achievements
-- Daily Streaks
-- Statistics
-- Win Rate Tracking
-- Global Leaderboard
-
----
-
-## 🎨 Premium UI
-
-- Glassmorphism Design
-- Mobile First Layout
-- Responsive Design
-- Smooth Animations
-- Framer Motion
-- Premium Cards
-- Floating Navigation
-- Dark Theme
-
----
-
-## ⚡ Performance
-
-- Fully Offline
-- No Backend Required
-- Lightning Fast
-- Local Storage Persistence
-- Instant Loading
-- Optimized React Components
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- React 19
-- Vite
-- JavaScript (ES6+)
-
-## Styling
-
-- Tailwind CSS
-- CSS Variables
-- Glassmorphism
-
-## Animation
-
-- Framer Motion
-
-## Icons
-
-- Lucide React
-
-## Storage
-
-- Browser LocalStorage
-
-## Routing
-
-- React Router
-
----
-
-# 📂 Project Structure
+# 🏗 Architecture
 
 ```
 SquadPlay
 │
 ├── public/
+│
 ├── src/
 │
 ├── components/
-├── pages/
-├── games/
-│   ├── quiz/
-│   ├── rapid-fire/
-│   ├── ludo/
-│   ├── charades/
-│   ├── truth-or-dare/
-│   ├── tic-tac-toe/
-│   └── spin-wheel/
 │
-├── setup/
-├── engine/
+├── pages/
+│
+├── games/
+│   ├── Quiz Battle
+│   ├── Rapid Fire
+│   ├── Charades
+│   ├── Truth or Dare
+│   ├── Tic Tac Toe
+│   ├── Spin Wheel
+│   └── Ludo
+│
 ├── hooks/
-├── contexts/
+│
 ├── router/
 │
-├── docs/
-│   └── screenshots/
+├── contexts/
 │
-├── package.json
-└── README.md
+├── setup/
+│
+├── utils/
+│
+└── assets/
 ```
 
 ---
 
-# 🚀 Getting Started
+# 🛠 Tech Stack
 
-## Clone Repository
+### Frontend
+
+- React 19
+- Vite
+- JavaScript (ES6+)
+
+### Styling
+
+- Tailwind CSS
+- CSS Variables
+- Glassmorphism
+
+### Animations
+
+- Framer Motion
+
+### Routing
+
+- React Router
+
+### Icons
+
+- Lucide React
+
+### Storage
+
+- Browser LocalStorage
+
+---
+
+# 🚀 Installation
+
+Clone the repository
 
 ```bash
 git clone https://github.com/26yashu/squadplay.git
+```
 
+Move into the project
+
+```bash
 cd squadplay
 ```
 
----
-
-## Install Dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
----
-
-## Run Development Server
+Run development server
 
 ```bash
 npm run dev
@@ -255,15 +282,13 @@ http://localhost:5173
 
 ---
 
-## Build for Production
+# 📦 Production Build
 
 ```bash
 npm run build
 ```
 
----
-
-## Preview Production Build
+Preview Production
 
 ```bash
 npm run preview
@@ -271,48 +296,46 @@ npm run preview
 
 ---
 
-# 🌟 Highlights
+# 📈 Future Roadmap
 
-✅ Offline Multiplayer
-
-✅ Premium UI/UX
-
-✅ Glassmorphism Design
-
-✅ XP & Rank System
-
-✅ Local Match History
-
-✅ Achievements
-
-✅ Responsive Mobile Design
-
-✅ Beautiful Animations
-
-✅ React + Vite Architecture
+- 🌍 Online Multiplayer
+- 🔐 Firebase Authentication
+- ☁ Cloud Save
+- 👥 Friends System
+- 🎤 Voice Chat
+- 🎯 Daily Challenges
+- 🏆 Tournament Mode
+- 🤖 AI Opponents
+- 🎮 Game Marketplace
+- 📱 Progressive Web App (PWA)
 
 ---
 
-# 📈 Future Roadmap
+# 💡 Highlights
 
-- Online Multiplayer
-- Firebase Authentication
-- Cloud Save
-- Friends System
-- Voice Chat
-- Daily Challenges
-- Tournament Mode
-- AI Opponents
-- Multiplayer Rooms
-- PWA Support
+✅ Modern Mobile UI
+
+✅ Console Inspired Design
+
+✅ Offline Multiplayer
+
+✅ Glassmorphism
+
+✅ XP & Ranking System
+
+✅ Responsive Layout
+
+✅ Premium Animations
+
+✅ Scalable Architecture
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome!
+Contributions are always welcome!
 
-1. Fork the repository
+1. Fork this repository
 
 2. Create your feature branch
 
@@ -323,10 +346,10 @@ git checkout -b feature/amazing-feature
 3. Commit your changes
 
 ```bash
-git commit -m "Add amazing feature"
+git commit -m "Added amazing feature"
 ```
 
-4. Push to the branch
+4. Push your branch
 
 ```bash
 git push origin feature/amazing-feature
@@ -338,11 +361,18 @@ git push origin feature/amazing-feature
 
 # 👨‍💻 Developer
 
-## **Yashu**
+## Yashu
 
-Final Year B.Tech CSE (AI & ML)
+**B.Tech CSE (Artificial Intelligence & Machine Learning)**
 
-📍 India
+Passionate about
+
+- AI & Machine Learning
+- Full Stack Development
+- Modern UI/UX
+- React Applications
+- Computer Vision
+- Generative AI
 
 ### Connect
 
@@ -352,30 +382,30 @@ Final Year B.Tech CSE (AI & ML)
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+Distributed under the MIT License.
 
-See the LICENSE file for details.
+See `LICENSE` for more information.
 
 ---
 
 # ⭐ Support
 
-If you enjoyed this project,
+If you liked this project,
 
 ⭐ Star the repository
 
 🍴 Fork it
 
-🐛 Report Issues
+🐞 Report Issues
 
 💙 Share it with your friends
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🎮 Play. Compete. Level Up.
+## 🎮 Play • Compete • Level Up
 
-**Made with ❤️ using React, Vite & Framer Motion**
+### Made with ❤️ using React, Vite & Framer Motion
 
-</p>
+</div>
