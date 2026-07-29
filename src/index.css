@@ -24,12 +24,12 @@
 
 :root, [data-theme="dark"] {
   --theme-bg: #09090B;
-  --theme-surface: #18181B;
-  --theme-card: rgba(24, 24, 27, 0.7);
-  --theme-border: rgba(255, 255, 255, 0.1);
-  --theme-accent: #6366F1;
-  --theme-accent-hover: #4F46E5;
-  --theme-glow: rgba(99, 102, 241, 0.5);
+  --theme-surface: #141418;
+  --theme-card: rgba(255, 255, 255, 0.05);
+  --theme-border: rgba(255, 255, 255, 0.08);
+  --theme-accent: #7C5CFF;
+  --theme-accent-hover: #6040e0;
+  --theme-glow: rgba(124, 92, 255, 0.5);
   --theme-text: #FFFFFF;
   --theme-text-muted: #A1A1AA;
 }
@@ -155,10 +155,22 @@ h1, h2, h3, h4, h5, h6 {
 /* Glassmorphism Utilities */
 @utility glass-panel {
   background-color: var(--theme-card);
-  backdrop-filter: blur(12px);
+  backdrop-filter: blur(24px);
   border: 1px solid var(--theme-border);
 }
 
 @utility theme-text-muted {
   color: var(--theme-text-muted);
+}
+
+@utility rounded-card {
+  border-radius: 28px;
+}
+
+@utility rounded-btn {
+  border-radius: 22px;
+}
+
+@utility rounded-input {
+  border-radius: 18px;
 }

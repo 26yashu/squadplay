@@ -8,6 +8,8 @@ export function useQuizGame(session, players) {
   useEffect(() => {
     const manager = new GameManager(session, players);
     manager.onStateChange = (m) => {
+      if (gameManagerRef.current && gameManagerRef.current !== m) return;
+      
       setGameState({
         state: m.state,
         currentQuestion: m.currentQuestion,

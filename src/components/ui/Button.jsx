@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { Loader2 } from 'lucide-react';
 import { soundManager } from '../../audio/SoundManager';
 import { hapticsManager } from '../../haptics/HapticsManager';
+import { motionVariants } from '../../lib/motion';
 
 export const Button = memo(function Button({ 
   children, 
@@ -13,13 +14,15 @@ export const Button = memo(function Button({
   onClick,
   ...props 
 }) {
-  const baseClasses = 'relative rounded-full font-bold transition-all duration-300 flex items-center justify-center overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50';
+  const baseClasses = 'relative font-bold transition-colors duration-300 flex items-center justify-center overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 rounded-btn';
   
   const variants = {
-    primary: 'bg-gradient-to-r from-neon-indigo to-cosmic-purple text-white shadow-[0_0_20px_rgba(99,102,241,0.4)] hover:shadow-[0_0_30px_rgba(99,102,241,0.6)] py-3 px-8',
-    secondary: 'bg-white/10 backdrop-blur-md text-white border border-white/10 hover:bg-white/20 hover:border-white/20 py-3 px-8',
-    danger: 'bg-gradient-to-r from-crimson-error to-red-600 text-white shadow-[0_0_20px_rgba(220,38,38,0.4)] hover:shadow-[0_0_30px_rgba(220,38,38,0.6)] py-3 px-8',
-    icon: 'bg-white/10 backdrop-blur-md text-white p-3 border border-white/10 hover:bg-white/20 hover:border-white/20 rounded-full'
+    primary: 'bg-theme-accent text-white shadow-[0_0_20px_var(--theme-glow)] hover:shadow-[0_0_30px_var(--theme-glow)] py-3 px-8',
+    secondary: 'bg-white/10 backdrop-blur-2xl text-white border border-white/10 hover:bg-white/15 hover:border-white/20 py-3 px-8',
+    ghost: 'bg-transparent text-white hover:bg-white/10 py-3 px-8',
+    danger: 'bg-red-500 text-white shadow-[0_0_20px_rgba(239,68,68,0.4)] hover:shadow-[0_0_30px_rgba(239,68,68,0.6)] py-3 px-8',
+    icon: 'bg-white/10 backdrop-blur-2xl text-white p-3 border border-white/10 hover:bg-white/15 hover:border-white/20 !rounded-full',
+    floating: 'bg-theme-accent text-white shadow-lg hover:shadow-xl p-4 !rounded-full shadow-[0_0_20px_var(--theme-glow)]'
   };
 
   const isDisabled = disabled || isLoading;
@@ -33,14 +36,16 @@ export const Button = memo(function Button({
 
   return (
     <motion.button
-      whileTap={!isDisabled ? { scale: 0.94 } : {}}
-      whileHover={!isDisabled && variant !== 'icon' ? { scale: 1.02 } : {}}
-      className={`${baseClasses} ${variants[variant]} ${isDisabled ? 'opacity-50 cursor-not-allowed' : ''} ${className} group`}
+      variants={motionVariants.buttonPress}
+      initial="initial"
+      whileHover={!isDisabled && variant !== 'icon' ? "hover" : ""}
+      whileTap={!isDisabled ? "tap" : ""}
+      className={`${baseClasses} ${variants[variant]} ${isDisabled ? 'opacity-50 cursor-not-allowed grayscale-[0.5]' : ''} ${className} group`}
       disabled={isDisabled}
       onClick={handleClick}
       {...props}
     >
-      {!isDisabled && variant !== 'icon' && (
+      {!isDisabled && (variant === 'primary' || variant === 'danger' || variant === 'floating') && (
         <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite] pointer-events-none" />
       )}
       
@@ -48,7 +53,7 @@ export const Button = memo(function Button({
         {isLoading ? (
           <>
             <Loader2 size={18} className="animate-spin" />
-            <span className="opacity-80">Loading...</span>
+            {variant !== 'icon' && variant !== 'floating' && <span className="opacity-90">Loading...</span>}
           </>
         ) : (
           children

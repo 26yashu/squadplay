@@ -7,6 +7,7 @@ import { eventBus } from '../../events/eventBus';
 import { Settings, Bell } from 'lucide-react';
 import { NotificationCenter } from '../ui/NotificationCenter';
 import { notificationStorage } from '../../storage/notificationStorage';
+import { motionVariants } from '../../lib/motion';
 
 export function Header({ showBack = false, title = 'SquadPlay' }) {
   const navigate = useNavigate();
@@ -45,29 +46,29 @@ export function Header({ showBack = false, title = 'SquadPlay' }) {
 
   return (
     <motion.header 
-      initial={{ opacity: 0, y: -20 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.5, ease: 'easeOut' }}
-      className="flex flex-col gap-4 py-4 mb-6"
+      variants={motionVariants.fadeDown}
+      initial="initial"
+      animate="animate"
+      className="flex flex-col gap-5 py-4 mb-8"
     >
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between px-2">
         {showBack ? (
           <button onClick={() => navigate(-1)} className="text-white font-medium hover:text-theme-accent transition-colors flex items-center">
             <span className="mr-2 text-xl">&larr;</span> Back
           </button>
         ) : (
-          <div className="flex items-center gap-3">
-            <div className="relative">
-              <button onClick={() => navigate('/profile')} className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center border-2 border-theme-accent hover:bg-white/20 transition cursor-pointer overflow-hidden shadow-[0_0_15px_rgba(var(--theme-accent),0.5)]">
-                <img src={`https://api.dicebear.com/7.x/avataaars/svg?seed=${profile.avatar}`} alt="avatar" className="w-10 h-10" />
+          <div className="flex items-center gap-4">
+            <div className="relative group">
+              <button onClick={() => navigate('/profile')} className="w-14 h-14 rounded-full bg-theme-surface flex items-center justify-center border-2 border-theme-accent hover:border-white transition-all duration-300 cursor-pointer overflow-hidden shadow-[0_0_20px_var(--theme-glow)]">
+                <img src={`https://api.dicebear.com/7.x/avataaars/svg?seed=${profile.avatar}`} alt="avatar" className="w-12 h-12 group-hover:scale-110 transition-transform duration-300" />
               </button>
-              <div className="absolute -bottom-1 -right-1 bg-theme-accent text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full border border-black shadow-lg">
+              <div className="absolute -bottom-1 -right-1 bg-theme-accent text-white text-xs font-black w-6 h-6 flex items-center justify-center rounded-full border-[3px] border-theme-bg shadow-lg">
                 {xpData.level}
               </div>
             </div>
-            <div>
-              <p className="text-xs text-theme-text-muted font-medium mb-0.5">{greeting},</p>
-              <h1 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-theme-text to-theme-text-muted drop-shadow-md">
+            <div className="flex flex-col justify-center">
+              <p className="text-sm text-theme-text-muted font-bold tracking-wide uppercase mb-0.5">{greeting}</p>
+              <h1 className="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400 drop-shadow-sm">
                 {profile.name}
               </h1>
             </div>
@@ -75,35 +76,43 @@ export function Header({ showBack = false, title = 'SquadPlay' }) {
         )}
         
         {!showBack && (
-          <div className="flex gap-2 items-center z-50">
-            <button onClick={() => setIsNotifOpen(true)} className="w-10 h-10 rounded-full glass-panel flex items-center justify-center text-white/70 hover:text-white hover:bg-white/10 transition cursor-pointer relative group">
-              <Bell size={20} />
+          <div className="flex gap-3 items-center z-50">
+            <button onClick={() => setIsNotifOpen(true)} className="w-12 h-12 rounded-full glass-panel flex items-center justify-center text-white/80 hover:text-white hover:bg-white/10 hover:scale-105 transition-all cursor-pointer relative shadow-lg">
+              <Bell size={22} />
               {unreadCount > 0 && (
-                <div className="absolute top-2 right-2 w-2.5 h-2.5 bg-theme-accent rounded-full border border-black shadow-[0_0_8px_var(--theme-accent)]"></div>
+                <div className="absolute top-3 right-3 w-3 h-3 bg-theme-accent rounded-full border-2 border-theme-surface shadow-[0_0_10px_var(--theme-glow)] animate-pulse"></div>
               )}
             </button>
-            <button onClick={() => navigate('/settings')} className="w-10 h-10 rounded-full glass-panel flex items-center justify-center text-white/70 hover:text-white hover:bg-white/10 transition cursor-pointer">
-              <Settings size={20} />
+            <button onClick={() => navigate('/settings')} className="w-12 h-12 rounded-full glass-panel flex items-center justify-center text-white/80 hover:text-white hover:bg-white/10 hover:scale-105 transition-all cursor-pointer shadow-lg">
+              <Settings size={22} />
             </button>
           </div>
         )}
       </div>
 
       {!showBack && (
-        <div className="w-full glass-panel rounded-2xl p-3 flex flex-col gap-2">
-          <div className="flex justify-between items-center text-xs font-medium">
-            <span className="text-theme-text-muted">Rank: <span className="text-theme-accent font-bold">Gold III</span></span>
-            <span className="text-theme-text-muted">{xpData.xp} / {xpData.nextTierXp} XP</span>
-          </div>
-          <div className="w-full h-2 bg-black/40 rounded-full overflow-hidden border border-white/5">
-            <motion.div 
-              initial={{ width: 0 }}
-              animate={{ width: `${progressPercent}%` }}
-              transition={{ duration: 1, ease: "easeOut" }}
-              className="h-full bg-gradient-to-r from-theme-accent to-theme-accent-hover relative"
-            >
-              <div className="absolute inset-0 bg-white/20 w-full animate-shimmer" style={{ background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent)', backgroundSize: '200% 100%' }}></div>
-            </motion.div>
+        <div className="mx-2">
+          <div className="w-full glass-panel rounded-[24px] p-4 flex flex-col gap-3 shadow-xl border-t border-white/20">
+            <div className="flex justify-between items-end">
+              <div className="flex flex-col">
+                <span className="text-[10px] text-theme-text-muted font-bold uppercase tracking-widest mb-1">Current Rank</span>
+                <span className="text-theme-accent font-black text-lg drop-shadow-[0_0_8px_var(--theme-glow)]">Gold III</span>
+              </div>
+              <div className="flex flex-col items-end">
+                <span className="text-[10px] text-theme-text-muted font-bold uppercase tracking-widest mb-1">XP to next</span>
+                <span className="text-white font-bold">{xpData.xp} / {xpData.nextTierXp}</span>
+              </div>
+            </div>
+            <div className="w-full h-3 bg-black/50 rounded-full overflow-hidden border border-white/5 shadow-inner">
+              <motion.div 
+                initial={{ width: 0 }}
+                animate={{ width: `${progressPercent}%` }}
+                transition={{ duration: 1.5, ease: "easeOut", delay: 0.2 }}
+                className="h-full bg-gradient-to-r from-theme-accent to-theme-pink relative"
+              >
+                <div className="absolute inset-0 bg-white/30 w-full animate-[shimmer_2s_infinite]" style={{ background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.6), transparent)', backgroundSize: '200% 100%' }}></div>
+              </motion.div>
+            </div>
           </div>
         </div>
       )}

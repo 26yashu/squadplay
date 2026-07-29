@@ -9,7 +9,7 @@ export const quizBattle = {
   bgImage: '/images/quiz_battle_bg.jpg',
   glowClass: 'hover:shadow-[0_0_20px_rgba(99,102,241,0.3)]',
   available: true,
-  setupSteps: ['player', 'mode', 'category', 'ready'],
+  setupSteps: ['player', 'mode', 'category', 'difficulty', 'ready'],
   tags: ['Party', 'Brain'],
   xpRewards: { play: 10, win: 50, correctAnswer: 10, perfectGame: 100 },
   supportsCategory: true,

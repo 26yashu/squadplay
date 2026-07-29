@@ -35,7 +35,8 @@ export class DataLoader {
       if (folder === 'quiz') catFileName = 'general';
     }
     
-    let fetchPath = `/data/${folder}/${catFileName}.json`;
+    const baseUrl = typeof window !== 'undefined' ? window.location.origin : '';
+    let fetchPath = `${baseUrl}${import.meta.env.BASE_URL || '/'}data/${folder}/${catFileName}.json`.replace(/([^:]\/)\/+/g, "$1");
     let cacheKey = `${folder}-${catFileName}`;
 
     let data;

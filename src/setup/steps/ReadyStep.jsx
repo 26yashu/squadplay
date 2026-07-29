@@ -4,6 +4,7 @@ import { Button } from '../../components/ui/Button';
 import { usePlayers } from '../../hooks/usePlayers';
 import { useGameSession } from '../../hooks/useGameSession';
 import { useNavigate } from 'react-router-dom';
+import { motionVariants } from '../../lib/motion';
 
 export function ReadyStep({ game }) {
   const { players } = usePlayers();
@@ -21,56 +22,56 @@ export function ReadyStep({ game }) {
   };
 
   return (
-    <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="flex flex-col h-full flex-1">
+    <motion.div variants={motionVariants.fadeUp} initial="initial" animate="animate" className="flex flex-col h-full flex-1">
       <div className="flex-1 flex flex-col items-center justify-center text-center">
-        <div className={`mb-6 p-6 rounded-full bg-white/10 ${game?.accentColor}`}>
+        <div className={`mb-6 p-6 rounded-[28px] bg-theme-accent/20 border-2 border-theme-accent/40 shadow-[0_0_30px_rgba(var(--theme-glow),0.3)] text-theme-accent`}>
           {game?.icon && <game.icon size={64} />}
         </div>
         
-        <h3 className="text-3xl font-extrabold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">
+        <h3 className="text-4xl font-black mb-2 text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.3)]">
           Ready to Start!
         </h3>
-        <p className="text-gray-300 mb-8">{game?.title}</p>
+        <p className="text-theme-accent mb-8 font-bold text-lg uppercase tracking-widest">{game?.title}</p>
         
-        <Card className="w-full text-left bg-black/40 border-white/10 p-5 mb-8">
-          <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-            <span className="text-gray-400">Players</span>
-            <span className="font-bold">{players.length}</span>
+        <Card className="w-full text-left glass-panel border border-white/20 p-6 mb-8 rounded-[28px] shadow-2xl">
+          <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+            <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Players</span>
+            <span className="font-black text-white text-lg">{players.length}</span>
           </div>
           {game?.supportsMode && (
-            <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-              <span className="text-gray-400">Mode</span>
-              <span className="font-bold capitalize">{session?.mode}</span>
+            <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+              <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Mode</span>
+              <span className="font-black text-white text-lg capitalize">{session?.mode}</span>
             </div>
           )}
           {game?.supportsCategory && (
-            <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-              <span className="text-gray-400">Category</span>
-              <span className="font-bold capitalize">{session?.category}</span>
+            <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+              <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Category</span>
+              <span className="font-black text-white text-lg capitalize">{session?.category}</span>
             </div>
           )}
           {game?.supportsTimer && (
-            <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-              <span className="text-gray-400">Timer</span>
-              <span className="font-bold">{session?.timer}s</span>
+            <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+              <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Timer</span>
+              <span className="font-black text-white text-lg">{session?.timer}s</span>
             </div>
           )}
           {game?.supportsDifficulty && (
-            <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-              <span className="text-gray-400">Difficulty</span>
-              <span className="font-bold">{session?.difficulty}</span>
+            <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+              <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Difficulty</span>
+              <span className="font-black text-white text-lg capitalize">{session?.difficulty}</span>
             </div>
           )}
           {game?.supportsWheelOptions && (
-            <div className="flex justify-between border-b border-white/10 pb-3 mb-3">
-              <span className="text-gray-400">Options</span>
-              <span className="font-bold capitalize">{session?.wheelPreset}</span>
+            <div className="flex justify-between border-b border-white/10 pb-4 mb-4">
+              <span className="text-theme-text-muted font-bold text-sm uppercase tracking-wider">Options</span>
+              <span className="font-black text-white text-lg capitalize">{session?.wheelPreset}</span>
             </div>
           )}
         </Card>
       </div>
 
-      <Button onClick={() => navigate(`/game/${game?.id}`)} disabled={!isValid()} className="w-full py-4 text-lg">
+      <Button onClick={() => navigate(`/game/${game?.id}`)} disabled={!isValid()} className="w-full py-5 text-xl font-black bg-gradient-to-r from-theme-accent to-theme-pink hover:scale-[1.02] active:scale-95 shadow-[0_0_20px_rgba(var(--theme-glow),0.5)] border-0">
         Start Game
       </Button>
     </motion.div>
