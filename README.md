@@ -45,13 +45,13 @@ The application features player profiles, XP progression, leaderboards, achievem
 
 ## 🏠 Home
 
-![Home](docs/screenshots/home.png)
+![Home](docs/home.png)
 
 ---
 
 ## 🎮 Games Library
 
-![Games](docs/screenshots/games.png)
+![Profile](docs/profile.png)
 
 ---
 
@@ -63,19 +63,20 @@ The application features player profiles, XP progression, leaderboards, achievem
 
 ## 🏆 Leaderboard
 
-![Leaderboard](docs/screenshots/leaderboard.png)
+![Leaderboard](docs/leaderboard.png)
 
 ---
 
 ## ⚙️ Settings
 
-![Settings](docs/screenshots/settings.png)
+
+![Settings](docs/settings.png)
 
 ---
 
 ## 👥 Player Setup
 
-![Player Setup](docs/screenshots/player-setup.png)
+![Player Setup](docs/player-setup.png)
 
 ---
 
